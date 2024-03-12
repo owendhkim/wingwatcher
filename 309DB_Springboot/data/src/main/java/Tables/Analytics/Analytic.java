@@ -17,7 +17,6 @@ public class Analytic {
     @ApiModelProperty(notes="Total Number of Birds Classified Ever",name = "totalBirdsClassified",required = true,value = "480")
     private int totalBirdsClassified;
 
-
     public Analytic( String date, int birdsClassifiedOnDate, int totalBirdsClassified ) {
         this.date = date;
         this.birdsClassifiedOnDate = birdsClassifiedOnDate;

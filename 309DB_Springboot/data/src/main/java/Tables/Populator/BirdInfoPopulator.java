@@ -1,4 +1,5 @@
 package Tables.Populator;
+
 import Tables.BirdInfo.BirdInfo;
 import Tables.BirdInfo.BirdInfoRepository;
 import org.json.JSONObject;
@@ -9,7 +10,6 @@ import kong.unirest.HttpResponse;
 import kong.unirest.Unirest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-
 
 @Component
 public class BirdInfoPopulator {
@@ -23,12 +23,15 @@ public class BirdInfoPopulator {
         try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
             String line;
             while ((line = reader.readLine()) != null) {
-                String[] parts = line.split(":");
-                if (parts.length == 3) {
-                    String commonName = parts[2];
+                String[] parts = line.split(">");
+                if (parts.length == 5) {
+                    String callSound = parts[4];
+                    String rangeMap = parts[3];
                     String scientificName = parts[1];
+                    String commonName = parts[2];
 
-                    birdInfoList.add(new BirdInfo(commonName, scientificName, "", "", "", ""));
+
+                    birdInfoList.add(new BirdInfo(commonName, scientificName, "", "", rangeMap, callSound));
                 }
             }
         } catch (IOException e) {

@@ -1,7 +1,6 @@
 package Tables.BirdInfo;
 
 import java.util.List;
-
 import Tables.BirdTrackingInfo.BirdTrackingInfo;
 import Tables.BirdTrackingInfo.BirdTrackingInfoRepository;
 import org.springframework.beans.factory.annotation.Autowired;

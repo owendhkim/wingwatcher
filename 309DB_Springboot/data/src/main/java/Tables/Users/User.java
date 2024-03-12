@@ -2,13 +2,26 @@ package Tables.Users;
 
 import Tables.Analytics.Analytic;
 import Tables.BirdTrackingInfo.BirdTrackingInfo;
+import Tables.Tokens.Token;
 import io.swagger.annotations.ApiModelProperty;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import org.springframework.security.core.GrantedAuthority;
+import org.springframework.security.core.authority.SimpleGrantedAuthority;
+import org.springframework.security.core.userdetails.UserDetails;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 import javax.persistence.*;
 
 @Entity
-public class User {
+@Builder
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class User implements UserDetails {
 
     /*
      * The annotation @ID marks the field below as the primary key for the table created by springboot
@@ -26,6 +39,8 @@ public class User {
     //(0 is viewer, 1 is researcher, 2 is administrator)
     @ApiModelProperty(notes = "Privilege of the user(viewer=0,researcher=1,admin=2)",name="privilege",required=true)
     private int privilege;
+    @Enumerated(EnumType.STRING)
+    private Role role;
 
     /*
      * @OneToOne creates a relation between the current entity/table(Laptop) with the entity/table defined below it(User)
@@ -33,8 +48,12 @@ public class User {
      * in the database (more info : https://www.baeldung.com/jpa-cascade-types)
      * @JoinColumn defines the ownership of the foreign key i.e. the user table will have a field called laptop_id
      */
+
     @OneToMany(mappedBy="user")
     private List<BirdTrackingInfo> birdTrackingInfo;
+    @OneToMany(mappedBy="token")
+    private List<Token> tokens;
+
 
     @OneToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "analytic_id")
@@ -47,8 +66,6 @@ public class User {
         this.privilege = privilege;
     }
 
-    public User() {
-    }
 
     // =============================== Getters and Setters for each field ================================== //
 
@@ -61,16 +78,38 @@ public class User {
     }
 
     public String getUsername(){
-        return username;
+        return email;
+    }
+
+    @Override
+    public Collection<? extends GrantedAuthority> getAuthorities() {
+        return List.of(new SimpleGrantedAuthority(role.name()));
+    }
+    @Override
+    public boolean isAccountNonExpired() {
+        return true;
+    }
+
+    @Override
+    public boolean isAccountNonLocked() {
+        return true;
+    }
+
+    @Override
+    public boolean isCredentialsNonExpired() {
+        return true;
+    }
+
+    @Override
+    public boolean isEnabled() {
+        return true;
     }
 
     public void setUsername(String username){
         this.username = username;
     }
 
-    public String getEmail(){
-        return email;
-    }
+    public String getEmail(){ return email; }
 
     public void setEmail(String email){
         this.email = email;

@@ -35,9 +35,6 @@ public class BirdInfo {
      * @OneToOne creates a relation between the current entity/table(Laptop) with the entity/table defined below it(User)
      * @JsonIgnore is to assure that there is no infinite loop while returning either user/laptop objects (laptop->user->laptop->...)
      */
-//    @OneToOne
-//    @JsonIgnore
-//    private User user;
     @ManyToMany
     @JoinTable(
             name = "bird_info_tracking_info",
@@ -127,5 +124,6 @@ public class BirdInfo {
             this.birdTrackingInfo = new ArrayList<>();
         }
         this.birdTrackingInfo.add(birdTrackingInfo);
+//        birdTrackingInfo.setBirdInfo(this);
     }
 }

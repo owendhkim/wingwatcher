@@ -42,6 +42,8 @@ public class ClassificationServer {
         // server side log
         logger.info("[onOpen] " + username);
 
+        session.setMaxBinaryMessageBufferSize(1024 * 1024 * 10);
+
         // Handle the case of a duplicate username
         if (usernameSessionMap.containsKey(username)) {
             session.getBasicRemote().sendText("Username already exists");
@@ -91,7 +93,7 @@ public class ClassificationServer {
             ImageIO.write(image, "jpg", destinationFile);
 
             //Feeds image to neural network
-            NativeImageLoader loader = new NativeImageLoader(224, 224, 3);
+            NativeImageLoader loader = new NativeImageLoader(256, 256, 3);
             INDArray imageInput = loader.asMatrix(destinationFile);
 
             ImagePreProcessingScaler scaler = new ImagePreProcessingScaler(0,1);

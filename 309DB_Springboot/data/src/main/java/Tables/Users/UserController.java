@@ -11,6 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
+
 @Api(value = "UserController", description = "REST APIs related to User entity")
 @RestController
 public class UserController {

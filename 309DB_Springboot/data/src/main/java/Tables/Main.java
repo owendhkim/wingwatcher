@@ -1,5 +1,6 @@
 package Tables;
 
+import Tables.Analytics.Analytic;
 import Tables.Analytics.AnalyticRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -12,6 +13,7 @@ import Tables.BirdInfo.BirdInfoRepository;
 import Tables.Users.UserRepository;
 import Tables.BirdTrackingInfo.BirdTrackingInfoRepository;
 
+
 @SpringBootApplication(exclude = { SecurityAutoConfiguration.class })
 @EnableJpaRepositories
 @EnableWebSecurity
@@ -20,6 +22,8 @@ class Main {
     public static void main(String[] args) {
         SpringApplication.run(Main.class, args);
     }
+
+
 
     /**
      * 
@@ -35,6 +39,7 @@ class Main {
 
     CommandLineRunner initUser(UserRepository userRepository, BirdInfoRepository birdInfoRepository, BirdTrackingInfoRepository birdTrackingInfoRepository, AnalyticRepository analyticRepository) {
         return args -> {
+
         };
     }
 
