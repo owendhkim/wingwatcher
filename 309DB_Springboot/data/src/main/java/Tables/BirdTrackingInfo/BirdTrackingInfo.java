@@ -1,11 +1,6 @@
 package Tables.BirdTrackingInfo;
 
 import javax.persistence.*;
-
-import Tables.BirdInfo.BirdInfo;
-import com.fasterxml.jackson.annotation.JsonIgnore;
-
-import Tables.BirdTrackingInfo.BirdTrackingInfo;
 import Tables.Users.User;
 import io.swagger.annotations.ApiModelProperty;
 

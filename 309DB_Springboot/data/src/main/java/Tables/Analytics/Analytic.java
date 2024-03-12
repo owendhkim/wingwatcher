@@ -1,9 +1,6 @@
 package Tables.Analytics;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-import Tables.Users.User;
 import io.swagger.annotations.ApiModelProperty;
-
 import javax.persistence.*;
 
 @Entity
@@ -20,10 +17,6 @@ public class Analytic {
     @ApiModelProperty(notes="Total Number of Birds Classified Ever",name = "totalBirdsClassified",required = true,value = "480")
     private int totalBirdsClassified;
 
-
-//    @OneToOne(cascade = CascadeType.ALL)
-//    @JoinColumn(name = "user_id")
-//    private User user;
 
     public Analytic( String date, int birdsClassifiedOnDate, int totalBirdsClassified ) {
         this.date = date;

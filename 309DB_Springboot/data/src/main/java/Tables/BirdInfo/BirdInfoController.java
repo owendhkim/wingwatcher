@@ -4,7 +4,6 @@ import java.util.List;
 
 import Tables.BirdTrackingInfo.BirdTrackingInfo;
 import Tables.BirdTrackingInfo.BirdTrackingInfoRepository;
-import Tables.Users.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -18,9 +17,6 @@ import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
 
-/**
- * @author Brian Xicon
- */
 @Api(value = "BirdInfoController", description = "REST APIs related to BirdInfo entity")
 @RestController
 public class BirdInfoController {

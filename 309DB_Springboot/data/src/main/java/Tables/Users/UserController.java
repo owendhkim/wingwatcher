@@ -4,24 +4,12 @@ import java.util.List;
 
 import Tables.Analytics.Analytic;
 import Tables.Analytics.AnalyticRepository;
-import Tables.BirdInfo.BirdInfoRepository;
 import Tables.BirdTrackingInfo.BirdTrackingInfo;
 import Tables.BirdTrackingInfo.BirdTrackingInfoRepository;
 import io.swagger.annotations.*;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
-import org.springframework.security.crypto.factory.PasswordEncoderFactories;
-
-
-import Tables.BirdInfo.BirdInfo;
-
-/**
- * @author Brian Xicon
- */
 
 @Api(value = "UserController", description = "REST APIs related to User entity")
 @RestController
@@ -81,14 +69,6 @@ public class UserController {
         userRepository.save(newUser);
         return success;
     }
-//    @PostMapping(path = "/users")
-//    String createUser(@RequestBody User user){
-//        if (user == null)
-//            return failure;
-//        User newUser = new User(user.getUsername(),user.getEmail(),user.getPassword(),user.getPrivilege());
-//        userRepository.save(newUser);
-//        return success;
-//    }
 
     //Update an Existing User
     @ApiOperation(value = "Update an existing user", response = Iterable.class)

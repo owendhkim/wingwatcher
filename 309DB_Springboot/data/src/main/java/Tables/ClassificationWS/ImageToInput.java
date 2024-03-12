@@ -4,7 +4,6 @@ import org.datavec.image.loader.NativeImageLoader;
 import org.nd4j.linalg.api.ndarray.INDArray;
 import org.nd4j.linalg.dataset.api.preprocessor.DataNormalization;
 import org.nd4j.linalg.dataset.api.preprocessor.ImagePreProcessingScaler;
-
 import java.io.File;
 import java.io.IOException;
 

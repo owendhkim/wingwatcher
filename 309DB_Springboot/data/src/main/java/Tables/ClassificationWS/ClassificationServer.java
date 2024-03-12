@@ -1,6 +1,5 @@
 package Tables.ClassificationWS;
 
-import org.apache.tomcat.util.http.fileupload.IOUtils;
 import org.datavec.image.loader.NativeImageLoader;
 import org.deeplearning4j.nn.multilayer.MultiLayerNetwork;
 import org.deeplearning4j.util.ModelSerializer;
@@ -9,22 +8,17 @@ import org.nd4j.linalg.dataset.api.preprocessor.ImagePreProcessingScaler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
-
 import javax.websocket.*;
 import javax.websocket.server.PathParam;
 import javax.websocket.server.ServerEndpoint;
 import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.InputStream;
 import java.nio.ByteBuffer;
-import java.util.Base64;
 import java.util.Hashtable;
 import java.util.Map;
 import javax.imageio.ImageIO;
 import java.io.ByteArrayInputStream;
 import java.awt.image.BufferedImage;
-import java.io.IOException;
 
 @ServerEndpoint("/classification/{username}")
 @Component

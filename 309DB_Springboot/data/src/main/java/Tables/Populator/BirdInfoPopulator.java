@@ -10,12 +10,9 @@ import kong.unirest.Unirest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-/**
- * @author Brian Xicon
- */
+
 @Component
 public class BirdInfoPopulator {
-    //public BirdInfo( String scientificName, String name, String shortDesc, String image, String rangeMap, String callSound)
 
     @Autowired
     private BirdInfoRepository birdInfoRepository;

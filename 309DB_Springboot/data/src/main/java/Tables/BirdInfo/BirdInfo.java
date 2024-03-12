@@ -1,19 +1,10 @@
 package Tables.BirdInfo;
 
 import javax.persistence.*;
-
 import Tables.BirdTrackingInfo.BirdTrackingInfo;
-import com.fasterxml.jackson.annotation.JsonIgnore;
-
-import Tables.Users.User;
 import io.swagger.annotations.ApiModelProperty;
-
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * @author Brian Xicon
- */
 
 @Entity
 public class BirdInfo {
@@ -123,13 +114,6 @@ public class BirdInfo {
         this.callSound = callSound;
     }
 
-//    public User getUser(){
-//        return user;
-//    }
-//
-//    public void setUser(User user){
-//        this.user = user;
-//    }
     public List<BirdTrackingInfo> getBirdTrackingInfo() {
     return birdTrackingInfo;
 }
@@ -143,6 +127,5 @@ public class BirdInfo {
             this.birdTrackingInfo = new ArrayList<>();
         }
         this.birdTrackingInfo.add(birdTrackingInfo);
-//        birdTrackingInfo.setBirdInfo(this);
     }
 }

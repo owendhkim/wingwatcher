@@ -8,11 +8,6 @@ import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
 import java.util.List;
 
-/**
- *
- * @author Owen Kim
- *
- */
 @Api(value = "BirdTrackingInfoController", description = "REST APIs related to BirdTrackingInfo entity")
 @RestController
 public class BirdTrackingInfoController {

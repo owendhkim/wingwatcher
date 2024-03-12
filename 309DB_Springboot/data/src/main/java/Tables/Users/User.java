@@ -1,20 +1,11 @@
 package Tables.Users;
 
 import Tables.Analytics.Analytic;
-import Tables.BirdInfo.BirdInfo;
 import Tables.BirdTrackingInfo.BirdTrackingInfo;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import io.swagger.annotations.ApiModelProperty;
-import org.springframework.context.annotation.Primary;
-
 import java.util.ArrayList;
 import java.util.List;
 import javax.persistence.*;
-
-
-/**
- * @author Brian Xicon
- */
 
 @Entity
 public class User {
@@ -42,15 +33,9 @@ public class User {
      * in the database (more info : https://www.baeldung.com/jpa-cascade-types)
      * @JoinColumn defines the ownership of the foreign key i.e. the user table will have a field called laptop_id
      */
-//    @OneToOne(cascade = CascadeType.ALL)
-//    @JoinColumn(name = "birdInfo_id")
-//    private BirdInfo birdInfo;
-
     @OneToMany(mappedBy="user")
     private List<BirdTrackingInfo> birdTrackingInfo;
 
-//    @OneToOne(mappedBy = "user")
-//    private Analytic analytic;
     @OneToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "analytic_id")
     private Analytic analytic;
@@ -107,14 +92,6 @@ public class User {
         this.privilege = privilege;
     }
 
-//    public BirdInfo getBirdInfo(){
-//        return birdInfo;
-//    }
-//
-//    public void setBirdInfo(BirdInfo birdInfo){
-//        this.birdInfo = birdInfo;
-//    }
-
     public List<BirdTrackingInfo> getBirdTrackingInfo() {
         return birdTrackingInfo;
     }
@@ -128,7 +105,6 @@ public class User {
             this.birdTrackingInfo = new ArrayList<>();
         }
         this.birdTrackingInfo.add(birdTrackingInfo);
-//        birdTrackingInfo.setUser(this);
     }
 
     public void addAnalytic(Analytic analytic){
