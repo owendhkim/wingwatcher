@@ -1,0 +1,2028 @@
+C:\Users\xmenz\.jdks\corretto-20.0.2.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.1\lib\idea_rt.jar=62635:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\xmenz\Desktop\MS317\ms_317\Backend\BirdClassification10\target\classes;C:\Users\xmenz\.m2\repository\org\deeplearning4j\deeplearning4j-core\1.0.0-M2.1\deeplearning4j-core-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\com\sun\activation\javax.activation\1.2.0\javax.activation-1.2.0.jar;C:\Users\xmenz\.m2\repository\org\deeplearning4j\deeplearning4j-datasets\1.0.0-M2.1\deeplearning4j-datasets-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\deeplearning4j\resources\1.0.0-M2.1\resources-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\deeplearning4j\deeplearning4j-datavec-iterators\1.0.0-M2.1\deeplearning4j-datavec-iterators-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\deeplearning4j\deeplearning4j-modelimport\1.0.0-M2.1\deeplearning4j-modelimport-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\hdf5-platform\1.12.1-1.5.7\hdf5-platform-1.12.1-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\hdf5\1.12.1-1.5.7\hdf5-1.12.1-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\hdf5\1.12.1-1.5.7\hdf5-1.12.1-1.5.7-linux-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\hdf5\1.12.1-1.5.7\hdf5-1.12.1-1.5.7-linux-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\hdf5\1.12.1-1.5.7\hdf5-1.12.1-1.5.7-linux-armhf.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\hdf5\1.12.1-1.5.7\hdf5-1.12.1-1.5.7-linux-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\hdf5\1.12.1-1.5.7\hdf5-1.12.1-1.5.7-linux-ppc64le.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\hdf5\1.12.1-1.5.7\hdf5-1.12.1-1.5.7-macosx-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\hdf5\1.12.1-1.5.7\hdf5-1.12.1-1.5.7-windows-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\hdf5\1.12.1-1.5.7\hdf5-1.12.1-1.5.7-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\slf4j\slf4j-api\1.7.21\slf4j-api-1.7.21.jar;C:\Users\xmenz\.m2\repository\org\deeplearning4j\deeplearning4j-nn\1.0.0-M2.1\deeplearning4j-nn-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\deeplearning4j\deeplearning4j-utility-iterators\1.0.0-M2.1\deeplearning4j-utility-iterators-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native-api\1.0.0-M2.1\nd4j-native-api-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-common\1.0.0-M2.1\nd4j-common-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\nd4j\guava\1.0.0-M2.1\guava-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\it\unimi\dsi\fastutil\6.5.7\fastutil-6.5.7.jar;C:\Users\xmenz\.m2\repository\org\apache\commons\commons-math3\3.5\commons-math3-3.5.jar;C:\Users\xmenz\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\xmenz\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-api\1.0.0-M2.1\nd4j-api-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\com\jakewharton\byteunits\byteunits\0.9.1\byteunits-0.9.1.jar;C:\Users\xmenz\.m2\repository\org\apache\commons\commons-collections4\4.1\commons-collections4-4.1.jar;C:\Users\xmenz\.m2\repository\com\google\flatbuffers\flatbuffers-java\1.12.0\flatbuffers-java-1.12.0.jar;C:\Users\xmenz\.m2\repository\org\nd4j\protobuf\1.0.0-M2.1\protobuf-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\commons-net\commons-net\3.1\commons-net-3.1.jar;C:\Users\xmenz\.m2\repository\net\ericaro\neoitertools\1.0.0\neoitertools-1.0.0.jar;C:\Users\xmenz\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\xmenz\.m2\repository\org\nd4j\jackson\1.0.0-M2.1\jackson-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\datavec\datavec-api\1.0.0-M2.1\datavec-api-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\xmenz\.m2\repository\joda-time\joda-time\2.2\joda-time-2.2.jar;C:\Users\xmenz\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\xmenz\.m2\repository\com\clearspring\analytics\stream\2.9.8\stream-2.9.8.jar;C:\Users\xmenz\.m2\repository\net\sf\opencsv\opencsv\2.3\opencsv-2.3.jar;C:\Users\xmenz\.m2\repository\com\tdunning\t-digest\3.2\t-digest-3.2.jar;C:\Users\xmenz\.m2\repository\org\datavec\datavec-data-image\1.0.0-M2.1\datavec-data-image-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\com\github\jai-imageio\jai-imageio-core\1.3.0\jai-imageio-core-1.3.0.jar;C:\Users\xmenz\.m2\repository\com\twelvemonkeys\imageio\imageio-jpeg\3.1.1\imageio-jpeg-3.1.1.jar;C:\Users\xmenz\.m2\repository\com\twelvemonkeys\imageio\imageio-core\3.1.1\imageio-core-3.1.1.jar;C:\Users\xmenz\.m2\repository\com\twelvemonkeys\imageio\imageio-metadata\3.1.1\imageio-metadata-3.1.1.jar;C:\Users\xmenz\.m2\repository\com\twelvemonkeys\common\common-lang\3.1.1\common-lang-3.1.1.jar;C:\Users\xmenz\.m2\repository\com\twelvemonkeys\common\common-io\3.1.1\common-io-3.1.1.jar;C:\Users\xmenz\.m2\repository\com\twelvemonkeys\common\common-image\3.1.1\common-image-3.1.1.jar;C:\Users\xmenz\.m2\repository\com\twelvemonkeys\imageio\imageio-tiff\3.1.1\imageio-tiff-3.1.1.jar;C:\Users\xmenz\.m2\repository\com\twelvemonkeys\imageio\imageio-psd\3.1.1\imageio-psd-3.1.1.jar;C:\Users\xmenz\.m2\repository\com\twelvemonkeys\imageio\imageio-bmp\3.1.1\imageio-bmp-3.1.1.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacv\1.5.7\javacv-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\flycapture\2.13.3.31-1.5.7\flycapture-2.13.3.31-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\libdc1394\2.2.6-1.5.7\libdc1394-2.2.6-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\libfreenect\0.5.7-1.5.7\libfreenect-0.5.7-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\libfreenect2\0.2.0-1.5.7\libfreenect2-0.2.0-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\librealsense\1.12.4-1.5.7\librealsense-1.12.4-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\librealsense2\2.50.0-1.5.7\librealsense2-2.50.0-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\videoinput\0.200-1.5.7\videoinput-0.200-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\artoolkitplus\2.3.1-1.5.7\artoolkitplus-2.3.1-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\flandmark\1.07-1.5.7\flandmark-1.07-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\tesseract\5.0.1-1.5.7\tesseract-5.0.1-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv-platform\4.5.5-1.5.7\opencv-platform-4.5.5-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-android-arm.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-android-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-android-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-android-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-ios-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-ios-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-linux-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-linux-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-linux-armhf.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-linux-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-linux-ppc64le.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-macosx-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-macosx-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-windows-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\opencv\4.5.5-1.5.7\opencv-4.5.5-1.5.7-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica-platform\1.82.0-1.5.7\leptonica-platform-1.82.0-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-android-arm.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-android-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-android-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-android-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-linux-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-linux-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-linux-armhf.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-linux-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-linux-ppc64le.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-macosx-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-windows-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\leptonica\1.82.0-1.5.7\leptonica-1.82.0-1.5.7-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg-platform\5.0-1.5.7\ffmpeg-platform-5.0-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-android-arm.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-android-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-android-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-android-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-linux-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-linux-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-linux-armhf.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-linux-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-linux-ppc64le.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-macosx-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-macosx-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-windows-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\ffmpeg\5.0-1.5.7\ffmpeg-5.0-1.5.7-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\deeplearning4j\deeplearning4j-ui-components\1.0.0-M2.1\deeplearning4j-ui-components-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\com\github\oshi\oshi-json\3.4.2\oshi-json-3.4.2.jar;C:\Users\xmenz\.m2\repository\org\glassfish\javax.json\1.0.4\javax.json-1.0.4.jar;C:\Users\xmenz\.m2\repository\com\github\oshi\oshi-core\3.4.2\oshi-core-3.4.2.jar;C:\Users\xmenz\.m2\repository\net\java\dev\jna\jna-platform\4.3.0\jna-platform-4.3.0.jar;C:\Users\xmenz\.m2\repository\net\java\dev\jna\jna\4.3.0\jna-4.3.0.jar;C:\Users\xmenz\.m2\repository\org\threeten\threetenbp\1.3.3\threetenbp-1.3.3.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native-platform\1.0.0-M2.1\nd4j-native-platform-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas-platform\0.3.19-1.5.7\openblas-platform-0.3.19-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp-platform\1.5.7\javacpp-platform-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-android-arm.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-android-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-android-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-android-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-ios-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-ios-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-linux-armhf.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-linux-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-linux-ppc64le.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-linux-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-linux-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-macosx-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-macosx-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-windows-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-android-arm.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-android-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-android-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-android-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-ios-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-ios-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-linux-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-linux-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-linux-armhf.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-linux-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-linux-ppc64le.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-macosx-arm64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-macosx-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-windows-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.19-1.5.7\openblas-0.3.19-1.5.7-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\mkl-platform\2022.0-1.5.7\mkl-platform-2022.0-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\mkl\2022.0-1.5.7\mkl-2022.0-1.5.7.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\mkl\2022.0-1.5.7\mkl-2022.0-1.5.7-linux-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\mkl\2022.0-1.5.7\mkl-2022.0-1.5.7-linux-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\mkl\2022.0-1.5.7\mkl-2022.0-1.5.7-macosx-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\mkl\2022.0-1.5.7\mkl-2022.0-1.5.7-windows-x86.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\mkl\2022.0-1.5.7\mkl-2022.0-1.5.7-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native\1.0.0-M2.1\nd4j-native-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native-preset\1.0.0-M2.1\nd4j-native-preset-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-presets-common\1.0.0-M2.1\nd4j-presets-common-1.0.0-M2.1.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native-preset\1.0.0-M2.1\nd4j-native-preset-1.0.0-M2.1-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.7\javacpp-1.5.7-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native\1.0.0-M2.1\nd4j-native-1.0.0-M2.1-android-arm.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native\1.0.0-M2.1\nd4j-native-1.0.0-M2.1-android-arm64.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native\1.0.0-M2.1\nd4j-native-1.0.0-M2.1-android-x86.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native\1.0.0-M2.1\nd4j-native-1.0.0-M2.1-android-x86_64.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native\1.0.0-M2.1\nd4j-native-1.0.0-M2.1-linux-x86_64.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native\1.0.0-M2.1\nd4j-native-1.0.0-M2.1-macosx-x86_64.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native\1.0.0-M2.1\nd4j-native-1.0.0-M2.1-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-native\1.0.0-M2.1\nd4j-native-1.0.0-M2.1-linux-armhf.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-cuda-11.0-platform\1.0.0-M1.1\nd4j-cuda-11.0-platform-1.0.0-M1.1.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\cuda-platform\11.0-8.0-1.5.4\cuda-platform-11.0-8.0-1.5.4.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\cuda\11.0-8.0-1.5.4\cuda-11.0-8.0-1.5.4.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\cuda\11.0-8.0-1.5.4\cuda-11.0-8.0-1.5.4-linux-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\cuda\11.0-8.0-1.5.4\cuda-11.0-8.0-1.5.4-linux-ppc64le.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\cuda\11.0-8.0-1.5.4\cuda-11.0-8.0-1.5.4-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-cuda-11.0\1.0.0-M1.1\nd4j-cuda-11.0-1.0.0-M1.1.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-cuda-11.0-preset\1.0.0-M1.1\nd4j-cuda-11.0-preset-1.0.0-M1.1.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-cuda-11.0-preset\1.0.0-M1.1\nd4j-cuda-11.0-preset-1.0.0-M1.1-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-cuda-11.0\1.0.0-M1.1\nd4j-cuda-11.0-1.0.0-M1.1-linux-x86_64.jar;C:\Users\xmenz\.m2\repository\org\nd4j\nd4j-cuda-11.0\1.0.0-M1.1\nd4j-cuda-11.0-1.0.0-M1.1-windows-x86_64.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\javacpp\1.5.8\javacpp-1.5.8.jar;C:\Users\xmenz\.m2\repository\org\bytedeco\openblas\0.3.21-1.5.8\openblas-0.3.21-1.5.8.jar BirdClassification
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Warning: Versions of org.bytedeco:javacpp:1.5.7 and org.bytedeco:cuda:11.0-8.0-1.5.4 do not match.
+java.lang.UnsatisfiedLinkError: C:\Users\xmenz\.javacpp\cache\cuda-11.0-8.0-1.5.4-windows-x86_64.jar\org\bytedeco\cuda\windows-x86_64\jnicublas.dll: The specified procedure could not be found
+	at java.base/jdk.internal.loader.NativeLibraries.load(Native Method)
+	at java.base/jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:331)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:197)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:139)
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2404)
+	at java.base/java.lang.Runtime.load0(Runtime.java:817)
+	at java.base/java.lang.System.load(System.java:2015)
+	at org.bytedeco.javacpp.Loader.loadLibrary(Loader.java:1772)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1416)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1227)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1203)
+	at org.bytedeco.cuda.global.cublas.<clinit>(cublas.java:16)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:496)
+	at java.base/java.lang.Class.forName(Class.java:475)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1282)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1227)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1219)
+	at org.nd4j.linalg.jcublas.JCublasBackend.canRun(JCublasBackend.java:71)
+	at org.nd4j.linalg.jcublas.JCublasBackend.isAvailable(JCublasBackend.java:52)
+	at org.nd4j.linalg.factory.Nd4jBackend.load(Nd4jBackend.java:175)
+	at org.nd4j.linalg.factory.Nd4j.initContext(Nd4j.java:5062)
+	at org.nd4j.linalg.factory.Nd4j.<clinit>(Nd4j.java:284)
+	at org.datavec.image.transform.PipelineImageTransform.<init>(PipelineImageTransform.java:57)
+	at org.datavec.image.transform.PipelineImageTransform.<init>(PipelineImageTransform.java:44)
+	at org.datavec.image.transform.MultiImageTransform.<init>(MultiImageTransform.java:40)
+	at BirdClassification.main(BirdClassification.java:61)
+Training Neural Net
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 1 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.1695
+ Precision:       0.1068	(5 classes excluded from average)
+ Recall:          0.1680
+ F1 Score:        0.1371	(5 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 5 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 1, 2, 3, 6]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  0  0  0  0 42  3  0  7  0  0 | 0 = American_Crow
+  0  0  0  0 31  0  0 22  0  0 | 1 = American_Goldfinch
+  0  0  0  0 23  2  0 28  0  0 | 2 = American_Robin
+  0  0  0  0 37  2  0 13  1  0 | 3 = Bald_Eagle
+  0  0  0  0 47  2  0  4  0  0 | 4 = Blue_Jay
+  0  0  0  0 42  2  0  8  0  0 | 5 = Canada_Goose
+  0  0  0  0 44  0  0  7  0  1 | 6 = Great_Blue_Heron
+  0  0  0  0 13  0  0 40  0  0 | 7 = Northern_Cardinal
+  0  0  0  0 39  3  0 10  0  0 | 8 = Red_tailed_Hawk
+  0  0  0  0 42  1  0  9  0  0 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 1 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.1467
+ Precision:       0.4676	(5 classes excluded from average)
+ Recall:          0.1496
+ F1 Score:        0.1388	(5 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 5 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 1, 2, 3, 6]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  0  0  0  0 22  0  0  1  0  0 | 0 = American_Crow
+  0  0  0  0 15  0  0  7  0  0 | 1 = American_Goldfinch
+  0  0  0  0 10  2  0 10  0  0 | 2 = American_Robin
+  0  0  0  0 18  1  0  3  0  0 | 3 = Bald_Eagle
+  0  0  0  0 17  1  0  4  0  0 | 4 = Blue_Jay
+  0  0  0  0 17  0  0  6  0  0 | 5 = Canada_Goose
+  0  0  0  0 17  0  0  6  0  0 | 6 = Great_Blue_Heron
+  0  0  0  0  8  0  0 14  0  0 | 7 = Northern_Cardinal
+  0  0  0  0 15  1  0  6  1  0 | 8 = Red_tailed_Hawk
+  0  0  0  0 18  0  0  4  0  1 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 2 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.1543
+ Precision:       0.1369	(5 classes excluded from average)
+ Recall:          0.1534
+ F1 Score:        0.1580	(5 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 5 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 1, 2, 5, 6]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  0  0  0  0 16  0  0 30  6  0 | 0 = American_Crow
+  0  0  0  0  2  0  0 48  3  0 | 1 = American_Goldfinch
+  0  0  0  0  5  0  0 47  1  0 | 2 = American_Robin
+  0  0  0  0  5  0  0 39  9  0 | 3 = Bald_Eagle
+  0  0  0  2 16  0  0 33  2  0 | 4 = Blue_Jay
+  0  0  0  0  6  0  0 41  5  0 | 5 = Canada_Goose
+  0  0  0  0  5  0  0 43  4  0 | 6 = Great_Blue_Heron
+  0  0  0  1  2  0  0 50  0  0 | 7 = Northern_Cardinal
+  0  0  0  0  1  0  0 35 15  1 | 8 = Red_tailed_Hawk
+  0  0  0  0  6  0  0 43  3  0 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 2 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.1689
+ Precision:       0.2143	(6 classes excluded from average)
+ Recall:          0.1713
+ F1 Score:        0.2397	(6 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 6 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 1, 2, 5, 6, 9]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  0  0  0  0  2  0  0 15  6  0 | 0 = American_Crow
+  0  0  0  0  1  0  0 21  0  0 | 1 = American_Goldfinch
+  0  0  0  0  4  0  0 18  0  0 | 2 = American_Robin
+  0  0  0  0  1  0  0 18  3  0 | 3 = Bald_Eagle
+  0  0  0  0 10  0  0 12  0  0 | 4 = Blue_Jay
+  0  0  0  0  0  0  0 21  2  0 | 5 = Canada_Goose
+  0  0  0  0  0  0  0 21  2  0 | 6 = Great_Blue_Heron
+  0  0  0  0  0  0  0 21  1  0 | 7 = Northern_Cardinal
+  0  0  0  1  1  0  0 14  7  0 | 8 = Red_tailed_Hawk
+  0  0  0  0  4  0  0 17  2  0 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 3 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.1390
+ Precision:       0.1344	(4 classes excluded from average)
+ Recall:          0.1384
+ F1 Score:        0.1079	(4 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 4 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 1, 3, 5]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  0  0  5  0  4  0  0 27 16  0 | 0 = American_Crow
+  0  0  0  0  1  0  0 42  8  2 | 1 = American_Goldfinch
+  0  0  1  0  2  0  0 47  3  0 | 2 = American_Robin
+  0  0  2  0  2  0  0 36 13  0 | 3 = Bald_Eagle
+  0  0  1  0  5  0  1 28 16  2 | 4 = Blue_Jay
+  0  0  1  0  0  0  0 42  8  1 | 5 = Canada_Goose
+  0  0  1  0  2  0  0 38 11  0 | 6 = Great_Blue_Heron
+  0  0  0  0  0  0  0 49  4  0 | 7 = Northern_Cardinal
+  0  0  0  0  0  0  0 35 17  0 | 8 = Red_tailed_Hawk
+  0  0  3  0  2  0  0 37  9  1 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 3 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.1644
+ Precision:       0.5330	(5 classes excluded from average)
+ Recall:          0.1660
+ F1 Score:        0.2038	(5 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 5 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 1, 3, 5, 6]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  0  0  0  0  0  0  0 11 12  0 | 0 = American_Crow
+  0  0  0  0  0  0  0 22  0  0 | 1 = American_Goldfinch
+  0  0  3  0  0  0  0 16  3  0 | 2 = American_Robin
+  0  0  1  0  0  0  0 16  5  0 | 3 = Bald_Eagle
+  0  0  0  0  3  0  0 12  7  0 | 4 = Blue_Jay
+  0  0  0  0  1  0  0 18  4  0 | 5 = Canada_Goose
+  0  0  1  0  0  0  0 18  4  0 | 6 = Great_Blue_Heron
+  0  0  0  0  0  0  0 20  2  0 | 7 = Northern_Cardinal
+  0  0  0  0  0  0  0 13 10  0 | 8 = Red_tailed_Hawk
+  0  0  0  0  0  0  0 17  5  1 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 4 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.1524
+ Precision:       0.1162	(4 classes excluded from average)
+ Recall:          0.1516
+ F1 Score:        0.1177	(4 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 4 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 1, 3, 5]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  0  0 26  0  0  0  0 10 16  0 | 0 = American_Crow
+  0  0 18  0  0  0  0 27  7  1 | 1 = American_Goldfinch
+  0  0 15  0  1  0  1 34  2  0 | 2 = American_Robin
+  0  0 15  0  0  0  0 25 13  0 | 3 = Bald_Eagle
+  0  0 21  0  0  0  2 15 13  2 | 4 = Blue_Jay
+  0  0 17  0  0  0  0 26  9  0 | 5 = Canada_Goose
+  0  0 21  0  0  0  0 19 12  0 | 6 = Great_Blue_Heron
+  0  0  3  0  0  0  0 47  3  0 | 7 = Northern_Cardinal
+  0  0  7  0  0  0  0 28 17  0 | 8 = Red_tailed_Hawk
+  0  0 25  0  0  0  0 17  9  1 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 4 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.1556
+ Precision:       0.0929	(5 classes excluded from average)
+ Recall:          0.1573
+ F1 Score:        0.1399	(5 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 5 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 1, 3, 5, 6]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  0  0  5  0  0  0  0  5 12  1 | 0 = American_Crow
+  0  0  7  0  0  0  0 15  0  0 | 1 = American_Goldfinch
+  0  0  7  0  0  0  0 13  2  0 | 2 = American_Robin
+  0  0  7  0  1  0  0  8  6  0 | 3 = Bald_Eagle
+  0  0 11  0  0  0  0  3  7  1 | 4 = Blue_Jay
+  0  0  6  0  0  0  0 13  4  0 | 5 = Canada_Goose
+  0  0  9  0  0  0  0 10  4  0 | 6 = Great_Blue_Heron
+  0  0  1  0  0  0  0 19  2  0 | 7 = Northern_Cardinal
+  0  0  2  0  0  0  0 12  9  0 | 8 = Red_tailed_Hawk
+  0  0  5  0  0  0  0 13  5  0 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 5 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.2019
+ Precision:       0.1872	(2 classes excluded from average)
+ Recall:          0.2007
+ F1 Score:        0.1720	(2 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 2 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 3]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  0  1 31  0  1  0  4  2 12  1 | 0 = American_Crow
+  0  7 28  0  2  0  0 11  5  0 | 1 = American_Goldfinch
+  0  1 31  0  1  0  0 18  2  0 | 2 = American_Robin
+  0  2 27  0  1  1  0 11 11  0 | 3 = Bald_Eagle
+  0  1 29  0  7  0  5  3  8  0 | 4 = Blue_Jay
+  0  2 26  0  1  0  3 15  5  0 | 5 = Canada_Goose
+  0  1 27  0  3  0  3 10  8  0 | 6 = Great_Blue_Heron
+  0  1  9  0  0  0  0 41  2  0 | 7 = Northern_Cardinal
+  0  0 18  0  1  0  0 16 17  0 | 8 = Red_tailed_Hawk
+  0  3 30  0  6  0  3  5  5  0 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 5 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.1911
+ Precision:       0.1538	(3 classes excluded from average)
+ Recall:          0.1937
+ F1 Score:        0.1802	(3 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 3 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 3, 9]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  0  1  7  0  4  0  0  3  8  0 | 0 = American_Crow
+  0  3 15  0  0  0  0  4  0  0 | 1 = American_Goldfinch
+  0  0 13  0  0  0  0  8  1  0 | 2 = American_Robin
+  0  2  8  0  2  0  0  6  4  0 | 3 = Bald_Eagle
+  0  1 13  0  4  0  0  0  4  0 | 4 = Blue_Jay
+  0  1 11  0  1  0  0  8  2  0 | 5 = Canada_Goose
+  0  2 12  0  4  0  0  2  3  0 | 6 = Great_Blue_Heron
+  0  2  5  0  0  0  0 14  1  0 | 7 = Northern_Cardinal
+  0  2  7  0  0  0  0  5  9  0 | 8 = Red_tailed_Hawk
+  0  2 11  0  2  1  2  2  3  0 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 6 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.2171
+ Precision:       0.2291
+ Recall:          0.2165
+ F1 Score:        0.1751
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  2  0  8  1 13  5  4  0 15  4 | 0 = American_Crow
+  0  5  9  0  7  2  0 19  8  3 | 1 = American_Goldfinch
+  0  1 12  2  1  0  4 28  2  3 | 2 = American_Robin
+  1  0  6  3  3  2  6 13 13  6 | 3 = Bald_Eagle
+  3  0  5  1  8  4  7  5 11  9 | 4 = Blue_Jay
+  1  1 10  2  6  0  6 17  7  2 | 5 = Canada_Goose
+  0  2  2  1  4  4 10  8 12  9 | 6 = Great_Blue_Heron
+  0  0  2  0  1  0  1 46  3  0 | 7 = Northern_Cardinal
+  0  1  6  0  1  2  1 20 17  4 | 8 = Red_tailed_Hawk
+  0  0  8  1  4  6  8  4 10 11 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 6 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.2533
+ Precision:       0.2530
+ Recall:          0.2543
+ F1 Score:        0.2170
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  1  0  1  2  3  1  0  1 11  3 | 0 = American_Crow
+  0  6  2  0  1  1  1 10  0  1 | 1 = American_Goldfinch
+  0  0  6  1  2  1  0 11  1  0 | 2 = American_Robin
+  1  0  4  2  2  2  0  5  5  1 | 3 = Bald_Eagle
+  3  0  4  0  1  0  4  0  5  5 | 4 = Blue_Jay
+  0  1  3  1  1  0  2  7  5  3 | 5 = Canada_Goose
+  0  0  4  1  1  1  4  2  4  6 | 6 = Great_Blue_Heron
+  1  1  0  0  0  0  0 18  1  1 | 7 = Northern_Cardinal
+  0  0  2  0  0  1  3  6 10  1 | 8 = Red_tailed_Hawk
+  2  0  3  0  1  2  1  1  4  9 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 7 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.2419
+ Precision:       0.2738	(1 class excluded from average)
+ Recall:          0.2416
+ F1 Score:        0.2430	(1 class excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 1 class was never predicted by the model and was excluded from average precision
+Classes excluded from average precision: [3]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  5  0  4  0 17  1  2  0  4 19 | 0 = American_Crow
+  1  6 13  0 13  4  0  1  3 12 | 1 = American_Goldfinch
+  1  0 19  0  7  2  3  9  1 11 | 2 = American_Robin
+  5  0  5  0  6  2  9  3  8 15 | 3 = Bald_Eagle
+  4  0  1  0 14  0  4  2  1 27 | 4 = Blue_Jay
+  1  0  8  0  9  5  8  6  5 10 | 5 = Canada_Goose
+  5  1  3  0  9  2  7  2  1 22 | 6 = Great_Blue_Heron
+  1  4  5  0  1  2  2 34  0  4 | 7 = Northern_Cardinal
+  3  0 11  0  3  9  1  2 12 11 | 8 = Red_tailed_Hawk
+  1  1  2  0  5  4  8  3  3 25 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 7 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.2622
+ Precision:       0.3288	(1 class excluded from average)
+ Recall:          0.2621
+ F1 Score:        0.2797	(1 class excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 1 class was never predicted by the model and was excluded from average precision
+Classes excluded from average precision: [3]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  5  0  0  0  4  0  0  0  5  9 | 0 = American_Crow
+  0  7  4  0  6  2  0  0  0  3 | 1 = American_Goldfinch
+  1  0  6  0  5  1  2  3  0  4 | 2 = American_Robin
+  1  0  2  0  3  3  1  0  3  9 | 3 = Bald_Eagle
+  2  2  1  0  4  0  2  0  0 11 | 4 = Blue_Jay
+  2  0  3  0  1  2  3  1  1 10 | 5 = Canada_Goose
+  0  1  2  0  2  1  3  0  2 12 | 6 = Great_Blue_Heron
+  0  0  5  0  0  1  0 11  1  4 | 7 = Northern_Cardinal
+  2  0  4  0  1  2  0  2  6  6 | 8 = Red_tailed_Hawk
+  0  0  2  0  2  0  2  0  2 15 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 8 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.2152
+ Precision:       0.3279	(1 class excluded from average)
+ Recall:          0.2156
+ F1 Score:        0.2073	(1 class excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+Warning: 1 class was never predicted by the model and was excluded from average precision
+Classes excluded from average precision: [3]
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 11  0  0  0  7  0 18  0  4 12 | 0 = American_Crow
+  3  2  4  0  7  0 13  1  7 16 | 1 = American_Goldfinch
+  1  0  4  0  3  1 18  9  5 12 | 2 = American_Robin
+  7  0  1  0  2  1 23  1  9  9 | 3 = Bald_Eagle
+ 10  0  0  0  7  0 17  1  1 17 | 4 = Blue_Jay
+  4  0  0  0  5  1 21  4  5 12 | 5 = Canada_Goose
+  9  0  0  0  3  0 23  2  3 12 | 6 = Great_Blue_Heron
+  2  0  3  0  2  1  6 33  0  6 | 7 = Northern_Cardinal
+  5  0  1  0  4  2  8  4 15 13 | 8 = Red_tailed_Hawk
+  3  0  0  0  3  1 23  2  3 17 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 8 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.2533
+ Precision:       0.4183
+ Recall:          0.2514
+ F1 Score:        0.2312
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+ 0 1 2 3 4 5 6 7 8 9
+---------------------
+10 0 0 0 3 0 3 0 2 5 | 0 = American_Crow
+ 0 2 2 0 2 1 8 1 2 4 | 1 = American_Goldfinch
+ 2 0 0 0 3 1 8 3 1 4 | 2 = American_Robin
+ 4 0 0 1 2 1 7 0 2 5 | 3 = Bald_Eagle
+ 7 0 0 0 5 0 7 0 0 3 | 4 = Blue_Jay
+ 3 0 1 0 1 2 7 0 2 7 | 5 = Canada_Goose
+ 5 0 1 0 2 010 0 0 5 | 6 = Great_Blue_Heron
+ 1 0 2 0 0 0 210 2 5 | 7 = Northern_Cardinal
+ 3 0 1 0 0 1 5 2 7 4 | 8 = Red_tailed_Hawk
+ 3 0 0 0 1 0 7 0 210 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 9 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.2819
+ Precision:       0.2808
+ Recall:          0.2810
+ F1 Score:        0.2644
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 11  2  1  3 26  3  2  0  4  0 | 0 = American_Crow
+  0 20  3  5 14  1  1  2  4  3 | 1 = American_Goldfinch
+  1  6  8  4 11  3  4 13  1  2 | 2 = American_Robin
+  2  4  2  7  6  3 12  3  9  5 | 3 = Bald_Eagle
+  6  0  1  1 31  4  4  2  2  2 | 4 = Blue_Jay
+  1  1  4  4 12  8  7  9  5  1 | 5 = Canada_Goose
+  4  4  0 10 14  2 11  3  2  2 | 6 = Great_Blue_Heron
+  1  4  5  2  1  3  2 34  0  1 | 7 = Northern_Cardinal
+  0  3  1  6  4  9  1  8 15  5 | 8 = Red_tailed_Hawk
+  2  0  2  8 14  5 12  3  3  3 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 9 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3956
+ Precision:       0.4147
+ Recall:          0.3966
+ F1 Score:        0.3943
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 11  0  0  1  5  0  0  0  5  1 | 0 = American_Crow
+  0 14  0  3  4  1  0  0  0  0 | 1 = American_Goldfinch
+  0  2  4  3  4  3  1  3  0  2 | 2 = American_Robin
+  2  0  0  5  3  5  2  1  3  1 | 3 = Bald_Eagle
+  3  1  1  1 12  0  2  0  0  2 | 4 = Blue_Jay
+  2  1  3  1  3  6  2  2  1  2 | 5 = Canada_Goose
+  1  1  0  3  4  2  9  0  1  2 | 6 = Great_Blue_Heron
+  0  0  1  1  1  4  0 14  1  0 | 7 = Northern_Cardinal
+  1  1  0  0  2  6  1  3  8  1 | 8 = Red_tailed_Hawk
+  2  0  0  1  5  2  6  0  1  6 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 10 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.2876
+ Precision:       0.2969
+ Recall:          0.2874
+ F1 Score:        0.2722
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  4  2  4  5  9  1  1  0  5 21 | 0 = American_Crow
+  0 22  5  1  4  1  1  2  8  9 | 1 = American_Goldfinch
+  2 11 13  2  2  2  1  9  2  9 | 2 = American_Robin
+  0  4  1  3  4  5  5  2 15 14 | 3 = Bald_Eagle
+  4  0  3  0 13  4  1  2  1 25 | 4 = Blue_Jay
+  1  6  3  2  3 12  2  8  6  9 | 5 = Canada_Goose
+  2  1  3  2  4  6  8  0  4 22 | 6 = Great_Blue_Heron
+  1  5  8  1  0  1  0 31  2  4 | 7 = Northern_Cardinal
+  2  6  8  1  1  2  0  3 18 11 | 8 = Red_tailed_Hawk
+  0  1  4  3  1  5  5  2  4 27 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 10 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3778
+ Precision:       0.4437
+ Recall:          0.3779
+ F1 Score:        0.3764
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  5  0  2  2  2  0  0  0  3  9 | 0 = American_Crow
+  0 13  3  0  1  2  0  0  1  2 | 1 = American_Goldfinch
+  1  3  5  1  1  1  1  4  1  4 | 2 = American_Robin
+  0  1  3  5  1  1  1  1  2  7 | 3 = Bald_Eagle
+  0  2  3  2  6  1  0  0  0  8 | 4 = Blue_Jay
+  0  2  4  1  0  6  0  0  3  7 | 5 = Canada_Goose
+  1  0  4  0  0  1  5  0  2 10 | 6 = Great_Blue_Heron
+  0  2  1  0  0  2  0 13  2  2 | 7 = Northern_Cardinal
+  1  1  0  0  0  3  1  1 11  5 | 8 = Red_tailed_Hawk
+  1  1  1  0  0  1  2  0  1 16 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 11 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.2533
+ Precision:       0.2322
+ Recall:          0.2530
+ F1 Score:        0.2363
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 11  1  2  7 11  1  5  0  3 11 | 0 = American_Crow
+  2 21  5  4  5  0  3  3  5  5 | 1 = American_Goldfinch
+  1  7  3  5  7  2  4 14  5  5 | 2 = American_Robin
+  4  1  0  6  5  2 12  2 12  9 | 3 = Bald_Eagle
+ 13  1  2  1 12  1  6  2  2 13 | 4 = Blue_Jay
+  3  4  3  4  8  1  9  9  6  5 | 5 = Canada_Goose
+  8  2  3  7  6  1 13  2  3  7 | 6 = Great_Blue_Heron
+  3  2  6  2  1  1  2 33  2  1 | 7 = Northern_Cardinal
+  3  6  3  6  1  2  3  5 15  8 | 8 = Red_tailed_Hawk
+  2  0  2  5  3  1 13  2  6 18 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 11 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.4089
+ Precision:       0.4208
+ Recall:          0.4089
+ F1 Score:        0.3968
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 12  0  0  1  3  0  2  0  3  2 | 0 = American_Crow
+  0 13  2  2  0  0  1  0  1  3 | 1 = American_Goldfinch
+  1  0  4  2  4  0  3  4  2  2 | 2 = American_Robin
+  4  1  1  9  1  0  3  1  0  2 | 3 = Bald_Eagle
+  6  0  2  3  4  0  4  0  0  3 | 4 = Blue_Jay
+  1  3  2  2  1  3  5  2  2  2 | 5 = Canada_Goose
+  3  0  1  3  0  1  8  0  1  6 | 6 = Great_Blue_Heron
+  1  2  1  0  0  0  0 15  1  2 | 7 = Northern_Cardinal
+  1  0  1  2  0  2  1  2 12  2 | 8 = Red_tailed_Hawk
+  3  1  0  1  0  0  5  0  1 12 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 12 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3067
+ Precision:       0.3107
+ Recall:          0.3063
+ F1 Score:        0.3018
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 17  2  0  7 17  2  2  0  2  3 | 0 = American_Crow
+  4 24  0  2  5 11  1  0  2  4 | 1 = American_Goldfinch
+  1  9  3  8  6  9  3  8  2  4 | 2 = American_Robin
+  5  3  1 11  6  6  8  2  6  5 | 3 = Bald_Eagle
+ 16  1  1  4 22  5  1  0  2  1 | 4 = Blue_Jay
+  9  3  2  4  7 14  4  4  2  3 | 5 = Canada_Goose
+  7  2  3  5 10  5 12  0  5  3 | 6 = Great_Blue_Heron
+  1  4  5  3  1  7  0 30  0  2 | 7 = Northern_Cardinal
+  2  5  4  6  4  8  1  3 13  6 | 8 = Red_tailed_Hawk
+  5  1  0 10  3  5 11  1  1 15 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 12 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.4844
+ Precision:       0.5269
+ Recall:          0.4848
+ F1 Score:        0.4806
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 16  0  0  0  4  0  0  0  2  1 | 0 = American_Crow
+  2 15  0  1  0  1  1  1  0  1 | 1 = American_Goldfinch
+  2  0  4  1  5  3  2  3  1  1 | 2 = American_Robin
+  6  0  1  9  1  2  2  0  0  1 | 3 = Bald_Eagle
+  5  0  0  2 13  0  1  0  0  1 | 4 = Blue_Jay
+  3  1  0  2  3 12  1  0  1  0 | 5 = Canada_Goose
+  9  0  0  2  0  2  7  0  1  2 | 6 = Great_Blue_Heron
+  1  2  1  0  1  2  0 14  1  0 | 7 = Northern_Cardinal
+  2  2  0  1  0  5  1  1  9  2 | 8 = Red_tailed_Hawk
+  5  1  0  0  2  0  3  0  2 10 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 13 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3048
+ Precision:       0.3043
+ Recall:          0.3046
+ F1 Score:        0.2898
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 13  6  3  3 11  1  1  0  6  8 | 0 = American_Crow
+  1 23  6  0  5  3  0  1  6  8 | 1 = American_Goldfinch
+  2 12 16  1  1  3  1  4  3 10 | 2 = American_Robin
+  3  5  4  2  2  4  6  2 14 11 | 3 = Bald_Eagle
+  9  2  0  2 12  2  1  2  3 20 | 4 = Blue_Jay
+  2  7 10  3  2 10  3  5  4  6 | 5 = Canada_Goose
+  2  9  2  2  3  3  6  1  6 18 | 6 = Great_Blue_Heron
+  1  8  7  1  0  0  0 33  2  1 | 7 = Northern_Cardinal
+  1  6  6  3  0  6  2  1 18  9 | 8 = Red_tailed_Hawk
+  1  0  2  3  0  4  4  2  9 27 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 13 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.4667
+ Precision:       0.5129
+ Recall:          0.4666
+ F1 Score:        0.4461
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 12  1  1  0  2  0  0  0  4  3 | 0 = American_Crow
+  0 18  0  0  0  1  0  0  2  1 | 1 = American_Goldfinch
+  0  3  8  2  1  1  1  2  2  2 | 2 = American_Robin
+  4  1  2  6  0  1  1  1  2  4 | 3 = Bald_Eagle
+  3  0  4  1  7  1  1  0  2  3 | 4 = Blue_Jay
+  1  3  4  0  1  4  0  1  4  5 | 5 = Canada_Goose
+  0  1  3  0  0  1  4  0  4 10 | 6 = Great_Blue_Heron
+  0  2  3  0  0  0  0 12  2  3 | 7 = Northern_Cardinal
+  1  1  1  0  0  1  0  1 14  4 | 8 = Red_tailed_Hawk
+  0  1  0  0  1  0  0  0  1 20 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 14 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3105
+ Precision:       0.3219
+ Recall:          0.3107
+ F1 Score:        0.2938
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 12  1  2  7  5  1  3  0  5 16 | 0 = American_Crow
+  1 15  5  3  3  4  3  2  8  9 | 1 = American_Goldfinch
+  2  5  7  3  1  3  5 15  2 10 | 2 = American_Robin
+  4  0  3 11  1  5  7  3 10  9 | 3 = Bald_Eagle
+ 11  0  2  2  6  1  6  3  1 21 | 4 = Blue_Jay
+  6  1  1  6  3 11  4  9  5  6 | 5 = Canada_Goose
+  2  0  0  2  2  3 17  4  4 18 | 6 = Great_Blue_Heron
+  1  2  2  2  0  4  1 38  1  2 | 7 = Northern_Cardinal
+  0  2  2  4  1  6  4  7 16 10 | 8 = Red_tailed_Hawk
+  2  0  0  3  1  2  8  2  4 30 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 14 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.5111
+ Precision:       0.5605
+ Recall:          0.5091
+ F1 Score:        0.5003
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 16  0  1  0  1  0  0  0  2  3 | 0 = American_Crow
+  0 11  0  1  0  0  1  3  4  2 | 1 = American_Goldfinch
+  0  1  5  2  1  0  2  6  1  4 | 2 = American_Robin
+  4  0  0 10  0  1  2  2  1  2 | 3 = Bald_Eagle
+  3  1  2  2  5  0  3  0  0  6 | 4 = Blue_Jay
+  2  1  1  1  0  8  4  1  2  3 | 5 = Canada_Goose
+  0  0  0  1  0  1 13  0  2  6 | 6 = Great_Blue_Heron
+  1  0  1  0  0  1  0 15  1  3 | 7 = Northern_Cardinal
+  0  0  0  0  0  1  1  1 14  6 | 8 = Red_tailed_Hawk
+  0  0  0  0  1  0  3  0  1 18 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 15 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3352
+ Precision:       0.3368
+ Recall:          0.3345
+ F1 Score:        0.3293
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 12  1  1  9 18  1  2  0  3  5 | 0 = American_Crow
+  2 27  4  2  7  5  1  1  3  1 | 1 = American_Goldfinch
+  0  9 14  6  8  6  2  5  3  0 | 2 = American_Robin
+  7  3  1 10  6  9  4  2  9  2 | 3 = Bald_Eagle
+  7  2  1  2 29  1  2  0  2  7 | 4 = Blue_Jay
+  3  1  1  4  9 18  4  6  5  1 | 5 = Canada_Goose
+  4  2  1 11 11  4  7  1  5  6 | 6 = Great_Blue_Heron
+  0  6  9  2  1  4  0 28  1  2 | 7 = Northern_Cardinal
+  3  6  4  3  4  9  3  3 13  4 | 8 = Red_tailed_Hawk
+  3  0  1  7  3  5  8  2  5 18 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 15 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.5733
+ Precision:       0.5863
+ Recall:          0.5727
+ F1 Score:        0.5701
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 19  0  1  0  3  0  0  0  0  0 | 0 = American_Crow
+  2 16  0  0  2  1  0  1  0  0 | 1 = American_Goldfinch
+  0  1  7  2  6  2  0  3  0  1 | 2 = American_Robin
+  6  1  0  9  0  2  1  0  2  1 | 3 = Bald_Eagle
+  2  2  0  1 12  1  3  0  0  1 | 4 = Blue_Jay
+  1  1  3  2  2 11  1  0  1  1 | 5 = Canada_Goose
+  3  0  1  3  2  2 11  0  0  1 | 6 = Great_Blue_Heron
+  0  1  0  0  2  2  0 16  1  0 | 7 = Northern_Cardinal
+  1  1  1  2  0  2  0  0 13  3 | 8 = Red_tailed_Hawk
+  1  0  0  0  2  2  2  0  1 15 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 16 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3105
+ Precision:       0.3063
+ Recall:          0.3099
+ F1 Score:        0.2980
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 15  2  1  6 14  6  1  0  0  7 | 0 = American_Crow
+  1 24  3  0 12  5  1  3  2  2 | 1 = American_Goldfinch
+  0  7 14  3  8 12  0  6  2  1 | 2 = American_Robin
+  8  5  3  9  2  9  6  2  6  3 | 3 = Bald_Eagle
+  5  2  3  1 22  7  1  0  0 12 | 4 = Blue_Jay
+  4  7  3  6  9 15  1  4  2  1 | 5 = Canada_Goose
+  7  4  3  5 12 10  2  0  2  7 | 6 = Great_Blue_Heron
+  0  4 10  2  1  4  0 29  1  2 | 7 = Northern_Cardinal
+  3  8  5  4  0 14  0  5  8  5 | 8 = Red_tailed_Hawk
+  2  0  3  0  5  7  5  3  2 25 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 16 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.5822
+ Precision:       0.6232
+ Recall:          0.5832
+ F1 Score:        0.5760
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 17  0  1  1  4  0  0  0  0  0 | 0 = American_Crow
+  0 20  0  1  0  0  0  0  0  1 | 1 = American_Goldfinch
+  0  0  7  1 10  1  0  3  0  0 | 2 = American_Robin
+  3  1  0 11  1  3  1  1  0  1 | 3 = Bald_Eagle
+  2  0  0  1 16  2  0  0  0  1 | 4 = Blue_Jay
+  1  4  1  1  1 13  0  0  1  1 | 5 = Canada_Goose
+  2  1  2  0  1  2  8  0  0  7 | 6 = Great_Blue_Heron
+  0  1  2  0  0  2  0 15  1  1 | 7 = Northern_Cardinal
+  2  2  1  0  2  4  0  0 10  2 | 8 = Red_tailed_Hawk
+  1  2  0  0  3  2  1  0  0 14 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 17 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3124
+ Precision:       0.3615
+ Recall:          0.3123
+ F1 Score:        0.3087
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  8  1  2 11  7  3  3  0  5 12 | 0 = American_Crow
+  0 14  5  5  4  1  1  1 12 10 | 1 = American_Goldfinch
+  0  1 16  3  2  5  6  7  7  6 | 2 = American_Robin
+  2  1  2 14  1  2  8  3 12  8 | 3 = Bald_Eagle
+  4  0  3  4  8  2  4  1  2 25 | 4 = Blue_Jay
+  2  1  1  8  3 12  7  7  4  7 | 5 = Canada_Goose
+  2  0  3  4  2  2 14  1  8 16 | 6 = Great_Blue_Heron
+  0  1  7  5  0  0  3 32  3  2 | 7 = Northern_Cardinal
+  0  1  6  5  1  7  2  4 18  8 | 8 = Red_tailed_Hawk
+  0  0  1  4  0  0  9  1  9 28 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 17 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.5778
+ Precision:       0.6191
+ Recall:          0.5773
+ F1 Score:        0.5739
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+  7  0  1  5  1  0  5  0  2  2 | 0 = American_Crow
+  1 11  4  1  0  1  0  1  2  1 | 1 = American_Goldfinch
+  0  0 11  2  2  0  2  2  2  1 | 2 = American_Robin
+  2  1  0 12  0  0  2  1  1  3 | 3 = Bald_Eagle
+  1  0  3  2 11  0  1  0  0  4 | 4 = Blue_Jay
+  0  0  2  1  0 10  3  1  3  3 | 5 = Canada_Goose
+  0  0  0  1  1  1 15  0  1  4 | 6 = Great_Blue_Heron
+  0  0  0  1  0  1  0 16  0  4 | 7 = Northern_Cardinal
+  0  0  0  0  0  2  2  0 18  1 | 8 = Red_tailed_Hawk
+  0  0  0  1  1  0  1  0  1 19 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 18 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3238
+ Precision:       0.3344
+ Recall:          0.3233
+ F1 Score:        0.3165
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 21  3  0  7 13  4  1  0  1  2 | 0 = American_Crow
+  3 22  2  2  5 10  2  2  3  2 | 1 = American_Goldfinch
+  0  8  9  1  6 15  3  7  2  2 | 2 = American_Robin
+  5  3  1 14  4  9  6  1  7  3 | 3 = Bald_Eagle
+ 12  2  1  1 23  6  2  0  1  5 | 4 = Blue_Jay
+  6  2  0  7  8 19  3  4  2  1 | 5 = Canada_Goose
+  4  2  1  5 14  9  7  0  4  6 | 6 = Great_Blue_Heron
+  0  5  5  1  1  7  0 32  1  1 | 7 = Northern_Cardinal
+  1  6  3  2  5 19  1  4  4  7 | 8 = Red_tailed_Hawk
+  3  0  1  2  7  9  9  2  0 19 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 18 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.6533
+ Precision:       0.7031
+ Recall:          0.6530
+ F1 Score:        0.6598
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 18  0  0  1  4  0  0  0  0  0 | 0 = American_Crow
+  1 17  0  0  3  0  0  0  1  0 | 1 = American_Goldfinch
+  0  0 10  2  5  2  2  0  1  0 | 2 = American_Robin
+  2  2  0 12  1  3  1  0  0  1 | 3 = Bald_Eagle
+  2  2  0  1 15  1  0  0  0  1 | 4 = Blue_Jay
+  2  3  0  1  1 14  0  0  1  1 | 5 = Canada_Goose
+  1  0  1  1  3  2 14  0  0  1 | 6 = Great_Blue_Heron
+  0  3  0  0  2  1  0 16  0  0 | 7 = Northern_Cardinal
+  2  0  0  0  0  4  1  0 14  2 | 8 = Red_tailed_Hawk
+  1  0  0  0  3  1  1  0  0 17 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 19 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3238
+ Precision:       0.3425
+ Recall:          0.3230
+ F1 Score:        0.3183
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 13  2  3 12  9  2  1  0  3  7 | 0 = American_Crow
+  1 21  6  3  4  5  1  2  5  5 | 1 = American_Goldfinch
+  0  8 22  4  6  5  1  4  2  1 | 2 = American_Robin
+  4  6  4 19  0  4  3  1  9  3 | 3 = Bald_Eagle
+  0  2  6  2 23  3  3  0  3 11 | 4 = Blue_Jay
+  0  3  8 12  5  8  2 11  2  1 | 5 = Canada_Goose
+  2  1  7  8  7  6  4  1  6 10 | 6 = Great_Blue_Heron
+  0  5 16  1  1  3  0 23  2  2 | 7 = Northern_Cardinal
+  0  5  7  5  1  9  0  4 16  5 | 8 = Red_tailed_Hawk
+  0  0  5  4  4  9  6  2  1 21 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 19 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.6800
+ Precision:       0.7027
+ Recall:          0.6816
+ F1 Score:        0.6775
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 14  0  1  2  4  0  1  0  0  1 | 0 = American_Crow
+  0 18  2  1  0  0  0  0  1  0 | 1 = American_Goldfinch
+  0  0 17  2  2  0  0  0  1  0 | 2 = American_Robin
+  2  1  1 17  0  0  0  1  0  0 | 3 = Bald_Eagle
+  1  2  0  0 17  0  1  0  0  1 | 4 = Blue_Jay
+  1  2  5  2  0  9  0  1  2  1 | 5 = Canada_Goose
+  0  0  1  1  0  1 16  0  1  3 | 6 = Great_Blue_Heron
+  0  1  4  1  1  0  0 14  0  1 | 7 = Northern_Cardinal
+  0  1  2  2  1  3  0  0 12  2 | 8 = Red_tailed_Hawk
+  0  0  1  1  1  0  0  1  0 19 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 20 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.2990
+ Precision:       0.3025
+ Recall:          0.2982
+ F1 Score:        0.2805
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 10  4  1  6 12  3  4  0  2 10 | 0 = American_Crow
+  3 20  5  0  6  5  1  7  3  3 | 1 = American_Goldfinch
+  0 11 13  0  5  8  2  8  2  4 | 2 = American_Robin
+  1  2  5  7  2  9  7  2 10  8 | 3 = Bald_Eagle
+  1  2  3  1 26  1  2  2  1 14 | 4 = Blue_Jay
+  2  0  6  4  8  9  2 13  4  4 | 5 = Canada_Goose
+  2  1  4  1 16  5  7  2  4 10 | 6 = Great_Blue_Heron
+  0  5  6  0  1  4  0 36  0  1 | 7 = Northern_Cardinal
+  1  6  7  0  1  9  5 10  6  7 | 8 = Red_tailed_Hawk
+  0  0  3  1  4  8  8  5  0 23 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 20 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.6489
+ Precision:       0.6753
+ Recall:          0.6498
+ F1 Score:        0.6370
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 15  0  1  1  4  1  0  0  0  1 | 0 = American_Crow
+  0 16  1  0  0  0  0  2  2  1 | 1 = American_Goldfinch
+  0  2 15  0  1  0  1  2  0  1 | 2 = American_Robin
+  4  1  2  7  0  1  3  2  1  1 | 3 = Bald_Eagle
+  0  0  0  0 18  0  0  0  0  4 | 4 = Blue_Jay
+  1  1  1  1  2  8  1  4  1  3 | 5 = Canada_Goose
+  1  0  1  0  1  1 13  1  0  5 | 6 = Great_Blue_Heron
+  0  0  1  0  0  0  0 20  0  1 | 7 = Northern_Cardinal
+  0  1  2  0  2  0  0  1 14  3 | 8 = Red_tailed_Hawk
+  0  0  0  0  1  1  1  0  0 20 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 21 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3219
+ Precision:       0.3638
+ Recall:          0.3220
+ F1 Score:        0.3263
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 19  2  1 11  5  4  2  0  3  5 | 0 = American_Crow
+  3 14  3  7  3  8  1  1 11  2 | 1 = American_Goldfinch
+  1  4 11 15  1  9  3  3  4  2 | 2 = American_Robin
+  7  1  2 21  1  8  3  2  7  1 | 3 = Bald_Eagle
+ 11  1  1  7 10  4  5  0  5  9 | 4 = Blue_Jay
+  6  1  2 15  3 17  0  3  4  1 | 5 = Canada_Goose
+  3  1  1 11  2  9 10  0 10  5 | 6 = Great_Blue_Heron
+  0  4  5  3  0  7  1 27  6  0 | 7 = Northern_Cardinal
+  4  1  2  8  0 12  1  2 20  2 | 8 = Red_tailed_Hawk
+  1  0  1  8  3  5  7  2  5 20 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 21 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.7067
+ Precision:       0.7397
+ Recall:          0.7055
+ F1 Score:        0.7069
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 16  0  1  5  0  0  1  0  0  0 | 0 = American_Crow
+  1 16  1  1  1  0  0  0  2  0 | 1 = American_Goldfinch
+  0  0 13  3  0  1  2  1  1  1 | 2 = American_Robin
+  1  1  0 18  0  0  2  0  0  0 | 3 = Bald_Eagle
+  3  0  0  4  9  2  1  0  0  3 | 4 = Blue_Jay
+  2  0  0  2  0 16  0  0  2  1 | 5 = Canada_Goose
+  1  0  0  1  1  2 17  0  1  0 | 6 = Great_Blue_Heron
+  0  1  2  1  0  0  0 16  1  1 | 7 = Northern_Cardinal
+  1  0  0  1  0  0  1  0 19  1 | 8 = Red_tailed_Hawk
+  0  0  0  2  0  1  0  0  1 19 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 22 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3429
+ Precision:       0.3725
+ Recall:          0.3423
+ F1 Score:        0.3405
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 19  4  3  5  7  4  4  0  2  4 | 0 = American_Crow
+  2 28  8  1  1  7  1  0  3  2 | 1 = American_Goldfinch
+  1  9 22  1  3  8  4  3  1  1 | 2 = American_Robin
+  5  9  6  7  1  9 11  0  3  2 | 3 = Bald_Eagle
+  5  5  5  1 24  4  5  0  0  4 | 4 = Blue_Jay
+  6  7  8  4  4 16  4  2  0  1 | 5 = Canada_Goose
+  2  6  7  1 10  6 13  0  3  4 | 6 = Great_Blue_Heron
+  0  6 10  0  1  7  1 26  1  1 | 7 = Northern_Cardinal
+  0 11  7  1  2 16  4  1  6  4 | 8 = Red_tailed_Hawk
+  1  0  4  3  6  7 10  1  1 19 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 22 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.7244
+ Precision:       0.7493
+ Recall:          0.7249
+ F1 Score:        0.7238
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 18  0  1  0  3  1  0  0  0  0 | 0 = American_Crow
+  0 21  0  0  0  0  0  1  0  0 | 1 = American_Goldfinch
+  0  1 16  1  0  1  3  0  0  0 | 2 = American_Robin
+  2  1  2 10  1  0  5  0  0  1 | 3 = Bald_Eagle
+  2  1  0  0 19  0  0  0  0  0 | 4 = Blue_Jay
+  0  2  3  1  0 14  2  0  0  1 | 5 = Canada_Goose
+  0  2  0  0  1  1 17  0  1  1 | 6 = Great_Blue_Heron
+  0  2  2  0  0  2  0 16  0  0 | 7 = Northern_Cardinal
+  0  3  0  1  0  3  1  0 15  0 | 8 = Red_tailed_Hawk
+  0  0  1  0  2  2  1  0  0 17 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 23 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3581
+ Precision:       0.3828
+ Recall:          0.3580
+ F1 Score:        0.3579
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 25  1  0 11  3  2  0  0  6  4 | 0 = American_Crow
+  4 17  5  3  3  3  1  4 12  1 | 1 = American_Goldfinch
+  1  3 16  3  1  6  1  8 12  2 | 2 = American_Robin
+  6  1  2 17  0  5  2  3 14  3 | 3 = Bald_Eagle
+  7  0  0  7 17  1  3  2 10  6 | 4 = Blue_Jay
+  6  3  1 10  5 13  0  6  6  2 | 5 = Canada_Goose
+  6  1  0  9  6  1  7  4 14  4 | 6 = Great_Blue_Heron
+  0  4  6  3  1  1  0 31  6  1 | 7 = Northern_Cardinal
+  0  4  5  5  1  4  2  6 21  4 | 8 = Red_tailed_Hawk
+  1  0  1  2  2  2  9  1 10 24 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 23 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.8089
+ Precision:       0.8173
+ Recall:          0.8089
+ F1 Score:        0.8080
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 20  0  1  1  1  0  0  0  0  0 | 0 = American_Crow
+  0 18  1  1  0  0  1  1  0  0 | 1 = American_Goldfinch
+  0  0 15  2  2  1  1  1  0  0 | 2 = American_Robin
+  2  1  0 17  0  0  0  0  1  1 | 3 = Bald_Eagle
+  1  0  0  0 19  0  1  0  1  0 | 4 = Blue_Jay
+  0  1  2  1  0 14  0  0  5  0 | 5 = Canada_Goose
+  0  0  0  1  0  2 18  1  1  0 | 6 = Great_Blue_Heron
+  0  0  0  0  0  1  0 20  1  0 | 7 = Northern_Cardinal
+  1  0  0  0  0  0  0  0 22  0 | 8 = Red_tailed_Hawk
+  0  0  0  0  1  0  0  1  2 19 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 24 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3257
+ Precision:       0.3255
+ Recall:          0.3253
+ F1 Score:        0.3143
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 18  1  1  9  9  5  3  0  1  5 | 0 = American_Crow
+  2 17  5  0  5  9  1  2 10  2 | 1 = American_Goldfinch
+  0  2 14  2  8 14  1  5  2  5 | 2 = American_Robin
+  8  5  2  9  2 12  3  4  5  3 | 3 = Bald_Eagle
+  8  0  1  0 24  3  3  2  1 11 | 4 = Blue_Jay
+  7  1  2  6  8 17  2  5  1  3 | 5 = Canada_Goose
+  4  1  3  3 13  6  4  2  3 13 | 6 = Great_Blue_Heron
+  1  3  7  0  1  5  0 34  0  2 | 7 = Northern_Cardinal
+  1  5  4  3  2 10  1  7  9 10 | 8 = Red_tailed_Hawk
+  1  0  0  2  4  9  7  2  2 25 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 24 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.7911
+ Precision:       0.8149
+ Recall:          0.7913
+ F1 Score:        0.7895
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 19  0  0  0  2  0  1  0  0  1 | 0 = American_Crow
+  0 20  0  0  1  0  0  0  0  1 | 1 = American_Goldfinch
+  0  0 16  0  2  0  0  3  0  1 | 2 = American_Robin
+  3  1  1 12  1  1  2  0  0  1 | 3 = Bald_Eagle
+  0  1  0  0 19  0  0  0  0  2 | 4 = Blue_Jay
+  3  0  0  0  0 15  1  2  1  1 | 5 = Canada_Goose
+  1  0  0  0  1  1 17  0  0  3 | 6 = Great_Blue_Heron
+  0  0  0  0  0  1  0 21  0  0 | 7 = Northern_Cardinal
+  0  0  0  0  1  3  1  1 17  0 | 8 = Red_tailed_Hawk
+  0  0  0  0  0  1  0  0  0 22 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 25 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3486
+ Precision:       0.3723
+ Recall:          0.3482
+ F1 Score:        0.3523
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 14  3  4 11  7  4  3  0  4  2 | 0 = American_Crow
+  1 21  7  4  4  5  1  2  6  2 | 1 = American_Goldfinch
+  2  6 17  3  4 12  0  5  2  2 | 2 = American_Robin
+  3  4  4 16  0  9  5  3  6  3 | 3 = Bald_Eagle
+  5  2  6  2 20  3  5  2  3  5 | 4 = Blue_Jay
+  0  1  6 10  5 22  1  2  4  1 | 5 = Canada_Goose
+  2  3  4  7  8  3 13  2  6  4 | 6 = Great_Blue_Heron
+  0  2 15  1  0  3  0 28  3  1 | 7 = Northern_Cardinal
+  0  5  8  8  1  9  2  3 13  3 | 8 = Red_tailed_Hawk
+  0  0  5  2  4  7  7  2  6 19 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 25 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.8178
+ Precision:       0.8318
+ Recall:          0.8186
+ F1 Score:        0.8211
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 19  0  1  1  1  0  1  0  0  0 | 0 = American_Crow
+  0 20  1  0  0  0  0  0  1  0 | 1 = American_Goldfinch
+  0  0 20  1  0  1  0  0  0  0 | 2 = American_Robin
+  1  0  0 16  0  3  1  1  0  0 | 3 = Bald_Eagle
+  0  0  1  0 18  1  2  0  0  0 | 4 = Blue_Jay
+  0  0  2  2  0 15  2  1  1  0 | 5 = Canada_Goose
+  0  0  0  1  0  2 19  1  0  0 | 6 = Great_Blue_Heron
+  0  0  1  0  0  0  1 20  0  0 | 7 = Northern_Cardinal
+  0  0  1  1  0  1  1  0 19  0 | 8 = Red_tailed_Hawk
+  0  1  0  0  0  1  1  1  1 18 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 26 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3524
+ Precision:       0.3787
+ Recall:          0.3520
+ F1 Score:        0.3524
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 23  1  0  4 12  6  3  0  1  2 | 0 = American_Crow
+  2 21  4  0  6  9  3  3  4  1 | 1 = American_Goldfinch
+  1  5 13  2  9 15  1  3  2  2 | 2 = American_Robin
+  5  3  2 12  3 14  4  3  3  4 | 3 = Bald_Eagle
+  7  0  1  3 28  4  3  1  1  5 | 4 = Blue_Jay
+  5  2  3  5 10 20  4  2  0  1 | 5 = Canada_Goose
+  4  1  0  5 17  5 10  1  5  4 | 6 = Great_Blue_Heron
+  0  4  8  1  3  4  1 31  1  0 | 7 = Northern_Cardinal
+  0  6  4  3  3 18  4  2  9  3 | 8 = Red_tailed_Hawk
+  2  0  0  3  7 11  7  2  2 18 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 26 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.8489
+ Precision:       0.8580
+ Recall:          0.8486
+ F1 Score:        0.8491
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 21  0  0  0  2  0  0  0  0  0 | 0 = American_Crow
+  1 20  0  0  0  0  0  0  1  0 | 1 = American_Goldfinch
+  0  0 18  1  2  1  0  0  0  0 | 2 = American_Robin
+  3  1  0 14  0  1  0  1  0  2 | 3 = Bald_Eagle
+  1  0  0  0 19  0  1  0  0  1 | 4 = Blue_Jay
+  0  0  0  1  2 20  0  0  0  0 | 5 = Canada_Goose
+  0  0  1  0  1  1 20  0  0  0 | 6 = Great_Blue_Heron
+  0  0  0  0  0  1  0 21  0  0 | 7 = Northern_Cardinal
+  0  0  1  0  0  1  1  0 20  0 | 8 = Red_tailed_Hawk
+  0  0  0  0  2  1  2  0  0 18 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 27 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3638
+ Precision:       0.3959
+ Recall:          0.3633
+ F1 Score:        0.3658
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 15  4  3 14  3  6  1  0  4  2 | 0 = American_Crow
+  1 24  5  0  3  8  1  2  9  0 | 1 = American_Goldfinch
+  0  3 19  6  2 11  0  5  4  3 | 2 = American_Robin
+  1  3  4 15  0 11  3  2 11  3 | 3 = Bald_Eagle
+  5  3  5  5 20  4  1  3  4  3 | 4 = Blue_Jay
+  5  2  2 11  4 18  0  6  3  1 | 5 = Canada_Goose
+  3  3  1  6  5 12  6  2 10  4 | 6 = Great_Blue_Heron
+  1  4  5  1  0  9  0 33  0  0 | 7 = Northern_Cardinal
+  0  8  4  5  1 11  0  3 18  2 | 8 = Red_tailed_Hawk
+  0  0  1  1  2 12  5  4  4 23 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 27 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.8178
+ Precision:       0.8255
+ Recall:          0.8186
+ F1 Score:        0.8172
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 18  1  1  1  0  1  0  0  0  1 | 0 = American_Crow
+  0 20  0  0  0  0  0  0  1  1 | 1 = American_Goldfinch
+  0  0 19  0  0  1  2  0  0  0 | 2 = American_Robin
+  1  1  0 17  0  1  0  1  1  0 | 3 = Bald_Eagle
+  0  0  0  0 17  2  1  0  1  1 | 4 = Blue_Jay
+  0  0  0  1  0 20  0  0  2  0 | 5 = Canada_Goose
+  1  0  0  3  0  4 13  0  1  1 | 6 = Great_Blue_Heron
+  1  0  0  0  0  0  0 21  0  0 | 7 = Northern_Cardinal
+  0  0  0  0  0  1  0  2 20  0 | 8 = Red_tailed_Hawk
+  1  1  0  0  2  0  0  0  0 19 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 28 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3562
+ Precision:       0.3528
+ Recall:          0.3560
+ F1 Score:        0.3447
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 25  2  0  3 11  5  1  0  1  4 | 0 = American_Crow
+  3 20  3  1  3  6  3  5  6  3 | 1 = American_Goldfinch
+  1  6 11  4  6 11  0  8  3  3 | 2 = American_Robin
+  6  2  2 11  2  7  6  3  8  6 | 3 = Bald_Eagle
+  6  0  3  2 27  2  1  6  1  5 | 4 = Blue_Jay
+  8  2  3  4  7 14  3  7  0  4 | 5 = Canada_Goose
+  7  0  0  1 17  4  9  2  3  9 | 6 = Great_Blue_Heron
+  1  3  9  1  1  5  0 32  1  0 | 7 = Northern_Cardinal
+  2  7  4  4  2  9  2  5 11  6 | 8 = Red_tailed_Hawk
+  1  0  0  0  4  6  6  2  6 27 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 28 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.8267
+ Precision:       0.8403
+ Recall:          0.8267
+ F1 Score:        0.8249
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 20  0  0  0  1  0  1  0  0  1 | 0 = American_Crow
+  1 20  0  0  0  0  0  0  1  0 | 1 = American_Goldfinch
+  0  0 14  1  3  0  0  3  0  1 | 2 = American_Robin
+  2  1  0 15  1  1  0  0  1  1 | 3 = Bald_Eagle
+  0  0  0  0 20  0  1  0  0  1 | 4 = Blue_Jay
+  1  1  0  0  0 19  0  1  1  0 | 5 = Canada_Goose
+  0  0  1  1  1  1 17  0  0  2 | 6 = Great_Blue_Heron
+  0  0  0  0  0  0  0 22  0  0 | 7 = Northern_Cardinal
+  0  0  0  0  1  1  0  0 18  3 | 8 = Red_tailed_Hawk
+  0  0  0  0  1  0  0  1  0 21 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 29 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3467
+ Precision:       0.3844
+ Recall:          0.3462
+ F1 Score:        0.3553
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 16  4  2 12  5  3  6  0  3  1 | 0 = American_Crow
+  1 25  5  2  4  4  3  2  7  0 | 1 = American_Goldfinch
+  1  2 18  4  4 11  6  2  4  1 | 2 = American_Robin
+  2  7  3 11  0  9  7  2 10  2 | 3 = Bald_Eagle
+  2  0  3  3 25  3 10  1  3  3 | 4 = Blue_Jay
+  4  3  3  5  4 17 12  1  1  2 | 5 = Canada_Goose
+  2  2  1  5  6  5 18  1  8  4 | 6 = Great_Blue_Heron
+  1  4 13  1  0  4  1 26  2  1 | 7 = Northern_Cardinal
+  1  7  3  6  1 12  8  2 11  1 | 8 = Red_tailed_Hawk
+  1  0  2  4  4  7 15  0  4 15 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 29 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.8978
+ Precision:       0.9129
+ Recall:          0.8986
+ F1 Score:        0.9001
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 18  0  1  1  0  0  2  0  1  0 | 0 = American_Crow
+  0 20  0  1  0  0  1  0  0  0 | 1 = American_Goldfinch
+  0  0 22  0  0  0  0  0  0  0 | 2 = American_Robin
+  0  1  0 20  0  0  1  0  0  0 | 3 = Bald_Eagle
+  0  0  0  0 20  0  1  0  1  0 | 4 = Blue_Jay
+  0  0  1  1  0 18  2  0  1  0 | 5 = Canada_Goose
+  0  0  0  0  0  0 23  0  0  0 | 6 = Great_Blue_Heron
+  0  0  1  0  0  0  0 21  0  0 | 7 = Northern_Cardinal
+  0  0  1  0  0  1  2  0 19  0 | 8 = Red_tailed_Hawk
+  0  0  0  0  0  1  1  0  0 21 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 30 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3543
+ Precision:       0.3655
+ Recall:          0.3542
+ F1 Score:        0.3548
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 21  1  0  9  7  3  3  0  3  5 | 0 = American_Crow
+  2 18  3  1  3 11  2  1  8  4 | 1 = American_Goldfinch
+  1  6 11  3  6 13  3  3  2  5 | 2 = American_Robin
+  4  4  4 15  0  6  5  1 10  4 | 3 = Bald_Eagle
+  7  1  2  3 23  1  2  3  3  8 | 4 = Blue_Jay
+  5  1  0  9  7 19  6  2  2  1 | 5 = Canada_Goose
+  4  4  2  4 10  4 11  1  7  5 | 6 = Great_Blue_Heron
+  1  3  8  2  0  5  1 30  2  1 | 7 = Northern_Cardinal
+  0  5  2  5  0 13  3  2 14  8 | 8 = Red_tailed_Hawk
+  1  0  0  3  5  6  7  2  4 24 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 30 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.8933
+ Precision:       0.9007
+ Recall:          0.8931
+ F1 Score:        0.8945
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 22  0  0  0  0  0  1  0  0  0 | 0 = American_Crow
+  0 18  1  0  1  0  0  0  1  1 | 1 = American_Goldfinch
+  0  0 22  0  0  0  0  0  0  0 | 2 = American_Robin
+  0  1  1 18  0  1  0  0  1  0 | 3 = Bald_Eagle
+  0  0  0  0 19  0  3  0  0  0 | 4 = Blue_Jay
+  0  0  0  1  1 19  2  0  0  0 | 5 = Canada_Goose
+  0  0  0  0  0  1 21  0  0  1 | 6 = Great_Blue_Heron
+  0  0  0  0  0  0  1 20  1  0 | 7 = Northern_Cardinal
+  0  0  0  0  0  1  0  1 21  0 | 8 = Red_tailed_Hawk
+  0  0  0  0  0  1  1  0  0 21 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 31 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3676
+ Precision:       0.3734
+ Recall:          0.3671
+ F1 Score:        0.3537
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 26  7  1  3  5  4  2  1  0  3 | 0 = American_Crow
+  3 34  3  2  1  4  1  3  2  0 | 1 = American_Goldfinch
+  1 11 15  3  5 12  0  6  0  0 | 2 = American_Robin
+  6 11  4 10  0  6  3  3  7  3 | 3 = Bald_Eagle
+ 10  9  2  1 18  4  2  4  1  2 | 4 = Blue_Jay
+  6  7  4  4  6 17  2  5  0  1 | 5 = Canada_Goose
+  5  8  9  3  7  3  8  2  2  5 | 6 = Great_Blue_Heron
+  1  7  5  0  0  5  0 34  0  1 | 7 = Northern_Cardinal
+  1  8  6  4  1 13  2  6  9  2 | 8 = Red_tailed_Hawk
+  1  0  2  4  3  7  5  6  2 22 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 31 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.8578
+ Precision:       0.8791
+ Recall:          0.8583
+ F1 Score:        0.8602
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 23  0  0  0  0  0  0  0  0  0 | 0 = American_Crow
+  0 22  0  0  0  0  0  0  0  0 | 1 = American_Goldfinch
+  0  3 18  0  0  0  0  1  0  0 | 2 = American_Robin
+  1  1  1 17  0  1  1  0  0  0 | 3 = Bald_Eagle
+  1  2  0  0 19  0  0  0  0  0 | 4 = Blue_Jay
+  0  3  1  1  0 17  0  0  1  0 | 5 = Canada_Goose
+  0  1  0  1  1  1 19  0  0  0 | 6 = Great_Blue_Heron
+  1  0  0  0  0  0  0 21  0  0 | 7 = Northern_Cardinal
+  0  4  0  0  0  1  0  1 17  0 | 8 = Red_tailed_Hawk
+  0  1  0  0  1  0  1  0  0 20 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 32 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3276
+ Precision:       0.3224
+ Recall:          0.3274
+ F1 Score:        0.3100
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 27  1  0  8  6  3  0  0  4  3 | 0 = American_Crow
+  4 12  4  2  5  6  1  1 16  2 | 1 = American_Goldfinch
+  1  1 12  7  7 10  0 10  3  2 | 2 = American_Robin
+  5  1  2 15  2 12  0  5  7  4 | 3 = Bald_Eagle
+ 11  0  1  6 19  4  0  2  6  4 | 4 = Blue_Jay
+  7  1  2  9  6 17  0  6  3  1 | 5 = Canada_Goose
+  7  1  0 10 12  8  0  3  6  5 | 6 = Great_Blue_Heron
+  1  2  6  1  1  3  0 35  3  1 | 7 = Northern_Cardinal
+  2  2  2  9  0 10  0  8 16  3 | 8 = Red_tailed_Hawk
+  1  0  2  4  3 12  1  4  6 19 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 32 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.8489
+ Precision:       0.8740
+ Recall:          0.8504
+ F1 Score:        0.8278
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 23  0  0  0  0  0  0  0  0  0 | 0 = American_Crow
+  0 18  0  0  0  1  0  1  2  0 | 1 = American_Goldfinch
+  1  0 20  0  0  0  0  1  0  0 | 2 = American_Robin
+  0  1  0 20  0  0  0  0  1  0 | 3 = Bald_Eagle
+  0  0  0  0 21  0  0  0  1  0 | 4 = Blue_Jay
+  0  0  1  1  1 19  0  0  1  0 | 5 = Canada_Goose
+  2  0  0  7  3  1  4  0  4  2 | 6 = Great_Blue_Heron
+  0  0  0  0  0  0  0 22  0  0 | 7 = Northern_Cardinal
+  0  0  0  1  0  0  0  0 22  0 | 8 = Red_tailed_Hawk
+  0  0  0  0  0  0  0  0  1 22 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 33 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3524
+ Precision:       0.3920
+ Recall:          0.3522
+ F1 Score:        0.3546
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 27  4  1  5  1  5  5  0  1  3 | 0 = American_Crow
+  5 28  2  0  1  3  9  0  3  2 | 1 = American_Goldfinch
+  1  6 16  2  3  7 11  2  1  4 | 2 = American_Robin
+  5  6  4  9  0  7 16  1  4  1 | 3 = Bald_Eagle
+ 10  1  1  2 15  3 15  2  0  4 | 4 = Blue_Jay
+  8  4  0  6  3 18 10  1  1  1 | 5 = Canada_Goose
+  9  3  4  2  2  2 21  0  3  6 | 6 = Great_Blue_Heron
+  1  4  5  2  0  4  6 30  1  0 | 7 = Northern_Cardinal
+  2  5  3  4  1 12 10  4  8  3 | 8 = Red_tailed_Hawk
+  0  1  0  0  2  5 25  2  4 13 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 33 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.8489
+ Precision:       0.8941
+ Recall:          0.8490
+ F1 Score:        0.8605
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 22  0  0  0  0  0  1  0  0  0 | 0 = American_Crow
+  0 20  0  1  0  0  1  0  0  0 | 1 = American_Goldfinch
+  0  0 19  0  0  0  3  0  0  0 | 2 = American_Robin
+  0  1  0 15  0  0  6  0  0  0 | 3 = Bald_Eagle
+  0  1  0  0 19  0  1  0  0  1 | 4 = Blue_Jay
+  0  1  0  1  0 17  4  0  0  0 | 5 = Canada_Goose
+  0  0  0  1  0  1 21  0  0  0 | 6 = Great_Blue_Heron
+  0  0  0  0  0  0  0 21  1  0 | 7 = Northern_Cardinal
+  0  1  0  0  0  0  3  0 18  1 | 8 = Red_tailed_Hawk
+  0  0  0  0  0  0  4  0  0 19 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 34 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3390
+ Precision:       0.3789
+ Recall:          0.3385
+ F1 Score:        0.3291
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 13  2  0  9 12  8  1  0  3  4 | 0 = American_Crow
+  1 19  5  2  5  7  1  3  8  2 | 1 = American_Goldfinch
+  0  4 11  7  8 10  0 10  3  0 | 2 = American_Robin
+  1  2  6 15  4 11  0  2  9  3 | 3 = Bald_Eagle
+  1  4  5  2 27  7  0  1  2  4 | 4 = Blue_Jay
+  1  2  1 12  9 21  0  2  2  2 | 5 = Canada_Goose
+  2  1  5  8 10  8  3  4  5  6 | 6 = Great_Blue_Heron
+  1  2  8  2  0  5  0 33  2  0 | 7 = Northern_Cardinal
+  0  5  5  6  1 10  0  6 14  5 | 8 = Red_tailed_Hawk
+  0  0  2  2  6 12  2  4  2 22 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch 34 Testing stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.8756
+ Precision:       0.8859
+ Recall:          0.8769
+ F1 Score:        0.8740
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 19  0  0  0  2  1  0  0  0  1 | 0 = American_Crow
+  0 21  0  1  0  0  0  0  0  0 | 1 = American_Goldfinch
+  0  0 20  0  0  1  0  0  1  0 | 2 = American_Robin
+  0  0  0 20  1  1  0  0  0  0 | 3 = Bald_Eagle
+  0  0  0  0 21  0  1  0  0  0 | 4 = Blue_Jay
+  0  1  0  1  1 19  0  1  0  0 | 5 = Canada_Goose
+  0  0  2  2  2  2 13  0  0  2 | 6 = Great_Blue_Heron
+  0  0  0  0  0  1  0 21  0  0 | 7 = Northern_Cardinal
+  0  0  1  0  0  2  0  0 20  0 | 8 = Red_tailed_Hawk
+  0  0  0  0  0  0  0  0  0 23 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Corrupt JPEG data: 737 extraneous bytes before marker 0xed
+Epoch 35 Training stats: 
+
+
+========================Evaluation Metrics========================
+ # of classes:    10
+ Accuracy:        0.3162
+ Precision:       0.3865
+ Recall:          0.3161
+ F1 Score:        0.3282
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+
+
+=========================Confusion Matrix=========================
+  0  1  2  3  4  5  6  7  8  9
+-------------------------------
+ 21  2  0  6  4  4 12  0  2  1 | 0 = American_Crow
+  2 21  4  1  2  5  7  0  9  2 | 1 = American_Goldfinch
+  0  4 18  4  5  6 10  1  4  1 | 2 = American_Robin
+  4  2  5  7  2  8 18  0  5  2 | 3 = Bald_Eagle
+ 12  0  0  1 19  0 16  0  3  2 | 4 = Blue_Jay
+ 10  2  3  2  6 15 11  0  2  1 | 5 = Canada_Goose
+  6  1  4  2  8  2 22  0  6  1 | 6 = Great_Blue_Heron
+  1  3  9  2  1  7  4 21  4  1 | 7 = Northern_Cardinal
+  3  6  4  2  1  8 18  1  7  2 | 8 = Red_tailed_Hawk
+  2  0  0  1  5  3 22  0  4 15 | 9 = Snowy_Owl
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================

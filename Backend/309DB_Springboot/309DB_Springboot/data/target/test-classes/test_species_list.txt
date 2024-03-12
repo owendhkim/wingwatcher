@@ -1,0 +1,3 @@
+Acadian_Flycatcher>Acadian Flycatcher>Empidonax virescens>https://www.allaboutbirds.org/guide/assets/photo/39416171-1280px.jpg>https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Acadian_Flycatcher.ogg/Acadian_Flycatcher.ogg.mp3
+Acorn_Woodpecker>Acorn Woodpecker>Melanerpes formicivorus>https://www.allaboutbirds.org/guide/assets/photo/39422851-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000002.mp3
+Alder_Flycatcher>Alder Flycatcher>Empidonax alnorum>https://www.allaboutbirds.org/guide/assets/photo/39416031-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000648.mp3

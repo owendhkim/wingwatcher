@@ -1,0 +1,264 @@
+
+
+
+<!DOCTYPE html>
+<html id="htmlId">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=windows-1252"> 
+  <title>Coverage Report > BirdInfoPopulator</title>
+  <style type="text/css">
+    @import "../../css/coverage.css";
+    @import "../../css/idea.min.css";
+  </style>
+  <script type="text/javascript" src="../../js/highlight.min.js"></script>
+  <script type="text/javascript" src="../../js/highlightjs-line-numbers.min.js"></script>
+</head>
+
+<body>
+<div class="content">
+<div class="breadCrumbs">
+Current scope:     <a href="../../index.html">all classes</a>
+    <span class="separator">|</span>
+    <a href="../index.html">Tables.Populator</a>
+</div>
+
+<h1>Coverage Summary for Class: BirdInfoPopulator (Tables.Populator)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">BirdInfoPopulator</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    83.3%
+  </span>
+  <span class="absValue">
+    (5/6)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    76.2%
+  </span>
+  <span class="absValue">
+    (61/80)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<pre>
+<code class="sourceCode" id="sourceCode">&nbsp;package Tables.Populator;
+&nbsp;import Tables.BirdInfo.BirdInfo;
+&nbsp;import Tables.BirdInfo.BirdInfoRepository;
+&nbsp;import org.json.JSONObject;
+&nbsp;import java.io.*;
+&nbsp;import java.util.ArrayList;
+&nbsp;import java.util.List;
+&nbsp;import kong.unirest.HttpResponse;
+&nbsp;import kong.unirest.Unirest;
+&nbsp;import org.springframework.beans.factory.annotation.Autowired;
+&nbsp;import org.springframework.stereotype.Component;
+&nbsp;
+&nbsp;/**
+&nbsp; * @author Brian Xicon
+&nbsp; */
+&nbsp;@Component
+<b class="fc">&nbsp;public class BirdInfoPopulator {</b>
+&nbsp;    //public BirdInfo( String scientificName, String name, String shortDesc, String image, String rangeMap, String callSound)
+&nbsp;
+&nbsp;    @Autowired
+&nbsp;    private BirdInfoRepository birdInfoRepository;
+&nbsp;
+&nbsp;    public static List&lt;BirdInfo&gt; readSpeciesList(String filename){
+<b class="fc">&nbsp;        List&lt;BirdInfo&gt; birdInfoList = new ArrayList&lt;&gt;();</b>
+&nbsp;
+<b class="fc">&nbsp;        try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {</b>
+&nbsp;            String line;
+<b class="fc">&nbsp;            while ((line = reader.readLine()) != null) {</b>
+<b class="fc">&nbsp;                String[] parts = line.split(&quot;&gt;&quot;);</b>
+<b class="fc">&nbsp;                if (parts.length == 5) {</b>
+<b class="fc">&nbsp;                    String callSound = parts[4];</b>
+<b class="fc">&nbsp;                    String rangeMap = parts[3];</b>
+<b class="fc">&nbsp;                    String scientificName = parts[1];</b>
+<b class="fc">&nbsp;                    String commonName = parts[2];</b>
+&nbsp;
+&nbsp;
+<b class="fc">&nbsp;                    birdInfoList.add(new BirdInfo(commonName, scientificName, &quot;&quot;, &quot;&quot;, rangeMap, callSound));</b>
+&nbsp;                }
+<b class="fc">&nbsp;            }</b>
+<b class="fc">&nbsp;        } catch (IOException e) {</b>
+<b class="nc">&nbsp;            e.printStackTrace();</b>
+<b class="fc">&nbsp;        }</b>
+&nbsp;
+<b class="fc">&nbsp;        return birdInfoList;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    public static String toWikiAddress(String nameOfBird){
+<b class="fc">&nbsp;        if(nameOfBird.equals(&quot;LeConte&#39;s Sparrow&quot;))</b>
+<b class="fc">&nbsp;            return &quot;leConte%27s_sparrow&quot;;</b>
+<b class="fc">&nbsp;        if(nameOfBird.equals(&quot;Cape May Warbler&quot;))</b>
+<b class="fc">&nbsp;            return &quot;Cape_May_warbler&quot;;</b>
+&nbsp;
+<b class="fc">&nbsp;        String wikiAddress = nameOfBird.replaceAll(&quot; &quot;, &quot;_&quot;);</b>
+<b class="fc">&nbsp;        wikiAddress = wikiAddress.replaceAll(&quot;&#39;&quot;, &quot;%27&quot;);</b>
+<b class="fc">&nbsp;        wikiAddress = wikiAddress.toLowerCase();</b>
+&nbsp;
+<b class="fc">&nbsp;        return wikiAddress;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    public static void populateBirdInfoFromWikipedia(List&lt;BirdInfo&gt; birdInfoList) {
+<b class="fc">&nbsp;        for (BirdInfo birdInfo : birdInfoList) {</b>
+<b class="fc">&nbsp;            String birdName = birdInfo.getName();</b>
+<b class="fc">&nbsp;            String wikiPage = toWikiAddress(birdName);</b>
+&nbsp;
+&nbsp;
+<b class="fc">&nbsp;            String propParam = &quot;extracts%7Cpageimages%7Cinfo&quot;;</b>
+<b class="fc">&nbsp;            String wikipediaURL = &quot;https://en.wikipedia.org/w/api.php?action=query&amp;format=json&amp;prop=&quot; + propParam +</b>
+&nbsp;                    &quot;&amp;exintro=true&amp;titles=&quot; + wikiPage;
+&nbsp;
+<b class="fc">&nbsp;            HttpResponse&lt;String&gt; response = Unirest.get(wikipediaURL)</b>
+<b class="fc">&nbsp;                    .header(&quot;User-Agent&quot;, &quot;Your-App-Name&quot;)</b>
+<b class="fc">&nbsp;                    .asString();</b>
+&nbsp;
+&nbsp;            // Parse and process the JSON response
+<b class="fc">&nbsp;            String jsonResponse = response.getBody();</b>
+&nbsp;
+&nbsp;            try {
+<b class="fc">&nbsp;                JSONObject result = new JSONObject(jsonResponse);</b>
+<b class="fc">&nbsp;                JSONObject pages = result.getJSONObject(&quot;query&quot;).getJSONObject(&quot;pages&quot;);</b>
+<b class="fc">&nbsp;                String pageId = pages.keys().next();</b>
+<b class="fc">&nbsp;                JSONObject page = pages.getJSONObject(pageId);</b>
+&nbsp;
+&nbsp;                // Extract the description
+<b class="fc">&nbsp;                String description = page.optString(&quot;extract&quot;);</b>
+&nbsp;
+&nbsp;                // Extract the image URL
+<b class="fc">&nbsp;                String imageURL = page.getJSONObject(&quot;thumbnail&quot;).optString(&quot;source&quot;);</b>
+<b class="nc">&nbsp;                String highResImageURL = imageURL.replace(&quot;/50px-&quot;, &quot;/400px-&quot;);</b>
+&nbsp;                // Output the description and image URL
+<b class="nc">&nbsp;                birdInfo.setShortDesc(description.replaceAll(&quot;&lt;[^&gt;]+&gt;&quot;, &quot;&quot;).replaceAll(&quot;\\s+&quot;, &quot; &quot;).replaceAll(&quot;\\n{2,}&quot;, &quot;&quot;));</b>
+<b class="nc">&nbsp;                birdInfo.setImage(highResImageURL);</b>
+<b class="fc">&nbsp;            } catch (Exception e) {</b>
+<b class="fc">&nbsp;                System.err.println(&quot;Error: &quot; + e.getMessage());</b>
+&nbsp;            } finally {
+&nbsp;                // Close the connection
+<b class="fc">&nbsp;                Unirest.shutDown();</b>
+<b class="fc">&nbsp;            }</b>
+<b class="fc">&nbsp;        }</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    public static void printWikiInfo(String birdName){
+&nbsp;
+<b class="fc">&nbsp;        String birdTitle = toWikiAddress(birdName);</b>
+&nbsp;
+<b class="fc">&nbsp;        String propParam = &quot;extracts%7Cpageimages%7Cinfo&quot;;</b>
+<b class="fc">&nbsp;        String wikipediaURL = &quot;https://en.wikipedia.org/w/api.php?action=query&amp;format=json&amp;prop=&quot; + propParam +</b>
+&nbsp;                &quot;&amp;exintro=true&amp;titles=&quot; + birdTitle;
+&nbsp;
+<b class="fc">&nbsp;        HttpResponse&lt;String&gt; response = Unirest.get(wikipediaURL)</b>
+<b class="fc">&nbsp;                .header(&quot;User-Agent&quot;, &quot;Your-App-Name&quot;)</b>
+<b class="fc">&nbsp;                .asString();</b>
+&nbsp;
+&nbsp;        // Parse and process the JSON response
+<b class="fc">&nbsp;        String jsonResponse = response.getBody();</b>
+&nbsp;
+&nbsp;        try {
+<b class="fc">&nbsp;            JSONObject result = new JSONObject(jsonResponse);</b>
+<b class="fc">&nbsp;            JSONObject pages = result.getJSONObject(&quot;query&quot;).getJSONObject(&quot;pages&quot;);</b>
+<b class="fc">&nbsp;            String pageId = pages.keys().next();</b>
+<b class="fc">&nbsp;            JSONObject page = pages.getJSONObject(pageId);</b>
+&nbsp;
+&nbsp;            // Extract the description
+<b class="fc">&nbsp;            String description = page.optString(&quot;extract&quot;);</b>
+&nbsp;
+&nbsp;            // Extract the image URL
+<b class="fc">&nbsp;            String imageURL = page.getJSONObject(&quot;thumbnail&quot;).optString(&quot;source&quot;);</b>
+<b class="fc">&nbsp;            String highResImageURL = imageURL.replace(&quot;/50px-&quot;, &quot;/400px-&quot;);</b>
+&nbsp;            // Output the description and image URL
+<b class="fc">&nbsp;            System.out.println(&quot;Description: &quot; + description.replaceAll(&quot;&lt;[^&gt;]+&gt;&quot;, &quot;&quot;));</b>
+<b class="fc">&nbsp;            System.out.println(&quot;Image URL: &quot; + highResImageURL);</b>
+<b class="nc">&nbsp;        } catch (Exception e) {</b>
+<b class="nc">&nbsp;            System.err.println(&quot;Error: &quot; + e.getMessage());</b>
+&nbsp;        } finally {
+&nbsp;            // Close the connection
+<b class="fc">&nbsp;            Unirest.shutDown();</b>
+<b class="fc">&nbsp;        }</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    public static void createSpeciesList() {
+<b class="nc">&nbsp;        String directoryPath = &quot;D:\\xmenz\\Desktop\\birdsnap\\download\\images&quot;;</b>
+<b class="nc">&nbsp;        String outputFileName = &quot;speciesList.txt&quot;;</b>
+&nbsp;
+<b class="nc">&nbsp;        File directory = new File(directoryPath);</b>
+&nbsp;
+<b class="nc">&nbsp;        if (directory.exists() &amp;&amp; directory.isDirectory()) {</b>
+<b class="nc">&nbsp;            File[] folders = directory.listFiles(File::isDirectory);</b>
+&nbsp;
+<b class="nc">&nbsp;            if (folders != null) {</b>
+<b class="nc">&nbsp;                try (FileWriter writer = new FileWriter(outputFileName)) {</b>
+<b class="nc">&nbsp;                    for (File folder : folders) {</b>
+<b class="nc">&nbsp;                        writer.write(folder.getName() + &quot;\n&quot;);</b>
+&nbsp;                    }
+<b class="nc">&nbsp;                    System.out.println(&quot;Folder names written to &quot; + outputFileName);</b>
+<b class="nc">&nbsp;                } catch (IOException e) {</b>
+<b class="nc">&nbsp;                    System.err.println(&quot;Error writing to the file: &quot; + e.getMessage());</b>
+<b class="nc">&nbsp;                }</b>
+&nbsp;            }
+&nbsp;        }
+&nbsp;    }
+&nbsp;}
+</code>
+</pre>
+</div>
+
+<script type="text/javascript">
+(function() {
+    var msie = false, msie9 = false;
+    /*@cc_on
+      msie = true;
+      @if (@_jscript_version >= 9)
+        msie9 = true;
+      @end
+    @*/
+
+    if (!msie || msie && msie9) {
+      hljs.highlightAll()
+      hljs.initLineNumbersOnLoad();
+    }
+})();
+</script>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2023-12-06 14:07</div>
+</div>
+</body>
+</html>

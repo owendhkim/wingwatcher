@@ -1,0 +1,192 @@
+
+
+
+<!DOCTYPE html>
+<html id="htmlId">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=windows-1252"> 
+  <title>Coverage Report > BirdTrackingInfoController</title>
+  <style type="text/css">
+    @import "../../css/coverage.css";
+    @import "../../css/idea.min.css";
+  </style>
+  <script type="text/javascript" src="../../js/highlight.min.js"></script>
+  <script type="text/javascript" src="../../js/highlightjs-line-numbers.min.js"></script>
+</head>
+
+<body>
+<div class="content">
+<div class="breadCrumbs">
+Current scope:     <a href="../../index.html">all classes</a>
+    <span class="separator">|</span>
+    <a href="../index.html">Tables.BirdTrackingInfo</a>
+</div>
+
+<h1>Coverage Summary for Class: BirdTrackingInfoController (Tables.BirdTrackingInfo)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">BirdTrackingInfoController</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    16.7%
+  </span>
+  <span class="absValue">
+    (1/6)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    18.8%
+  </span>
+  <span class="absValue">
+    (3/16)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<pre>
+<code class="sourceCode" id="sourceCode">&nbsp;package Tables.BirdTrackingInfo;
+&nbsp;
+&nbsp;import org.springframework.beans.factory.annotation.Autowired;
+&nbsp;import org.springframework.web.bind.annotation.*;
+&nbsp;import io.swagger.annotations.Api;
+&nbsp;import io.swagger.annotations.ApiOperation;
+&nbsp;import io.swagger.annotations.ApiResponse;
+&nbsp;import io.swagger.annotations.ApiResponses;
+&nbsp;import java.util.List;
+&nbsp;
+&nbsp;/**
+&nbsp; *
+&nbsp; * @author Owen Kim
+&nbsp; *
+&nbsp; */
+&nbsp;@Api(value = &quot;BirdTrackingInfoController&quot;, description = &quot;REST APIs related to BirdTrackingInfo entity&quot;)
+&nbsp;@RestController
+<b class="fc">&nbsp;public class BirdTrackingInfoController {</b>
+&nbsp;
+&nbsp;    @Autowired
+&nbsp;    BirdTrackingInfoRepository birdTrackingInfoRepository;
+&nbsp;
+<b class="fc">&nbsp;    private String success = &quot;{\&quot;message\&quot;:\&quot;success\&quot;}&quot;;</b>
+<b class="fc">&nbsp;    private String failure = &quot;{\&quot;message\&quot;:\&quot;failure\&quot;}&quot;;</b>
+&nbsp;
+&nbsp;    @ApiOperation(value = &quot;Get all list of birdTrackingInfos&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @GetMapping(path = &quot;/birdtrackinginfos&quot;)
+&nbsp;    List&lt;BirdTrackingInfo&gt; getAllBirdtrackinginfos(){
+<b class="nc">&nbsp;        return birdTrackingInfoRepository.findAll();</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    @ApiOperation(value = &quot;Get specepfic birdTrackingInfo by id&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @GetMapping(path = &quot;/birdtrackinginfos/{id}&quot;)
+&nbsp;    BirdTrackingInfo getBirdtrackinginfoById(@PathVariable int id){
+<b class="nc">&nbsp;        return birdTrackingInfoRepository.findById(id);</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    @ApiOperation(value = &quot;Create new birdTrackingInfo&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @PostMapping(path = &quot;/birdtrackinginfos&quot;)
+&nbsp;    String createBirdtrackinginfo(@RequestBody BirdTrackingInfo Birdtrackinginfo){
+<b class="nc">&nbsp;        if (Birdtrackinginfo == null)</b>
+<b class="nc">&nbsp;            return failure;</b>
+<b class="nc">&nbsp;        birdTrackingInfoRepository.save(Birdtrackinginfo);</b>
+<b class="nc">&nbsp;        return success;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    @ApiOperation(value = &quot;Update specific birdTrackingInfo by id&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @PutMapping(path = &quot;/birdtrackinginfos/{id}&quot;)
+&nbsp;    BirdTrackingInfo updateBirdtrackinginfo(@PathVariable int id, @RequestBody BirdTrackingInfo request){
+<b class="nc">&nbsp;        BirdTrackingInfo birdtrackinginfo = birdTrackingInfoRepository.findById(id);</b>
+<b class="nc">&nbsp;        if(birdtrackinginfo == null)</b>
+<b class="nc">&nbsp;            return null;</b>
+<b class="nc">&nbsp;        birdTrackingInfoRepository.save(request);</b>
+<b class="nc">&nbsp;        return birdTrackingInfoRepository.findById(id);</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    @ApiOperation(value = &quot;Delete specific birdTrackingInfo by id&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @DeleteMapping(path = &quot;/birdtrackinginfo/{id}&quot;)
+&nbsp;    String deleteBirdtrackinginfo(@PathVariable int id){
+<b class="nc">&nbsp;        birdTrackingInfoRepository.deleteById(id);</b>
+<b class="nc">&nbsp;        return success;</b>
+&nbsp;    }
+&nbsp;}
+</code>
+</pre>
+</div>
+
+<script type="text/javascript">
+(function() {
+    var msie = false, msie9 = false;
+    /*@cc_on
+      msie = true;
+      @if (@_jscript_version >= 9)
+        msie9 = true;
+      @end
+    @*/
+
+    if (!msie || msie && msie9) {
+      hljs.highlightAll()
+      hljs.initLineNumbersOnLoad();
+    }
+})();
+</script>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2023-12-06 14:07</div>
+</div>
+</body>
+</html>

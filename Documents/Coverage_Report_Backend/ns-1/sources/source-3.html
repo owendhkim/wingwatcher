@@ -1,0 +1,164 @@
+
+
+
+<!DOCTYPE html>
+<html id="htmlId">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=windows-1252"> 
+  <title>Coverage Report > UserConfig</title>
+  <style type="text/css">
+    @import "../../css/coverage.css";
+    @import "../../css/idea.min.css";
+  </style>
+  <script type="text/javascript" src="../../js/highlight.min.js"></script>
+  <script type="text/javascript" src="../../js/highlightjs-line-numbers.min.js"></script>
+</head>
+
+<body>
+<div class="content">
+<div class="breadCrumbs">
+Current scope:     <a href="../../index.html">all classes</a>
+    <span class="separator">|</span>
+    <a href="../index.html">Tables</a>
+</div>
+
+<h1>Coverage Summary for Class: UserConfig (Tables)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">UserConfig</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    50%
+  </span>
+  <span class="absValue">
+    (1/2)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    11.1%
+  </span>
+  <span class="absValue">
+    (1/9)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<pre>
+<code class="sourceCode" id="sourceCode">&nbsp;package Tables;
+&nbsp;
+&nbsp;import java.util.Arrays;
+&nbsp;import java.util.List;
+&nbsp;import java.util.Optional;
+&nbsp;
+&nbsp;import Tables.Users.UserRepository;
+&nbsp;import org.springframework.beans.factory.annotation.Autowired;
+&nbsp;import org.springframework.context.annotation.ComponentScan;
+&nbsp;import org.springframework.security.core.authority.AuthorityUtils;
+&nbsp;import org.springframework.security.core.authority.SimpleGrantedAuthority;
+&nbsp;import org.springframework.security.core.userdetails.User;
+&nbsp;import org.springframework.security.core.userdetails.UserDetails;
+&nbsp;import org.springframework.security.core.userdetails.UserDetailsService;
+&nbsp;import org.springframework.security.core.userdetails.UsernameNotFoundException;
+&nbsp;import org.springframework.stereotype.Service;
+&nbsp;
+&nbsp;@Service
+&nbsp;@ComponentScan
+<b class="fc">&nbsp;public class UserConfig implements UserDetailsService {</b>
+&nbsp;    @Autowired
+&nbsp;    private UserRepository userRepository;
+&nbsp;
+&nbsp;    @Override
+&nbsp;    public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
+&nbsp;//
+&nbsp;//        UserDetails details = null;
+&nbsp;//
+&nbsp;//        try {
+&nbsp;//            Tables.Users.User user = userRepository.findByUsername(username);
+&nbsp;//
+&nbsp;//            details =
+&nbsp;//                    new org.springframework.security.core.userdetails.User(username,
+&nbsp;//                            user.getPassword(),
+&nbsp;//                            AuthorityUtils.createAuthorityList());
+&nbsp;//        } catch (UsernameNotFoundException exception) {
+&nbsp;//            throw exception;
+&nbsp;//        } catch (Exception exception) {
+&nbsp;//            throw new UsernameNotFoundException(username);
+&nbsp;//        }
+&nbsp;//
+&nbsp;//        return details;
+&nbsp;
+<b class="nc">&nbsp;        List&lt;SimpleGrantedAuthority&gt; roles=null;</b>
+<b class="nc">&nbsp;        if(username.equals(&quot;admin&quot;))</b>
+&nbsp;        {
+<b class="nc">&nbsp;            roles = Arrays.asList(new SimpleGrantedAuthority(&quot;ROLE_ADMIN&quot;));</b>
+<b class="nc">&nbsp;            return new User(&quot;admin&quot;, &quot;$2a$10$flB7dGnQ3Blp3pK2U5i5vurs.aDlIpnyXATpj59O.Q3CiJgPUpXZm&quot;,</b>
+&nbsp;                    roles);
+&nbsp;        }
+<b class="nc">&nbsp;        else if(username.equals(&quot;user&quot;))</b>
+&nbsp;        {
+<b class="nc">&nbsp;            roles = Arrays.asList(new SimpleGrantedAuthority(&quot;ROLE_USER&quot;));</b>
+<b class="nc">&nbsp;            return new User(&quot;user&quot;, &quot;$2a$10$x5apmQbgsHZwA.e1YRCnWOh4JdxhpSaxgOUFg..zb0QX4mwegT696&quot;,</b>
+&nbsp;                    roles);
+&nbsp;        }
+<b class="nc">&nbsp;        throw new UsernameNotFoundException(&quot;User not found with username: &quot; + username);</b>
+&nbsp;    }
+&nbsp;
+&nbsp;}
+</code>
+</pre>
+</div>
+
+<script type="text/javascript">
+(function() {
+    var msie = false, msie9 = false;
+    /*@cc_on
+      msie = true;
+      @if (@_jscript_version >= 9)
+        msie9 = true;
+      @end
+    @*/
+
+    if (!msie || msie && msie9) {
+      hljs.highlightAll()
+      hljs.initLineNumbersOnLoad();
+    }
+})();
+</script>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2023-12-06 14:07</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,500 @@
+Acadian_Flycatcher>Acadian Flycatcher>Empidonax virescens>https://www.allaboutbirds.org/guide/assets/photo/39416171-1280px.jpg>https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Acadian_Flycatcher.ogg/Acadian_Flycatcher.ogg.mp3
+Acorn_Woodpecker>Acorn Woodpecker>Melanerpes formicivorus>https://www.allaboutbirds.org/guide/assets/photo/39422851-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000002.mp3
+Alder_Flycatcher>Alder Flycatcher>Empidonax alnorum>https://www.allaboutbirds.org/guide/assets/photo/39416031-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000648.mp3
+Allens_Hummingbird>Allen's Hummingbird>Selasphorus sasin>https://www.allaboutbirds.org/guide/assets/photo/39440581-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000006.mp3
+Altamira_Oriole>Altamira Oriole>Icterus gularis>https://www.allaboutbirds.org/guide/assets/photo/39415441-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000007.mp3
+American_Avocet>American Avocet>Recurvirostra americana>https://www.allaboutbirds.org/guide/assets/photo/39435971-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000008.mp3
+American_Bittern>American Bittern>Botaurus lentiginosus>https://www.allaboutbirds.org/guide/assets/photo/39409061-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000009.mp3
+American_Black_Duck>American Black Duck>Anas rubripes>https://www.allaboutbirds.org/guide/assets/photo/31498891-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/252598451/audio
+American_Coot>American Coot>Fulica americana>https://www.allaboutbirds.org/guide/assets/photo/39417941-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001732.mp3
+American_Crow>American Crow>Corvus brachyrhynchos>https://www.allaboutbirds.org/guide/assets/photo/360990901-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000012.mp3
+American_Dipper>American Dipper>Cinclus mexicanus>https://www.allaboutbirds.org/guide/assets/photo/39447821-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000013.mp3
+American_Golden_Plover>American Golden Plover>Pluvialis dominica>https://www.allaboutbirds.org/guide/assets/photo/39445421-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/31731481/audio
+American_Goldfinch>American Goldfinch>Spinus tristis>https://www.allaboutbirds.org/guide/assets/photo/63179501-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000015.mp3
+American_Kestrel>American Kestrel>Falco sparverius>https://www.allaboutbirds.org/guide/assets/photo/39417581-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000017.mp3
+American_Oystercatcher>American Oystercatcher>Haematopus palliatus>https://www.allaboutbirds.org/guide/assets/photo/39413101-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000046.mp3
+American_Pipit>Buff-Bellied Pipit>Anthus rubescens>https://www.allaboutbirds.org/guide/assets/photo/169860091-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000018.mp3
+American_Redstart>American Redstart>Setophaga ruticilla>https://www.allaboutbirds.org/guide/assets/photo/93002231-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000019.mp3
+American_Robin>American Robin>Turdus migratorius>https://www.allaboutbirds.org/guide/assets/photo/90628731-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0002639.mp3
+American_Three_toed_Woodpecker>American Three-toed Woodpecker>Picoides dorsalis>https://www.allaboutbirds.org/guide/assets/photo/88129381-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001637.mp3
+American_Tree_Sparrow>American Tree Sparrow>Spizella arborea>https://www.allaboutbirds.org/guide/assets/photo/31950061-1280px.jpg>https://acousticatlas.org/acoustic-atlas/yellowstone/item/objects/aa0000022.mp3
+American_White_Pelican>American White Pelican>Pelecanus erythrorhynchos>https://www.allaboutbirds.org/guide/assets/photo/39426441-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001707.mp3
+American_Wigeon>American Wigeon>Anas americana>https://www.allaboutbirds.org/guide/assets/photo/39406201-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000023.mp3
+American_Woodcock>American Woodcock>Scolopax minor>https://www.allaboutbirds.org/guide/assets/photo/31950411-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/96879691/audio
+Anhinga>Anhinga>anhinga>https://www.allaboutbirds.org/guide/assets/photo/169645401-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/178385161/audio
+Annas_Hummingbird>Anna's Hummingbird>Calypte anna>https://www.allaboutbirds.org/guide/assets/photo/31953741-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000025.mp3
+Arctic_Tern>Arctic Tern>Sterna paradisaea>https://www.allaboutbirds.org/guide/assets/photo/31954231-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000026.mp3
+Ash_throated_Flycatcher>Ash-throated Flycatcher>Myiarchus cinerascens>https://www.allaboutbirds.org/guide/assets/photo/39427971-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000031.mp3
+Audubons_Oriole>Audubon's Oriole>Icterus graduacauda>https://www.allaboutbirds.org/guide/assets/photo/39451101-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/327112641/audio
+Bairds_Sandpiper>Baird's Sandpiper>Calidris bairdii>https://www.allaboutbirds.org/guide/assets/photo/39403701-1280px.jpg>https://acousticatlas.org/item/objects/aa0000353.mp3
+Bald_Eagle>Bald Eagle>Haliaeetus leucocephalus>https://www.allaboutbirds.org/guide/assets/photo/31954831-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000676.mp3
+Baltimore_Oriole>Baltimore Oriole>Icterus galbula>https://www.allaboutbirds.org/guide/assets/photo/39415391-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000034.mp3
+Band_tailed_Pigeon>Band-tailed Pigeon>Patagioenas fasciata>https://www.allaboutbirds.org/guide/assets/photo/39426161-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000677.mp3
+Barn_Swallow>Barn Swallow>Hirundo rustica>https://www.allaboutbirds.org/guide/assets/photo/31955381-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000037.mp3
+Barred_Owl>Barred Owl>Strix varia>https://www.allaboutbirds.org/guide/assets/photo/360979571-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000685.mp3
+Barrows_Goldeneye>Barrow's Goldeneye>Bucephala islandica>https://www.allaboutbirds.org/guide/assets/photo/169542941-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000038.mp3
+Bay_breasted_Warbler>Bay-breasted Warbler>Setophaga castanea>https://www.allaboutbirds.org/guide/assets/photo/39411051-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/249809/audio
+Bells_Vireo>Bell's Vireo>Vireo bellii>https://www.allaboutbirds.org/guide/assets/photo/39453281-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000040.mp3
+Belted_Kingfisher>Belted Kingfisher>Megaceryle alcyon>https://www.allaboutbirds.org/guide/assets/photo/39433821-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000042.mp3
+Bewicks_Wren>Bewick's Wren>Thryomanes bewickii>https://www.allaboutbirds.org/guide/assets/photo/39461761-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000712.mp3
+Blackburnian_Warbler>Blackburnian Warbler>Setophaga fusca>https://www.allaboutbirds.org/guide/assets/photo/39411111-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000057.mp3
+Blackpoll_Warbler>Blackpoll Warbler>Setophaga striata>https://www.allaboutbirds.org/guide/assets/photo/39458181-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000065.mp3
+Black_and_white_Warbler>Black-and-white Warbler>Mniotilta varia>https://www.allaboutbirds.org/guide/assets/photo/39424231-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000054.mp3
+Black_backed_Woodpecker>Black-backed Woodpecker>Picoides arcticus>https://www.allaboutbirds.org/guide/assets/photo/306670451-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/342986861/audio
+Black_bellied_Plover>Grey Plover>Pluvialis squatarola>https://www.allaboutbirds.org/guide/assets/photo/39445451-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/167886311/audio
+Black_billed_Cuckoo>Black-billed Cuckoo>Coccyzus erythropthalmus>https://www.allaboutbirds.org/guide/assets/photo/39447871-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/229522/audio
+Black_billed_Magpie>Black-billed Magpie>Pica hudsonia>https://www.allaboutbirds.org/guide/assets/photo/169717721-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001764.mp3
+Black_capped_Chickadee>Black-capped Chickadee>Poecile atricapillus>https://www.allaboutbirds.org/guide/assets/photo/120480101-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000727.mp3
+Black_chinned_Hummingbird>Black-chinned Hummingbird>Archilochus alexandri>https://www.allaboutbirds.org/guide/assets/photo/39407371-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/220757581/audio
+Black_chinned_Sparrow>Black-chinned Sparrow>Spizella atrogularis>https://www.allaboutbirds.org/guide/assets/photo/39441421-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000060.mp3
+Black_crested_Titmouse>Black-crested Titmouse>Baeolophus atricristatus>https://www.allaboutbirds.org/guide/assets/photo/39408591-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000061.mp3
+Black_crowned_Night_Heron>Black-crowned Night Heron>Nycticorax nycticorax>https://www.allaboutbirds.org/guide/assets/photo/39430371-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000062.mp3
+Black_Guillemot>Black Guillemot>Cepphus grylle>https://www.allaboutbirds.org/guide/assets/photo/62199361-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/174688311/audio
+Black_headed_Grosbeak>Black-headed Grosbeak>Pheucticus melanocephalus>https://www.allaboutbirds.org/guide/assets/photo/39427661-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000045.mp3
+Black_legged_Kittiwake>Black-legged Kittiwake>Rissa tridactyla>https://www.allaboutbirds.org/guide/assets/photo/62199121-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000063.mp3
+Black_necked_Stilt>Black-necked Stilt>Himantopus mexicanus>https://www.allaboutbirds.org/guide/assets/photo/39414431-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000064.mp3
+Black_Oystercatcher>Black Oystercatcher>Haematopus bachmani>https://www.allaboutbirds.org/guide/assets/photo/39413061-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0002110.mp3
+Black_Phoebe>Black Phoebe>Sayornis nigricans>https://www.allaboutbirds.org/guide/assets/photo/39436671-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000047.mp3
+Black_Rosy_Finch>Black Rosy Finch>Leucosticte atrata>https://www.allaboutbirds.org/guide/assets/photo/31921051-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000048.mp3
+Black_Scoter>Black Scoter>Melanitta americana>https://www.allaboutbirds.org/guide/assets/photo/31956581-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000049.mp3
+Black_Skimmer>Black Skimmer>Rynchops niger>https://www.allaboutbirds.org/guide/assets/photo/169648931-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000050.mp3
+Black_Tern>Black Tern>Chlidonias niger>https://www.allaboutbirds.org/guide/assets/photo/31956821-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000052.mp3
+Black_throated_Blue_Warbler>Black-throated Blue Warbler>Setophaga caerulescens>https://www.allaboutbirds.org/guide/assets/photo/39411041-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/342066171/audio
+Black_throated_Gray_Warbler>Black-throated Gray Warbler>Setophaga nigrescens>https://www.allaboutbirds.org/guide/assets/photo/39411151-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000067.mp3
+Black_throated_Green_Warbler>Black-throated Green Warbler>Setophaga virens>https://www.allaboutbirds.org/guide/assets/photo/39411261-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/231037691/audio
+Black_throated_Sparrow>Black-throated Sparrow>Amphispiza bilineata>https://www.allaboutbirds.org/guide/assets/photo/39454971-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000068.mp3
+Black_Turnstone>Black Turnstone>Arenaria melanocephala>https://www.allaboutbirds.org/guide/assets/photo/31957221-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000053.mp3
+Black_Vulture>Black Vulture>Coragyps atratus>https://www.allaboutbirds.org/guide/assets/photo/39422671-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/458200071/audio
+Blue_gray_Gnatcatcher>Blue-gray Gnatcatcher>Polioptila caerulea>https://www.allaboutbirds.org/guide/assets/photo/39445741-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000071.mp3
+Blue_Grosbeak>Blue Grosbeak>Passerina caerulea>https://www.allaboutbirds.org/guide/assets/photo/39426061-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000069.mp3
+Blue_headed_Vireo>Blue-headed Vireo>Vireo solitarius>https://www.allaboutbirds.org/guide/assets/photo/39457031-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000072.mp3
+Blue_Jay>Blue Jay>Cyanocitta cristata>https://www.allaboutbirds.org/guide/assets/photo/31964581-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/210916691/audio
+Blue_winged_Teal>Blue-winged Teal>Anas discors>https://www.allaboutbirds.org/guide/assets/photo/39406261-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000075.mp3
+Blue_winged_Warbler>Blue-winged Warbler>Vermivora cyanoptera>https://www.allaboutbirds.org/guide/assets/photo/39453101-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/339920491/audio
+Boat_tailed_Grackle>Boat-tailed Grackle>Quiscalus major>https://www.allaboutbirds.org/guide/assets/photo/31964991-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/73914/audio
+Bobolink>Bobolink>Dolichonyx oryzivorus>https://www.allaboutbirds.org/guide/assets/photo/39411721-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000076.mp3
+Bohemian_Waxwing>Bohemian Waxwing>Bombycilla garrulus>https://www.allaboutbirds.org/guide/assets/photo/31948321-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000077.mp3
+Bonapartes_Gull>Bonaparte's Gull>Chroicocephalus philadelphia>https://www.allaboutbirds.org/guide/assets/photo/31965071-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000078.mp3
+Boreal_Chickadee>Boreal Chickadee>Poecile hudsonicus>https://www.allaboutbirds.org/guide/assets/photo/34468561-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/130772/audio
+Brandts_Cormorant>Brandt's Cormorant>Phalacrocorax penicillatus>https://www.allaboutbirds.org/guide/assets/photo/31758261-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/305980091/audio
+Brant>Brant (Goose)>Branta bernicla>https://www.allaboutbirds.org/guide/assets/photo/31492361-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000080.mp3
+Brewers_Blackbird>Brewer's Blackbird>Euphagus cyanocephalus>https://www.allaboutbirds.org/guide/assets/photo/39416881-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/458691751/audio
+Brewers_Sparrow>Brewer's Sparrow>Spizella breweri>https://www.allaboutbirds.org/guide/assets/photo/39455671-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000083.mp3
+Bridled_Titmouse>Bridled Titmouse>Baeolophus wollweberi>https://www.allaboutbirds.org/guide/assets/photo/39408621-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000084.mp3
+Broad_billed_Hummingbird>Broad-billed Hummingbird>Cynanthus latirostris>https://www.allaboutbirds.org/guide/assets/photo/478192881-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000086.mp3
+Broad_tailed_Hummingbird>Broad-tailed Hummingbird>Selasphorus platycercus>https://www.allaboutbirds.org/guide/assets/photo/39462011-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000087.mp3
+Broad_winged_Hawk>Broad-winged Hawk>Buteo platypterus>https://www.allaboutbirds.org/guide/assets/photo/39403461-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/203907541/audio
+Bronzed_Cowbird>Bronzed Cowbird>Molothrus aeneus>https://www.allaboutbirds.org/guide/assets/photo/39424271-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000089.mp3
+Brown_capped_Rosy_Finch>Brown-capped Rosy Finch>Leucosticte australis>https://www.allaboutbirds.org/guide/assets/photo/31916811-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/253474381/audio
+Brown_Creeper>Brown Creeper>Certhia americana>https://www.allaboutbirds.org/guide/assets/photo/39447111-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000091.mp3
+Brown_crested_Flycatcher>Brown-crested Flycatcher>Myiarchus tyrannulus>https://www.allaboutbirds.org/guide/assets/photo/39428141-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000096.mp3
+Brown_headed_Cowbird>Brown-headed Cowbird>Molothrus ater>https://www.allaboutbirds.org/guide/assets/photo/39448421-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000097.mp3
+Brown_headed_Nuthatch>Brown-headed Nuthatch>Sitta pusilla>https://www.allaboutbirds.org/guide/assets/photo/358714041-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/59160541/audio
+Brown_Pelican>Brown Pelican>Pelecanus occidentalis>https://www.allaboutbirds.org/guide/assets/photo/169644791-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/80533711/audio
+Brown_Thrasher>Brown Thrasher>Toxostoma rufum>https://www.allaboutbirds.org/guide/assets/photo/25014181-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/328320911/audio
+Bufflehead>Bufflehead>Bucephala albeola>https://www.allaboutbirds.org/guide/assets/photo/38821501-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000101.mp3
+Bullocks_Oriole>Bullock's Oriole>Icterus bullockii>https://www.allaboutbirds.org/guide/assets/photo/39415261-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000102.mp3
+Burrowing_Owl>Burrowing Owl>Athene cunicularia>https://www.allaboutbirds.org/guide/assets/photo/39407941-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000103.mp3
+Bushtit>American Bushtit>Psaltriparus minimus>https://www.allaboutbirds.org/guide/assets/photo/39434131-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000104.mp3
+Cackling_Goose>Cackling Goose>Branta hutchinsii>https://www.allaboutbirds.org/guide/assets/photo/30676221-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000105.mp3
+Cactus_Wren>Cactus Wren>Campylorhynchus brunneicapillus>https://www.allaboutbirds.org/guide/assets/photo/39404381-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000106.mp3
+California_Gull>California Gull>Larus californicus>https://www.allaboutbirds.org/guide/assets/photo/31746121-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000109.mp3
+California_Quail>California Quail>Callipepla californica>https://www.allaboutbirds.org/guide/assets/photo/32006961-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000110.mp3
+California_Thrasher>California Thrasher>Toxostoma redivivum>https://www.allaboutbirds.org/guide/assets/photo/32007031-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000111.mp3
+California_Towhee>California Towhee>Melozone crissalis>https://www.allaboutbirds.org/guide/assets/photo/32007121-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000112.mp3
+Calliope_Hummingbird>Calliope Hummingbird>Selasphorus calliope>https://www.allaboutbirds.org/guide/assets/photo/39441951-1280px.jpg>https://acousticatlas.org/item/objects/aa0000113.mp3
+Canada_Goose>Canada Goose>Branta canadensis>https://www.allaboutbirds.org/guide/assets/photo/31492711-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001714.mp3
+Canada_Warbler>Canada Warbler>Cardellina canadensis>https://www.allaboutbirds.org/guide/assets/photo/39453631-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/339924751/audio
+Canvasback>Canvasback>Aythya valisineria>https://www.allaboutbirds.org/guide/assets/photo/39408581-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001565.mp3
+Canyon_Towhee>Canyon Towhee>Melozone fusca>https://www.allaboutbirds.org/guide/assets/photo/39444801-1280px.jpg>https://acousticatlas.org/item/objects/aa0000116.mp3
+Canyon_Wren>Canyon Wren>Catherpes mexicanus>https://www.allaboutbirds.org/guide/assets/photo/39405711-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000118.mp3
+Cape_May_Warbler>Cape May Warbler>Setophaga tigrina>https://www.allaboutbirds.org/guide/assets/photo/62200421-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/156115211/audio
+Carolina_Chickadee>Carolina Chickadee>Poecile carolinensis>https://www.allaboutbirds.org/guide/assets/photo/31919521-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000119.mp3
+Carolina_Wren>Carolina Wren>Thryothorus ludovicianus>https://www.allaboutbirds.org/guide/assets/photo/39439071-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000120.mp3
+Caspian_Tern>Caspian Tern>Hydroprogne caspia>https://www.allaboutbirds.org/guide/assets/photo/32007701-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000122.mp3
+Cassins_Finch>Cassin's Finch>Haemorhous cassinii>https://www.allaboutbirds.org/guide/assets/photo/32007431-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000123.mp3
+Cassins_Kingbird>Cassin's Kingbird>Tyrannus vociferans>https://www.allaboutbirds.org/guide/assets/photo/39452731-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000124.mp3
+Cassins_Sparrow>Cassin's Sparrow>Peucaea cassinii>https://www.allaboutbirds.org/guide/assets/photo/39401841-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000125.mp3
+Cassins_Vireo>Cassin's Vireo>Vireo cassinii>https://www.allaboutbirds.org/guide/assets/photo/39453331-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000126.mp3
+Cattle_Egret>Cattle Egret>Bubulcus ibis>https://www.allaboutbirds.org/guide/assets/photo/610208488-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000127.mp3
+Cave_Swallow>Cave Swallow>Petrochelidon fulva>https://www.allaboutbirds.org/guide/assets/photo/39426691-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000128.mp3
+Cedar_Waxwing>Cedar Waxwing>Bombycilla cedrorum>https://www.allaboutbirds.org/guide/assets/photo/62200711-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000129.mp3
+Cerulean_Warbler>Cerulean Warbler>Setophaga cerulea>https://www.allaboutbirds.org/guide/assets/photo/39411061-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/455179961/audio
+Chestnut_backed_Chickadee>Chestnut-backed Chickadee>Poecile rufescens>https://www.allaboutbirds.org/guide/assets/photo/31946551-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000130.mp3
+Chestnut_collared_Longspur>Chestnut-collared Longspur>Calcarius ornatus>https://www.allaboutbirds.org/guide/assets/photo/31753621-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0002883.mp3
+Chestnut_sided_Warbler>Chestnut-sided Warbler>Setophaga pensylvanica>https://www.allaboutbirds.org/guide/assets/photo/39411171-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000132.mp3
+Chihuahuan_Raven>Chihuahuan Raven>Corvus cryptoleucus>https://www.allaboutbirds.org/guide/assets/photo/39449851-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/158189771/audio
+Chimney_Swift>Chimney Swift>Chaetura pelagica>https://www.allaboutbirds.org/guide/assets/photo/39419141-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/527296/audio
+Chipping_Sparrow>Chipping Sparrow>Spizella passerina>https://www.allaboutbirds.org/guide/assets/photo/39441441-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0002079.mp3
+Cinnamon_Teal>Cinnamon Teal>Anas cyanoptera>https://www.allaboutbirds.org/guide/assets/photo/39447151-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001705.mp3
+Clapper_Rail>Clapper Rail>Rallus longirostris>https://www.allaboutbirds.org/guide/assets/photo/39435581-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000137.mp3
+Clarks_Grebe>Clark's Grebe>echmophorus clarkii>https://www.allaboutbirds.org/guide/assets/photo/31914651-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000138.mp3
+Clarks_Nutcracker>Clark's Nutcracker>Nucifraga columbiana>https://www.allaboutbirds.org/guide/assets/photo/38825411-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0002647.mp3
+Clay_colored_Sparrow>Clay-colored Sparrow>Spizella pallida>https://www.allaboutbirds.org/guide/assets/photo/39441431-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/206428/audio
+Cliff_Swallow>Cliff Swallow>Petrochelidon pyrrhonota>https://www.allaboutbirds.org/guide/assets/photo/39448821-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000140.mp3
+Common_Black_Hawk>Common Black Hawk>Buteogallus anthracinus>https://www.allaboutbirds.org/guide/assets/photo/39403251-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000142.mp3
+Common_Eider>Common Eider>Somateria mollissima>https://www.allaboutbirds.org/guide/assets/photo/31917301-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/279182411/audio
+Common_Gallinule>Common Gallinule>Gallinula galeata>https://www.allaboutbirds.org/guide/assets/photo/39459081-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000148.mp3
+Common_Goldeneye>Common Goldeneye>Bucephala clangula>https://www.allaboutbirds.org/guide/assets/photo/32260151-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000143.mp3
+Common_Grackle>Common Grackle>Quiscalus quiscula>https://www.allaboutbirds.org/guide/assets/photo/32260721-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000782.mp3
+Common_Ground_Dove>Common Ground Dove>Columbina passerina>https://www.allaboutbirds.org/guide/assets/photo/39448001-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000144.mp3
+Common_Loon>Common Loon>Gavia immer>https://www.allaboutbirds.org/guide/assets/photo/31755041-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000146.mp3
+Common_Merganser>Common Merganser>Mergus merganser>https://www.allaboutbirds.org/guide/assets/photo/62201281-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000147.mp3
+Common_Murre>Common Murre>Uria aalge>https://www.allaboutbirds.org/guide/assets/photo/32260791-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000149.mp3
+Common_Nighthawk>Common Nighthawk>Chordeiles minor>https://www.allaboutbirds.org/guide/assets/photo/39420541-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000783.mp3
+Common_Raven>Common Raven>Corvus corax>https://www.allaboutbirds.org/guide/assets/photo/34469681-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000152.mp3
+Common_Redpoll>Common Redpoll>Acanthis flammea>https://www.allaboutbirds.org/guide/assets/photo/31917231-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000153.mp3
+Common_Tern>Common Tern>Sterna hirundo>https://www.allaboutbirds.org/guide/assets/photo/66998911-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/236009821/audio
+Common_Yellowthroat>Common Yellowthroat>Geothlypis trichas>https://www.allaboutbirds.org/guide/assets/photo/39418781-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000154.mp3
+Connecticut_Warbler>Connecticut Warbler>Oporornis agilis>https://www.allaboutbirds.org/guide/assets/photo/39424821-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/103567031/audio
+Coopers_Hawk>Cooper's Hawk>Accipiter cooperii>https://www.allaboutbirds.org/guide/assets/photo/39401301-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000155.mp3
+Cordilleran_Flycatcher>Western Flycatcher>Empidonax occidentalis>https://www.allaboutbirds.org/guide/assets/photo/610022372-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/349818661/audio
+Costas_Hummingbird>Costa's Hummingbird>Calypte costae>https://www.allaboutbirds.org/guide/assets/photo/39403961-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000157.mp3
+Couchs_Kingbird>Couch's Kingbird>Tyrannus couchii>https://www.allaboutbirds.org/guide/assets/photo/39452621-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/267529931/audio
+Crested_Caracara>Crested Caracara>Caracara cheriway>https://www.allaboutbirds.org/guide/assets/photo/360992791-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/282716671/audio
+Curve_billed_Thrasher>Curve-billed Thrasher>Toxostoma curvirostre>https://www.allaboutbirds.org/guide/assets/photo/39461871-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000162.mp3
+Dark_eyed_Junco>Dark-eyed Junco>Junco hyemalis>https://www.allaboutbirds.org/guide/assets/photo/31948691-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000163.mp3
+Dickcissel>Dickcissel>Spiza americana>https://www.allaboutbirds.org/guide/assets/photo/39441401-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000164.mp3
+Double_crested_Cormorant>Double-crested Cormorant>Phalacrocorax auritus>https://www.allaboutbirds.org/guide/assets/photo/31913881-1280px.jpg>https://acousticatlas.org/item/objects/aa0000165.mp3
+Downy_Woodpecker>Downy Woodpecker>Picoides pubescens>https://www.allaboutbirds.org/guide/assets/photo/32267171-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000166.mp3
+Dunlin>Dunlin>Calidris alpina>https://www.allaboutbirds.org/guide/assets/photo/32267351-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000167.mp3
+Dusky_Flycatcher>American Dusky Flycatcher>Empidonax oberholseri>https://www.allaboutbirds.org/guide/assets/photo/39416141-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000168.mp3
+Dusky_Grouse>Dusky Grouse>Dendragapus obscurus>https://www.allaboutbirds.org/guide/assets/photo/32267631-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000070.mp3
+Eared_Grebe>Black-necked Grebe>Podiceps nigricollis>https://www.allaboutbirds.org/guide/assets/photo/31913491-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000814.mp3
+Eastern_Bluebird>Eastern Bluebird>Sialia sialis>https://www.allaboutbirds.org/guide/assets/photo/39440911-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000170.mp3
+Eastern_Kingbird>Eastern Kingbird>Tyrannus tyrannus>https://www.allaboutbirds.org/guide/assets/photo/39456871-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000171.mp3
+Eastern_Meadowlark>Eastern Meadowlark>Sturnella magna>https://www.allaboutbirds.org/guide/assets/photo/497049201-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000172.mp3
+Eastern_Phoebe>Eastern Phoebe>Sayornis phoebe>https://www.allaboutbirds.org/guide/assets/photo/39436681-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000821.mp3
+Eastern_Screech_Owl>Eastern Screech Owl>Megascops asio>https://www.allaboutbirds.org/guide/assets/photo/32267961-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000822.mp3
+Eastern_Towhee>Eastern Towhee>Pipilo erythrophthalmus>https://www.allaboutbirds.org/guide/assets/photo/81203461-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000173.mp3
+Eastern_Wood_Pewee>Eastern Wood Pewee>Contopus virens>https://www.allaboutbirds.org/guide/assets/photo/39448141-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000174.mp3
+Elegant_Trogon>Elegant Trogon>Trogon elegans>https://www.allaboutbirds.org/guide/assets/photo/39440101-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000178.mp3
+Elf_Owl>Elf Owl>Micrathene whitneyi>https://www.allaboutbirds.org/guide/assets/photo/39423591-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000179.mp3
+Eurasian_Collared_Dove>Eurasian Collared Dove>Streptopelia decaocto>https://www.allaboutbirds.org/guide/assets/photo/25024391-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001450.mp3
+Eurasian_Wigeon>Eurasian Wigeon>Anas penelope>https://www.allaboutbirds.org/guide/assets/photo/39447161-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/396100851/audio
+European_Starling>Common Starling>Sturnus vulgaris>https://www.allaboutbirds.org/guide/assets/photo/62202391-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000182.mp3
+Evening_Grosbeak>Evening Grosbeak>Coccothraustes vespertinus>https://www.allaboutbirds.org/guide/assets/photo/31919081-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000184.mp3
+Ferruginous_Hawk>Ferruginous Hawk>Buteo regalis>https://www.allaboutbirds.org/guide/assets/photo/76723301-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000185.mp3
+Ferruginous_Pygmy_Owl>Ferruginous Pygmy Owl>Glaucidium brasilianum>https://www.allaboutbirds.org/guide/assets/photo/39418981-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/204023561/audio
+Field_Sparrow>Field Sparrow>Spizella pusilla>https://www.allaboutbirds.org/guide/assets/photo/32269171-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000831.mp3
+Fish_Crow>Fish Crow>Corvus ossifragus>https://www.allaboutbirds.org/guide/assets/photo/32270971-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/211888611/audio
+Florida_Scrub_Jay>Florida Scrub Jay>Aphelocoma coerulescens>https://www.allaboutbirds.org/guide/assets/photo/32271051-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/349878731/audio
+Forsters_Tern>Forster's Tern>Sterna forsteri>https://www.allaboutbirds.org/guide/assets/photo/39442061-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000189.mp3
+Fox_Sparrow>Fox Sparrow>Passerella iliaca>https://www.allaboutbirds.org/guide/assets/photo/31948331-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000190.mp3
+Franklins_Gull>Franklin's Gull>Leucophaeus pipixcan>https://www.allaboutbirds.org/guide/assets/photo/39432911-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000191.mp3
+Fulvous_Whistling_Duck>Fulvous Whistling Duck>Dendrocygna bicolor>https://www.allaboutbirds.org/guide/assets/photo/31491531-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/341311101/audio
+Gadwall>Gadwall>Anas strepera>https://www.allaboutbirds.org/guide/assets/photo/31494241-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000192.mp3
+Gambels_Quail>Gambel's Quail>Callipepla gambelii>https://www.allaboutbirds.org/guide/assets/photo/32273221-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000838.mp3
+Gila_Woodpecker>Gila Woodpecker>Melanerpes uropygialis>https://www.allaboutbirds.org/guide/assets/photo/39422981-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000195.mp3
+Glaucous_Gull>Glaucous Gull>Larus hyperboreus>https://www.allaboutbirds.org/guide/assets/photo/62202851-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000197.mp3
+Glaucous_winged_Gull>Glaucous-winged Gull>Larus glaucescens>https://www.allaboutbirds.org/guide/assets/photo/62202881-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000198.mp3
+Glossy_Ibis>Glossy Ibis>Plegadis falcinellus>https://www.allaboutbirds.org/guide/assets/photo/39456521-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/247210341/audio
+Golden_crowned_Kinglet>Golden-crowned Kinglet>Regulus satrapa>https://www.allaboutbirds.org/guide/assets/photo/31754421-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000202.mp3
+Golden_crowned_Sparrow>Golden-crowned Sparrow>Zonotrichia atricapilla>https://www.allaboutbirds.org/guide/assets/photo/39454931-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000203.mp3
+Golden_Eagle>Golden Eagle>Aquila chrysaetos>https://www.allaboutbirds.org/guide/assets/photo/32273781-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0002630.mp3
+Golden_fronted_Woodpecker>Golden-fronted Woodpecker>Melanerpes aurifrons>https://www.allaboutbirds.org/guide/assets/photo/39422791-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000204.mp3
+Golden_winged_Warbler>Golden-winged Warbler>Vermivora chrysoptera>https://www.allaboutbirds.org/guide/assets/photo/39457401-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/527190/audio
+Grasshopper_Sparrow>Grasshopper Sparrow>Ammodramus savannarum>https://www.allaboutbirds.org/guide/assets/photo/39402781-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000206.mp3
+Gray_Catbird>Gray Catbird>Dumetella carolinensis>https://www.allaboutbirds.org/guide/assets/photo/39412031-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001653.mp3
+Gray_cheeked_Thrush>Grey-cheeked Thrush>Catharus minimus>https://www.allaboutbirds.org/guide/assets/photo/39405671-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000215.mp3
+Gray_crowned_Rosy_Finch>Gray-crowned Rosy Finch>Leucosticte tephrocotis>https://www.allaboutbirds.org/guide/assets/photo/31917771-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000216.mp3
+Gray_Flycatcher>American Gray Flycatcher>Empidonax wrightii>https://www.allaboutbirds.org/guide/assets/photo/39416181-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000209.mp3
+Gray_Jay>Canada Jay>Perisoreus canadensis>https://www.allaboutbirds.org/guide/assets/photo/41196131-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000212.mp3
+Gray_Kingbird>Gray Kingbird>Tyrannus dominicensis>https://www.allaboutbirds.org/guide/assets/photo/39452641-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/224565431/audio
+Greater_Prairie_Chicken>Greater Prairie Chicken>Tympanuchus cupido>https://www.allaboutbirds.org/guide/assets/photo/32307571-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/563293311/audio
+Greater_Roadrunner>Greater Roadrunner>Geococcyx californianus>https://www.allaboutbirds.org/guide/assets/photo/39451801-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000226.mp3
+Greater_Sage_Grouse>Greater Sage-Grouse>Centrocercus urophasianus>https://www.allaboutbirds.org/guide/assets/photo/32307661-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001221.mp3
+Greater_Scaup>Greater Scaup>Aythya marila>https://www.allaboutbirds.org/guide/assets/photo/31920291-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000227.mp3
+Greater_White_fronted_Goose>Greater White-fronted Goose>Anser albifrons>https://www.allaboutbirds.org/guide/assets/photo/38820611-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/31730051/audio
+Greater_Yellowlegs>Greater Yellowlegs>Tringa melanoleuca>https://www.allaboutbirds.org/guide/assets/photo/39439901-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001735.mp3
+Great_Black_backed_Gull>Great Black-backed Gull>Larus marinus>https://www.allaboutbirds.org/guide/assets/photo/31755501-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/358379001/audio
+Great_Blue_Heron>Great Blue Heron>Ardea herodias>https://www.allaboutbirds.org/guide/assets/photo/39447471-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000850.mp3
+Great_Cormorant>Great Cormorant>Phalacrocorax carbo>https://www.allaboutbirds.org/guide/assets/photo/31917441-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/331334381/audio
+Great_Crested_Flycatcher>Great Crested Flycatcher>Myiarchus crinitus>https://www.allaboutbirds.org/guide/assets/photo/39427981-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000224.mp3
+Great_Egret>Great Egret>Ardea alba>https://www.allaboutbirds.org/guide/assets/photo/39407391-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000942.mp3
+Great_Gray_Owl>Great Grey Owl>Strix nebulosa>https://www.allaboutbirds.org/guide/assets/photo/62203251-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001508.mp3
+Great_Horned_Owl>Great Horned Owl>Bubo virginianus>https://www.allaboutbirds.org/guide/assets/photo/495748271-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001628.mp3
+Great_Kiskadee>Great Kiskadee>Pitangus sulphuratus>https://www.allaboutbirds.org/guide/assets/photo/169695561-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000220.mp3
+Great_tailed_Grackle>Great-tailed Grackle>Quiscalus mexicanus>https://www.allaboutbirds.org/guide/assets/photo/39461131-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000231.mp3
+Green_Jay>Green Jay>Cyanocorax yncas>https://www.allaboutbirds.org/guide/assets/photo/39450111-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000235.mp3
+Green_tailed_Towhee>Green-tailed Towhee>Pipilo chlorurus>https://www.allaboutbirds.org/guide/assets/photo/39444791-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001408.mp3
+Green_winged_Teal>Green-winged Teal>Anas crecca>https://www.allaboutbirds.org/guide/assets/photo/62202911-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000238.mp3
+Groove_billed_Ani>Groove-billed Ani>Crotophaga sulcirostris>https://www.allaboutbirds.org/guide/assets/photo/39409761-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/199487/audio
+Gull_billed_Tern>Gull-billed Tern>Gelochelidon nilotica>https://www.allaboutbirds.org/guide/assets/photo/169649811-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/71560121/audio
+Hairy_Woodpecker>Hairy Woodpecker>Picoides villosus>https://www.allaboutbirds.org/guide/assets/photo/39444161-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000867.mp3
+Hammonds_Flycatcher>Hammond's Flycatcher>Empidonax hammondii>https://www.allaboutbirds.org/guide/assets/photo/39416091-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000243.mp3
+Harlequin_Duck>Harlequin Duck>Histrionicus histrionicus>https://www.allaboutbirds.org/guide/assets/photo/31914231-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000244.mp3
+Harriss_Hawk>Harris's Hawk>Parabuteo unicinctus>https://www.allaboutbirds.org/guide/assets/photo/39448681-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000245.mp3
+Harriss_Sparrow>Harris's Sparrow>Zonotrichia querula>https://www.allaboutbirds.org/guide/assets/photo/41327001-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/124727151/audio
+Heermanns_Gull>Heermann's Gull>Larus heermanni>https://www.allaboutbirds.org/guide/assets/photo/39432021-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000246.mp3
+Henslows_Sparrow>Henslow's Sparrow>Ammodramus henslowii>https://www.allaboutbirds.org/guide/assets/photo/32311481-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/583780251/audio
+Hepatic_Tanager>Hepatic Tanager>Piranga flava>https://www.allaboutbirds.org/guide/assets/photo/39445101-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000247.mp3
+Hermit_Thrush>Hermit Thrush>Catharus guttatus>https://www.allaboutbirds.org/guide/assets/photo/39405611-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000248.mp3
+Herring_Gull>American Herring Gull>Larus argentatus>https://www.allaboutbirds.org/guide/assets/photo/68597151-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000250.mp3
+Hoary_Redpoll>Arctic Redpoll>Acanthis hornemanni>https://www.allaboutbirds.org/guide/assets/photo/32312161-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000252.mp3
+Hooded_Merganser>Hooded Merganser>Lophodytes cucullatus>https://www.allaboutbirds.org/guide/assets/photo/62203971-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/414920021/audio
+Hooded_Oriole>Hooded Oriole>Icterus cucullatus>https://www.allaboutbirds.org/guide/assets/photo/39415351-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000253.mp3
+Hooded_Warbler>Hooded Warbler>Setophaga citrina>https://www.allaboutbirds.org/guide/assets/photo/39453641-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/211804851/audio
+Horned_Grebe>Horned Grebe>Podiceps auritus>https://www.allaboutbirds.org/guide/assets/photo/31916121-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/545520261/audio
+Horned_Lark>Horned Lark>Eremophila alpestris>https://www.allaboutbirds.org/guide/assets/photo/32312441-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0002897.mp3
+House_Finch>House Finch>Haemorhous mexicanus>https://www.allaboutbirds.org/guide/assets/photo/39405371-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000879.mp3
+House_Sparrow>House Sparrow>Passer domesticus>https://www.allaboutbirds.org/guide/assets/photo/39426121-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000256.mp3
+House_Wren>House Wren>Troglodytes aedon>https://www.allaboutbirds.org/guide/assets/photo/75847211-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001664.mp3
+Huttons_Vireo>Hutton's Vireo>Vireo huttoni>https://www.allaboutbirds.org/guide/assets/photo/39453451-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/303264391/audio
+Iceland_Gull>Iceland Gull>Larus glaucoides>https://www.allaboutbirds.org/guide/assets/photo/169649541-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/521686071/audio
+Inca_Dove>Inca Dove>Columbina inca>https://www.allaboutbirds.org/guide/assets/photo/39422171-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000261.mp3
+Indigo_Bunting>Indigo Bunting>Passerina cyanea>https://www.allaboutbirds.org/guide/assets/photo/39426091-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000262.mp3
+Killdeer>Killdeer>Charadrius vociferus>https://www.allaboutbirds.org/guide/assets/photo/39419491-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/104731171/audio
+King_Rail>King Rail>Rallus elegans>https://www.allaboutbirds.org/guide/assets/photo/25038011-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/457670641/audio
+Ladder_backed_Woodpecker>Ladder-backed Woodpecker>Picoides scalaris>https://www.allaboutbirds.org/guide/assets/photo/39444131-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000265.mp3
+Lapland_Longspur>Lapland Longspur>Calcarius lapponicus>https://www.allaboutbirds.org/guide/assets/photo/32314181-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000267.mp3
+Lark_Bunting>Lark Bunting>Calamospiza melanocorys>https://www.allaboutbirds.org/guide/assets/photo/39446851-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000268.mp3
+Lark_Sparrow>Lark Sparrow>Chondestes grammacus>https://www.allaboutbirds.org/guide/assets/photo/39420451-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000269.mp3
+Laughing_Gull>Laughing Gull>Leucophaeus atricilla>https://www.allaboutbirds.org/guide/assets/photo/39432851-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000270.mp3
+Lazuli_Bunting>Lazuli Bunting>Passerina amoena>https://www.allaboutbirds.org/guide/assets/photo/39426051-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000272.mp3
+Least_Bittern>Least Bittern>Ixobrychus exilis>https://www.allaboutbirds.org/guide/assets/photo/39431191-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/343195121/audio
+Least_Flycatcher>Least Flycatcher>Empidonax minimus>https://www.allaboutbirds.org/guide/assets/photo/39416121-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/219691/audio
+Least_Grebe>Least Grebe>Tachybaptus dominicus>https://www.allaboutbirds.org/guide/assets/photo/39443091-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000275.mp3
+Least_Sandpiper>Least Sandpiper>Calidris minutilla>https://www.allaboutbirds.org/guide/assets/photo/39403751-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000276.mp3
+Least_Tern>Least Tern>Sternula antillarum>https://www.allaboutbirds.org/guide/assets/photo/39442161-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/63498971/audio
+Lesser_Goldfinch>Lesser Goldfinch>Spinus psaltria>https://www.allaboutbirds.org/guide/assets/photo/39405221-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000277.mp3
+Lesser_Nighthawk>Lesser Nighthawk>Chordeiles acutipennis>https://www.allaboutbirds.org/guide/assets/photo/39420501-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000278.mp3
+Lesser_Scaup>Lesser Scaup>Aythya affinis>https://www.allaboutbirds.org/guide/assets/photo/39408531-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000279.mp3
+Lesser_Yellowlegs>Lesser Yellowlegs>Tringa flavipes>https://www.allaboutbirds.org/guide/assets/photo/39439871-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000280.mp3
+Lewiss_Woodpecker>Lewis's Woodpecker>Melanerpes lewis>https://www.allaboutbirds.org/guide/assets/photo/32316641-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000281.mp3
+Le_Contes_Sparrow>LeConte's Sparrow>Ammodramus leconteii>https://www.allaboutbirds.org/guide/assets/photo/31722411-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/166841451/audio
+Limpkin>Limpkin>Aramus guarauna>https://www.allaboutbirds.org/guide/assets/photo/39407061-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/447570791/audio
+Lincolns_Sparrow>Lincoln's Sparrow>Melospiza lincolnii>https://www.allaboutbirds.org/guide/assets/photo/39423161-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001374.mp3
+Little_Blue_Heron>Little Blue Heron>Egretta caerulea>https://www.allaboutbirds.org/guide/assets/photo/39451121-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/36273961/audio
+Loggerhead_Shrike>Loggerhead Shrike>Lanius ludovicianus>https://www.allaboutbirds.org/guide/assets/photo/39431871-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000283.mp3
+Long_billed_Curlew>Long-billed Curlew>Numenius americanus>https://www.allaboutbirds.org/guide/assets/photo/39449391-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001418.mp3
+Long_billed_Dowitcher>Long-billed Dowitcher>Limnodromus scolopaceus>https://www.allaboutbirds.org/guide/assets/photo/39460631-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000285.mp3
+Long_billed_Thrasher>Long-billed Thrasher>Toxostoma longirostre>https://www.allaboutbirds.org/guide/assets/photo/39439831-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000286.mp3
+Long_eared_Owl>Long-eared Owl>Asio otus>https://www.allaboutbirds.org/guide/assets/photo/62204901-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000287.mp3
+Long_tailed_Duck>Long-tailed Duck>Clangula hyemalis>https://www.allaboutbirds.org/guide/assets/photo/31920371-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000288.mp3
+Louisiana_Waterthrush>Louisiana Waterthrush>Parkesia motacilla>https://www.allaboutbirds.org/guide/assets/photo/39425971-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/341945051/audio
+Magnificent_Frigatebird>Magnificent Frigatebird>Fregata magnificens>https://www.allaboutbirds.org/guide/assets/photo/169644861-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/526937711/audio
+Magnolia_Warbler>Magnolia Warbler>Setophaga magnolia>https://www.allaboutbirds.org/guide/assets/photo/39411141-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000296.mp3
+Mallard>Mallard>Anas platyrhynchos>https://www.allaboutbirds.org/guide/assets/photo/169626481-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000298.mp3
+Marbled_Godwit>Marbled Godwit>Limosa fedoa>https://www.allaboutbirds.org/guide/assets/photo/39433091-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000299.mp3
+Marsh_Wren>Marsh Wren>Cistothorus palustris>https://www.allaboutbirds.org/guide/assets/photo/39421211-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000917.mp3
+Merlin>Merlin>Falco columbarius>https://www.allaboutbirds.org/guide/assets/photo/39451561-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000303.mp3
+Mew_Gull>Common Gull>Larus canus>https://www.allaboutbirds.org/guide/assets/photo/361631441-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000304.mp3
+Mexican_Jay>Mexican Jay>Aphelocoma wollweberi>https://www.allaboutbirds.org/guide/assets/photo/39406931-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001728.mp3
+Mississippi_Kite>Mississippi Kite>Ictinia mississippiensis>https://www.allaboutbirds.org/guide/assets/photo/39430931-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/256194901/audio
+Monk_Parakeet>Monk Parakeet>Myiopsitta monachus>https://www.allaboutbirds.org/guide/assets/photo/39449191-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/195143221/audio
+Mottled_Duck>Mottled Duck>Anas fulvigula>https://www.allaboutbirds.org/guide/assets/photo/31499391-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000310.mp3
+Mountain_Bluebird>Mountain Bluebird>Sialia currucoides>https://www.allaboutbirds.org/guide/assets/photo/32321361-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000311.mp3
+Mountain_Chickadee>Mountain Chickadee>Poecile gambeli>https://www.allaboutbirds.org/guide/assets/photo/32321661-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000312.mp3
+Mountain_Plover>Mountain Plover>Charadrius montanus>https://www.allaboutbirds.org/guide/assets/photo/39419451-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000313.mp3
+Mourning_Dove>Mourning Dove>Zenaida macroura>https://www.allaboutbirds.org/guide/assets/photo/39454711-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000315.mp3
+Mourning_Warbler>Mourning Warbler>Geothlypis philadelphia>https://www.allaboutbirds.org/guide/assets/photo/39424841-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/451268571/audio
+Muscovy_Duck>Muscovy Duck>Cairina moschata>https://www.allaboutbirds.org/guide/assets/photo/39403641-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/92475411/audio
+Mute_Swan>Mute Swan>Cygnus olor>https://www.allaboutbirds.org/guide/assets/photo/31492991-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000316.mp3
+Nashville_Warbler>Nashville Warbler>Oreothlypis ruficapilla>https://www.allaboutbirds.org/guide/assets/photo/39453161-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000317.mp3
+Nelsons_Sparrow>Nelson's Sparrow>Ammodramus nelsoni>https://www.allaboutbirds.org/guide/assets/photo/32322131-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/250162161/audio
+Neotropic_Cormorant>Neotropic Cormorant>Phalacrocorax brasilianus>https://www.allaboutbirds.org/guide/assets/photo/39448931-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/199925271/audio
+Northern_Bobwhite>Northern Bobwhite>Colinus virginianus>https://www.allaboutbirds.org/guide/assets/photo/39422091-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/347135691/audio
+Northern_Cardinal>Northern Cardinal>Cardinalis cardinalis>https://www.allaboutbirds.org/guide/assets/photo/311148961-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000321.mp3
+Northern_Flicker>Northern Flicker>Colaptes auratus>https://www.allaboutbirds.org/guide/assets/photo/39421901-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000947.mp3
+Northern_Gannet>Northern Gannet>Morus bassanus>https://www.allaboutbirds.org/guide/assets/photo/31947031-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/203907621/audio
+Northern_Goshawk>American Goshawk>Accipiter gentilis>https://www.allaboutbirds.org/guide/assets/photo/608734764-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000324.mp3
+Northern_Harrier>Northern Harrier>Circus cyaneus>https://www.allaboutbirds.org/guide/assets/photo/169656321-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000325.mp3
+Northern_Hawk_Owl>Northern Hawk-Owl>Surnia ulula>https://www.allaboutbirds.org/guide/assets/photo/25036691-1280px.jpg>https://acousticatlas.org/objects/aa0000326.mp3
+Northern_Mockingbird>Northern Mockingbird>Mimus polyglottos>https://www.allaboutbirds.org/guide/assets/photo/39448381-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000327.mp3
+Northern_Parula>Northern Parula>Setophaga americana>https://www.allaboutbirds.org/guide/assets/photo/39426021-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/351946681/audio
+Northern_Pintail>Northern Pintail>Anas acuta>https://www.allaboutbirds.org/guide/assets/photo/31500081-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001723.mp3
+Northern_Rough_winged_Swallow>Northern Rough-winged Swallow>Stelgidopteryx serripennis>https://www.allaboutbirds.org/guide/assets/photo/39455761-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000330.mp3
+Northern_Saw_whet_Owl>Northern Saw-whet Owl>Aegolius acadicus>https://www.allaboutbirds.org/guide/assets/photo/32322881-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001612.mp3
+Northern_Shrike>Northern Shrike>Lanius excubitor>https://www.allaboutbirds.org/guide/assets/photo/31920931-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000333.mp3
+Northern_Waterthrush>Northern Waterthrush>Parkesia noveboracensis>https://www.allaboutbirds.org/guide/assets/photo/427389841-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000334.mp3
+Nuttalls_Woodpecker>Nuttall's Woodpecker>Picoides nuttallii>https://www.allaboutbirds.org/guide/assets/photo/61152941-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000337.mp3
+Oak_Titmouse>Oak Titmouse>Baeolophus inornatus>https://www.allaboutbirds.org/guide/assets/photo/47312731-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000338.mp3
+Olive_sided_Flycatcher>Olive-sided Flycatcher>Contopus cooperi>https://www.allaboutbirds.org/guide/assets/photo/39455181-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000341.mp3
+Olive_Sparrow>Olive Sparrow>Arremonops rufivirgatus>https://www.allaboutbirds.org/guide/assets/photo/39407451-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000339.mp3
+Orange_crowned_Warbler>Orange-crowned Warbler>Oreothlypis celata>https://www.allaboutbirds.org/guide/assets/photo/39453091-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000342.mp3
+Orchard_Oriole>Orchard Oriole>Icterus spurius>https://www.allaboutbirds.org/guide/assets/photo/39430901-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000343.mp3
+Osprey>Osprey>Pandion haliaetus>https://www.allaboutbirds.org/guide/assets/photo/137797491-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000344.mp3
+Ovenbird>Ovenbird>Seiurus aurocapilla>https://www.allaboutbirds.org/guide/assets/photo/39440491-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000345.mp3
+Pacific_Golden_Plover>Pacific Golden Plover>Pluvialis fulva>https://www.allaboutbirds.org/guide/assets/photo/78958941-1280px.jpg>https://acousticatlas.org/objects/aa0000346.mp3
+Pacific_Loon>Pacific Loon>Gavia pacifica>https://www.allaboutbirds.org/guide/assets/photo/31920681-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000347.mp3
+Pacific_slope_Flycatcher>Western Flycatcher>Empidonax difficilis>https://www.allaboutbirds.org/guide/assets/photo/610022372-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000348.mp3
+Pacific_Wren>Pacific Wren>Troglodytes pacificus>https://www.allaboutbirds.org/guide/assets/photo/62206131-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/321946021/audio
+Painted_Bunting>Painted Bunting>Passerina ciris>https://www.allaboutbirds.org/guide/assets/photo/39426071-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000349.mp3
+Painted_Redstart>Painted Redstart>Myioborus pictus>https://www.allaboutbirds.org/guide/assets/photo/39449151-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000350.mp3
+Palm_Warbler>Palm Warbler>Setophaga palmarum>https://www.allaboutbirds.org/guide/assets/photo/39458171-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/229598/audio
+Pectoral_Sandpiper>Pectoral Sandpiper>Calidris melanotos>https://www.allaboutbirds.org/guide/assets/photo/39403741-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000353.mp3
+Peregrine_Falcon>Peregrine Falcon>Falco peregrinus>https://www.allaboutbirds.org/guide/assets/photo/31920761-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0003059.mp3
+Phainopepla>Phainopepla>Phainopepla nitens>https://www.allaboutbirds.org/guide/assets/photo/39448921-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001025.mp3
+Philadelphia_Vireo>Philadelphia Vireo>Vireo philadelphicus>https://www.allaboutbirds.org/guide/assets/photo/39455621-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/235576/audio
+Pied_billed_Grebe>Pied-billed Grebe>Podilymbus podiceps>https://www.allaboutbirds.org/guide/assets/photo/39456561-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000619.mp3
+Pigeon_Guillemot>Pigeon Guillemot>Cepphus columba>https://www.allaboutbirds.org/guide/assets/photo/169650501-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0002434.mp3
+Pileated_Woodpecker>Pileated Woodpecker>Dryocopus pileatus>https://www.allaboutbirds.org/guide/assets/photo/32323421-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000361.mp3
+Pine_Grosbeak>Pine Grosbeak>Pinicola enucleator>https://www.allaboutbirds.org/guide/assets/photo/169862461-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/274949571/audio
+Pine_Siskin>Pine Siskin>Spinus pinus>https://www.allaboutbirds.org/guide/assets/photo/31752411-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000363.mp3
+Pine_Warbler>Pine Warbler>Setophaga pinus>https://www.allaboutbirds.org/guide/assets/photo/31913681-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/216852/audio
+Piping_Plover>Piping Plover>Charadrius melodus>https://www.allaboutbirds.org/guide/assets/photo/32323591-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/158754681/audio
+Plumbeous_Vireo>Plumbeous Vireo>Vireo plumbeus>https://www.allaboutbirds.org/guide/assets/photo/39453541-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000366.mp3
+Prairie_Falcon>Prairie Falcon>Falco mexicanus>https://www.allaboutbirds.org/guide/assets/photo/25039231-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000368.mp3
+Prairie_Warbler>Prairie Warbler>Setophaga discolor>https://www.allaboutbirds.org/guide/assets/photo/39411101-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/164439851/audio
+Prothonotary_Warbler>Prothonotary Warbler>Protonotaria citrea>https://www.allaboutbirds.org/guide/assets/photo/39434111-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/99435531/audio
+Purple_Finch>Purple Finch>Haemorhous purpureus>https://www.allaboutbirds.org/guide/assets/photo/32323891-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000369.mp3
+Purple_Gallinule>American Purple Gallinule>Porphyrio martinicus>https://www.allaboutbirds.org/guide/assets/photo/39446251-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/65208011/audio
+Purple_Martin>Purple Martin>Progne subis>https://www.allaboutbirds.org/guide/assets/photo/356985671-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000370.mp3
+Purple_Sandpiper>Purple Sandpiper>Calidris maritima>https://www.allaboutbirds.org/guide/assets/photo/62206811-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/103333191/audio
+Pygmy_Nuthatch>Pygmy Nuthatch>Sitta pygmaea>https://www.allaboutbirds.org/guide/assets/photo/32323951-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000371.mp3
+Pyrrhuloxia>Pyrrhuloxia>Cardinalis sinuatus>https://www.allaboutbirds.org/guide/assets/photo/39405071-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000372.mp3
+Reddish_Egret>Reddish Egret>Egretta rufescens>https://www.allaboutbirds.org/guide/assets/photo/39415551-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/217438751/audio
+Redhead>Redhead (bird)>Aythya americana>https://www.allaboutbirds.org/guide/assets/photo/39449731-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000384.mp3
+Red_bellied_Woodpecker>Red-bellied Woodpecker>Melanerpes carolinus>https://www.allaboutbirds.org/guide/assets/photo/34470651-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000377.mp3
+Red_breasted_Merganser>Red-breasted Merganser>Mergus serrator>https://www.allaboutbirds.org/guide/assets/photo/31913981-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000378.mp3
+Red_breasted_Nuthatch>Red-breasted Nuthatch>Sitta canadensis>https://www.allaboutbirds.org/guide/assets/photo/32258961-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001053.mp3
+Red_breasted_Sapsucker>Red-breasted Sapsucker>Sphyrapicus ruber>https://www.allaboutbirds.org/guide/assets/photo/25038751-1280px.jpg>https://acousticatlas.org/yellowstone/item/objects/aa0000380.mp3
+Red_cockaded_Woodpecker>Red-cockaded Woodpecker>Picoides borealis>https://www.allaboutbirds.org/guide/assets/photo/62206931-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/254546521/audio
+Red_Crossbill>Red Crossbill>Loxia curvirostra>https://www.allaboutbirds.org/guide/assets/photo/32257131-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000373.mp3
+Red_eyed_Vireo>Red-eyed Vireo>Vireo olivaceus>https://www.allaboutbirds.org/guide/assets/photo/109376021-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000381.mp3
+Red_headed_Woodpecker>Red-headed Woodpecker>Melanerpes erythrocephalus>https://www.allaboutbirds.org/guide/assets/photo/25036821-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361030461/audio
+Red_Knot>Red Knot>Calidris canutus>https://www.allaboutbirds.org/guide/assets/photo/31917931-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/31731521/audio
+Red_naped_Sapsucker>Red-naped Sapsucker>Sphyrapicus nuchalis>https://www.allaboutbirds.org/guide/assets/photo/39441251-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000386.mp3
+Red_necked_Grebe>Red-necked Grebe>Podiceps grisegena>https://www.allaboutbirds.org/guide/assets/photo/32258011-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000387.mp3
+Red_necked_Phalarope>Red-necked Phalarope>Phalaropus lobatus>https://www.allaboutbirds.org/guide/assets/photo/39427511-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000388.mp3
+Red_Phalarope>Red Phalarope>Phalaropus fulicarius>https://www.allaboutbirds.org/guide/assets/photo/39448941-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000375.mp3
+Red_shouldered_Hawk>Red-shouldered Hawk>Buteo lineatus>https://www.allaboutbirds.org/guide/assets/photo/32257721-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000389.mp3
+Red_tailed_Hawk>Red-tailed Hawk>Buteo jamaicensis>https://www.allaboutbirds.org/guide/assets/photo/39403381-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001701.mp3
+Red_throated_Loon>Red-throated Loon>Gavia stellata>https://www.allaboutbirds.org/guide/assets/photo/32257621-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000392.mp3
+Red_winged_Blackbird>Red-winged Blackbird>Agelaius phoeniceus>https://www.allaboutbirds.org/guide/assets/photo/32257341-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001617.mp3
+Ring_billed_Gull>Ring-billed Gull>Larus delawarensis>https://www.allaboutbirds.org/guide/assets/photo/39431981-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000394.mp3
+Ring_necked_Duck>Ring-necked Duck>Aythya collaris>https://www.allaboutbirds.org/guide/assets/photo/39408541-1280px.jpg>https://acousticatlas.org/objects/aa0000396.mp3
+Ring_necked_Pheasant>Common Pheasant>Phasianus colchicus>https://www.allaboutbirds.org/guide/assets/photo/62207251-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001065.mp3
+Rock_Pigeon>Rock Dove>Columba livia>https://www.allaboutbirds.org/guide/assets/photo/39422111-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000398.mp3
+Rock_Ptarmigan>Rock Ptarmigan>Lagopus muta>https://www.allaboutbirds.org/guide/assets/photo/62207291-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000399.mp3
+Rock_Sandpiper>Rock Sandpiper>Calidris ptilocnemis>https://www.allaboutbirds.org/guide/assets/photo/169647391-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000400.mp3
+Rock_Wren>Rock Wren>Salpinctes obsoletus>https://www.allaboutbirds.org/guide/assets/photo/317148351-1280px.jpg>https://acousticatlas.org/item/objects/aa0000401.mp3
+Roseate_Tern>Roseate Tern>Sterna dougallii>https://www.allaboutbirds.org/guide/assets/photo/62207381-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/171679831/audio
+Rose_breasted_Grosbeak>Rose-breasted Grosbeak>Pheucticus ludovicianus>https://www.allaboutbirds.org/guide/assets/photo/39427641-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000402.mp3
+Rosss_Goose>Ross's Goose>Chen rossii>https://www.allaboutbirds.org/guide/assets/photo/31492051-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000404.mp3
+Rough_legged_Hawk>Rough-legged Buzzard>Buteo lagopus>https://www.allaboutbirds.org/guide/assets/photo/31919711-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000405.mp3
+Royal_Tern>Royal Tern>Thalasseus maximus>https://www.allaboutbirds.org/guide/assets/photo/32254661-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000406.mp3
+Ruby_crowned_Kinglet>Ruby-crowned Kinglet>Regulus calendula>https://www.allaboutbirds.org/guide/assets/photo/39435991-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000407.mp3
+Ruby_throated_Hummingbird>Ruby-throated Hummingbird>Archilochus colubris>https://www.allaboutbirds.org/guide/assets/photo/39407381-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/604314061/audio
+Ruddy_Duck>Ruddy Duck>Oxyura jamaicensis>https://www.allaboutbirds.org/guide/assets/photo/483912341-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000409.mp3
+Ruddy_Turnstone>Ruddy Turnstone>Arenaria interpres>https://www.allaboutbirds.org/guide/assets/photo/31916841-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000410.mp3
+Ruffed_Grouse>Ruffed Grouse>Bonasa umbellus>https://www.allaboutbirds.org/guide/assets/photo/32254071-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001077.mp3
+Rufous_crowned_Sparrow>Rufous-crowned Sparrow>Aimophila ruficeps>https://www.allaboutbirds.org/guide/assets/photo/39401901-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000413.mp3
+Rufous_Hummingbird>Rufous Hummingbird>Selasphorus rufus>https://www.allaboutbirds.org/guide/assets/photo/39440571-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000412.mp3
+Rusty_Blackbird>Rusty Blackbird>Euphagus carolinus>https://www.allaboutbirds.org/guide/assets/photo/62207511-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000415.mp3
+Sage_Thrasher>Sage Thrasher>Oreoscoptes montanus>https://www.allaboutbirds.org/guide/assets/photo/39424951-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000419.mp3
+Saltmarsh_Sparrow>Saltmarsh Sparrow>Ammodramus caudacutus>https://www.allaboutbirds.org/guide/assets/photo/92720591-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/93807821/audio
+Sanderling>Sanderling>Calidris alba>https://www.allaboutbirds.org/guide/assets/photo/31920561-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000420.mp3
+Sandhill_Crane>Sandhill Crane>Grus canadensis>https://www.allaboutbirds.org/guide/assets/photo/25019451-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0002668.mp3
+Sandwich_Tern>Sandwich Tern>Thalasseus sandvicensis>https://www.allaboutbirds.org/guide/assets/photo/39438121-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/367904881/audio
+Says_Phoebe>Say's Phoebe>Sayornis saya>https://www.allaboutbirds.org/guide/assets/photo/31758621-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000424.mp3
+Scaled_Quail>Scaled Quail>Callipepla squamata>https://www.allaboutbirds.org/guide/assets/photo/39403801-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000425.mp3
+Scarlet_Tanager>Scarlet Tanager>Piranga olivacea>https://www.allaboutbirds.org/guide/assets/photo/39445131-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/356310561/audio
+Scissor_tailed_Flycatcher>Scissor-tailed Flycatcher>Tyrannus forficatus>https://www.allaboutbirds.org/guide/assets/photo/39452651-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/552338151/audio
+Scotts_Oriole>Scott's Oriole>Icterus parisorum>https://www.allaboutbirds.org/guide/assets/photo/39430861-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001733.mp3
+Seaside_Sparrow>Seaside Sparrow>Ammodramus maritimus>https://www.allaboutbirds.org/guide/assets/photo/40564661-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/241902611/audio
+Sedge_Wren>Sedge Wren>Cistothorus platensis>https://www.allaboutbirds.org/guide/assets/photo/358563291-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/239093841/audio
+Semipalmated_Plover>Semipalmated Plover>Charadrius semipalmatus>https://www.allaboutbirds.org/guide/assets/photo/39419471-1280px.jpg>https://acousticatlas.org/objects/aa0000429.mp3
+Semipalmated_Sandpiper>Semipalmated Sandpiper>Calidris pusilla>https://www.allaboutbirds.org/guide/assets/photo/39403761-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000430.mp3
+Sharp_shinned_Hawk>Sharp-shinned Hawk>Accipiter striatus>https://www.allaboutbirds.org/guide/assets/photo/39401351-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000431.mp3
+Sharp_tailed_Grouse>Sharp-tailed Grouse>Tympanuchus phasianellus>https://www.allaboutbirds.org/guide/assets/photo/32252121-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001096.mp3
+Short_billed_Dowitcher>Short-billed Dowitcher>Limnodromus griseus>https://www.allaboutbirds.org/guide/assets/photo/39433021-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000432.mp3
+Short_eared_Owl>Short-eared Owl>Asio flammeus>https://www.allaboutbirds.org/guide/assets/photo/39407681-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001684.mp3
+Snail_Kite>Snail Kite>Rostrhamus sociabilis>https://www.allaboutbirds.org/guide/assets/photo/39436331-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/199688641/audio
+Snowy_Egret>Snowy Egret>Egretta thula>https://www.allaboutbirds.org/guide/assets/photo/39415571-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000437.mp3
+Snowy_Owl>Snowy Owl>Bubo scandiacus>https://www.allaboutbirds.org/guide/assets/photo/25039251-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/233160/audio
+Snowy_Plover>Snowy Plover>Charadrius nivosus>https://www.allaboutbirds.org/guide/assets/photo/39459091-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001283.mp3
+Snow_Bunting>Snow Bunting>Plectrophenax nivalis>https://www.allaboutbirds.org/guide/assets/photo/32214271-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000435.mp3
+Snow_Goose>Snow Goose>Chen caerulescens>https://www.allaboutbirds.org/guide/assets/photo/62207951-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001103.mp3
+Solitary_Sandpiper>Solitary Sandpiper>Tringa solitaria>https://www.allaboutbirds.org/guide/assets/photo/39439921-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000445.mp3
+Song_Sparrow>Song Sparrow>Melospiza melodia>https://www.allaboutbirds.org/guide/assets/photo/31947811-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000439.mp3
+Sooty_Grouse>Sooty Grouse>Dendragapus fuliginosus>https://www.allaboutbirds.org/guide/assets/photo/32213901-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001109.mp3
+Sora>Sora (bird)>Porzana carolina>https://www.allaboutbirds.org/guide/assets/photo/39446311-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000444.mp3
+Spotted_Owl>Spotted Owl>Strix occidentalis>https://www.allaboutbirds.org/guide/assets/photo/31720901-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001290.mp3
+Spotted_Sandpiper>Spotted Sandpiper>Actitis macularius>https://www.allaboutbirds.org/guide/assets/photo/39401381-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000445.mp3
+Spotted_Towhee>Spotted Towhee>Pipilo maculatus>https://www.allaboutbirds.org/guide/assets/photo/39444821-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000446.mp3
+Spruce_Grouse>Spruce Grouse>Falcipennis canadensis>https://www.allaboutbirds.org/guide/assets/photo/85929411-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/165528121/audio
+Stellers_Jay>Steller's Jay>Cyanocitta stelleri>https://www.allaboutbirds.org/guide/assets/photo/39450061-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/318226821/audio
+Stilt_Sandpiper>Stilt Sandpiper>Calidris himantopus>https://www.allaboutbirds.org/guide/assets/photo/39403721-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000450.mp3
+Summer_Tanager>Summer Tanager>Piranga rubra>https://www.allaboutbirds.org/guide/assets/photo/39445171-1280px.jpg>https://acousticatlas.org/item/objects/aa0000453.mp3
+Surfbird>Surfbird>Aphriza virgata>https://www.allaboutbirds.org/guide/assets/photo/39458521-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/69453201/audio
+Surf_Scoter>Surf Scoter>Melanitta perspicillata>https://www.allaboutbirds.org/guide/assets/photo/25037821-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000454.mp3
+Swainsons_Hawk>Swainson's Hawk>Buteo swainsoni>https://www.allaboutbirds.org/guide/assets/photo/39403481-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000455.mp3
+Swainsons_Thrush>Swainson's Thrush>Catharus ustulatus>https://www.allaboutbirds.org/guide/assets/photo/39405701-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000456.mp3
+Swallow_tailed_Kite>Swallow-tailed Kite>Elanoides forficatus>https://www.allaboutbirds.org/guide/assets/photo/39451211-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/203931961/audio
+Swamp_Sparrow>Swamp Sparrow>Melospiza georgiana>https://www.allaboutbirds.org/guide/assets/photo/62208251-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001114.mp3
+Tennessee_Warbler>Tennessee Warbler>Oreothlypis peregrina>https://www.allaboutbirds.org/guide/assets/photo/39453121-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/62127511/audio
+Thayers_Gull>Thayer's Gull>Larus thayeri>https://www.allaboutbirds.org/guide/assets/photo/169649541-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/521686071/audio
+Townsends_Solitaire>Townsend's Solitaire>Myadestes townsendi>https://www.allaboutbirds.org/guide/assets/photo/32211151-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000462.mp3
+Townsends_Warbler>Townsend's Warbler>Setophaga townsendi>https://www.allaboutbirds.org/guide/assets/photo/39458661-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000463.mp3
+Tree_Swallow>Tree Swallow>Tachycineta bicolor>https://www.allaboutbirds.org/guide/assets/photo/39443121-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000465.mp3
+Tricolored_Heron>Tricolored Heron>Egretta tricolor>https://www.allaboutbirds.org/guide/assets/photo/39415581-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/30726341/audio
+Tropical_Kingbird>Tropical Kingbird>Tyrannus melancholicus>https://www.allaboutbirds.org/guide/assets/photo/169696021-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000467.mp3
+Trumpeter_Swan>Trumpeter Swan>Cygnus buccinator>https://www.allaboutbirds.org/guide/assets/photo/175747531-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000634.mp3
+Tufted_Titmouse>Tufted Titmouse>Baeolophus bicolor>https://www.allaboutbirds.org/guide/assets/photo/25036791-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000468.mp3
+Tundra_Swan>Tundra Swan>Cygnus columbianus>https://www.allaboutbirds.org/guide/assets/photo/31493371-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000471.mp3
+Turkey_Vulture>Turkey Vulture>Cathartes aura>https://www.allaboutbirds.org/guide/assets/photo/609853134-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001632.mp3
+Upland_Sandpiper>Upland Sandpiper>Bartramia longicauda>https://www.allaboutbirds.org/guide/assets/photo/39408661-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/249618851/audio
+Varied_Thrush>Varied Thrush>Ixoreus naevius>https://www.allaboutbirds.org/guide/assets/photo/31917031-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000475.mp3
+Veery>Veery>Catharus fuscescens>https://www.allaboutbirds.org/guide/assets/photo/39405601-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/30930861/audio
+Verdin>Verdin>Auriparus flaviceps>https://www.allaboutbirds.org/guide/assets/photo/39408411-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000477.mp3
+Vermilion_Flycatcher>Vermilion Flycatcher>Pyrocephalus rubinus>https://www.allaboutbirds.org/guide/assets/photo/32210061-1280px.jpg>https://acousticatlas.org/acoustic-atlas/yellowstone/item/objects/aa0000478.mp3
+Vesper_Sparrow>Vesper Sparrow>Pooecetes gramineus>https://www.allaboutbirds.org/guide/assets/photo/39445921-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000479.mp3
+Violet_green_Swallow>Violet-green Swallow>Tachycineta thalassina>https://www.allaboutbirds.org/guide/assets/photo/39457071-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000481.mp3
+Virginia_Rail>Virginia Rail>Rallus limicola>https://www.allaboutbirds.org/guide/assets/photo/39461141-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001638.mp3
+Wandering_Tattler>Wandering Tattler>Tringa incana>https://www.allaboutbirds.org/guide/assets/photo/39439881-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000484.mp3
+Warbling_Vireo>Warbling Vireo>Vireo gilvus>https://www.allaboutbirds.org/guide/assets/photo/39453391-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000485.mp3
+Western_Bluebird>Western Bluebird>Sialia mexicana>https://www.allaboutbirds.org/guide/assets/photo/39440901-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000486.mp3
+Western_Grebe>Western Grebe>Aechmophorus occidentalis>https://www.allaboutbirds.org/guide/assets/photo/39401461-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001712.mp3
+Western_Gull>Western Gull>Larus occidentalis>https://www.allaboutbirds.org/guide/assets/photo/32199031-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000488.mp3
+Western_Kingbird>Western Kingbird>Tyrannus verticalis>https://www.allaboutbirds.org/guide/assets/photo/39452721-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001170.mp3
+Western_Meadowlark>Western Meadowlark>Sturnella neglecta>https://www.allaboutbirds.org/guide/assets/photo/39442461-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001171.mp3
+Western_Sandpiper>Western Sandpiper>Calidris mauri>https://www.allaboutbirds.org/guide/assets/photo/39403731-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000492.mp3
+Western_Screech_Owl>Western Screech Owl>Megascops kennicottii>https://www.allaboutbirds.org/guide/assets/photo/97914611-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000493.mp3
+Western_Scrub_Jay>California Scrub Jay>Aphelocoma californica>https://www.allaboutbirds.org/guide/assets/photo/32249611-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/481661511/audio
+Western_Tanager>Western Tanager>Piranga ludoviciana>https://www.allaboutbirds.org/guide/assets/photo/39445121-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001619.mp3
+Western_Wood_Pewee>Western Wood Pewee>Contopus sordidulus>https://www.allaboutbirds.org/guide/assets/photo/39422661-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0002696.mp3
+Whimbrel>Eurasian Whimbrel>Numenius phaeopus>https://www.allaboutbirds.org/guide/assets/photo/32198061-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000497.mp3
+White_breasted_Nuthatch>White-breasted Nuthatch>Sitta carolinensis>https://www.allaboutbirds.org/guide/assets/photo/31504131-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000501.mp3
+White_crowned_Sparrow>White-crowned Sparrow>Zonotrichia leucophrys>https://www.allaboutbirds.org/guide/assets/photo/31720991-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000502.mp3
+White_eyed_Vireo>White-eyed Vireo>Vireo griseus>https://www.allaboutbirds.org/guide/assets/photo/39453431-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000503.mp3
+White_faced_Ibis>White-faced Ibis>Plegadis chihi>https://www.allaboutbirds.org/guide/assets/photo/39445341-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000504.mp3
+White_headed_Woodpecker>White-headed Woodpecker>Picoides albolarvatus>https://www.allaboutbirds.org/guide/assets/photo/32197901-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000506.mp3
+White_Ibis>American White Ibis>Eudocimus albus>https://www.allaboutbirds.org/guide/assets/photo/39416651-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/521520591/audio
+White_rumped_Sandpiper>White-rumped Sandpiper>Calidris fuscicollis>https://www.allaboutbirds.org/guide/assets/photo/39446861-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/32242581/audio
+White_tailed_Hawk>White-tailed Hawk>Buteo albicaudatus>https://www.allaboutbirds.org/guide/assets/photo/39403301-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/398001741/audio
+White_tailed_Kite>White-tailed Kite>Elanus leucurus>https://www.allaboutbirds.org/guide/assets/photo/39415871-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000507.mp3
+White_tailed_Ptarmigan>White-tailed Ptarmigan>Lagopus leucura>https://www.allaboutbirds.org/guide/assets/photo/25036041-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/159301311/audio
+White_throated_Sparrow>White-throated Sparrow>Zonotrichia albicollis>https://www.allaboutbirds.org/guide/assets/photo/32010041-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/227599/audio
+White_throated_Swift>White-throated Swift>Aeronautes saxatalis>https://www.allaboutbirds.org/guide/assets/photo/39401521-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001325.mp3
+White_winged_Crossbill>Two-barred Crossbill>Loxia leucoptera>https://www.allaboutbirds.org/guide/assets/photo/32009411-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000510.mp3
+White_winged_Dove>White-winged Dove>Zenaida asiatica>https://www.allaboutbirds.org/guide/assets/photo/39454621-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000511.mp3
+White_winged_Scoter>White-winged Scoter>Melanitta fusca>https://www.allaboutbirds.org/guide/assets/photo/31751751-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/32239891/audio
+Wild_Turkey>Wild Turkey>Meleagris gallopavo>https://www.allaboutbirds.org/guide/assets/photo/25003991-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001182.mp3
+Willet>Willet>Tringa semipalmata>https://www.allaboutbirds.org/guide/assets/photo/39439911-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000514.mp3
+Williamsons_Sapsucker>Williamson's Sapsucker>Sphyrapicus thyroideus>https://www.allaboutbirds.org/guide/assets/photo/39462111-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0002520.mp3
+Willow_Flycatcher>Willow Flycatcher>Empidonax traillii>https://www.allaboutbirds.org/guide/assets/photo/39451261-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000516.mp3
+Willow_Ptarmigan>Willow Ptarmigan>Lagopus lagopus>https://www.allaboutbirds.org/guide/assets/photo/62209331-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000517.mp3
+Wilsons_Phalarope>Wilson's Phalarope>Phalaropus tricolor>https://www.allaboutbirds.org/guide/assets/photo/39427521-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000518.mp3
+Wilsons_Plover>Wilson's Plover>Charadrius wilsonia>https://www.allaboutbirds.org/guide/assets/photo/39419501-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/101852641/audio
+Wilsons_Snipe>Wilson's Snipe>Gallinago delicata>https://www.allaboutbirds.org/guide/assets/photo/39418241-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000519.mp3
+Wilsons_Warbler>Wilson's Warbler>Cardellina pusilla>https://www.allaboutbirds.org/guide/assets/photo/39453651-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000522.mp3
+Winter_Wren>Winter Wren>Troglodytes hiemalis>https://www.allaboutbirds.org/guide/assets/photo/31919251-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001186.mp3
+Wood_Stork>Wood Stork>Mycteria americana>https://www.allaboutbirds.org/guide/assets/photo/39427931-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/470368301/audio
+Wood_Thrush>Wood Thrush>Hylocichla mustelina>https://www.allaboutbirds.org/guide/assets/photo/39414631-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000525.mp3
+Worm_eating_Warbler>Worm-eating Warbler>Helmitheros vermivorum>https://www.allaboutbirds.org/guide/assets/photo/39413661-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000527.mp3
+Wrentit>Wrentit>Chamaea fasciata>https://www.allaboutbirds.org/guide/assets/photo/169737281-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000528.mp3
+Yellow_bellied_Flycatcher>Yellow-bellied Flycatcher>Empidonax flaviventris>https://www.allaboutbirds.org/guide/assets/photo/39451251-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/341252601/audio
+Yellow_bellied_Sapsucker>Yellow-bellied Sapsucker>Sphyrapicus varius>https://www.allaboutbirds.org/guide/assets/photo/39441281-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000530.mp3
+Yellow_billed_Cuckoo>Yellow-billed Cuckoo>Coccyzus americanus>https://www.allaboutbirds.org/guide/assets/photo/39421541-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/29509601/audio
+Yellow_billed_Magpie>Yellow-billed Magpie>Pica nuttalli>https://www.allaboutbirds.org/guide/assets/photo/38832261-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/127606671/audio
+Yellow_breasted_Chat>Yellow-breasted Chat>Icteria virens>https://www.allaboutbirds.org/guide/assets/photo/39415191-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000531.mp3
+Yellow_crowned_Night_Heron>Yellow-crowned Night Heron>Nyctanassa violacea>https://www.allaboutbirds.org/guide/assets/photo/39430241-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/573915741/audio
+Yellow_eyed_Junco>Yellow-eyed Junco>Junco phaeonotus>https://www.allaboutbirds.org/guide/assets/photo/66619381-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000533.mp3
+Yellow_headed_Blackbird>Yellow-headed Blackbird>Xanthocephalus xanthocephalus>https://www.allaboutbirds.org/guide/assets/photo/39455641-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001644.mp3
+Yellow_rumped_Warbler>Yellow-rumped Warbler>Setophaga coronata>https://www.allaboutbirds.org/guide/assets/photo/39458601-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0001207.mp3
+Yellow_throated_Vireo>Yellow-throated Vireo>Vireo flavifrons>https://www.allaboutbirds.org/guide/assets/photo/39453381-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000645.mp3
+Yellow_throated_Warbler>Yellow-throated Warbler>Setophaga dominica>https://www.allaboutbirds.org/guide/assets/photo/108446011-1280px.jpg>https://cdn.download.ams.birds.cornell.edu/api/v1/asset/227620571/audio
+Yellow_Warbler>Yellow Warbler>Setophaga petechia>https://www.allaboutbirds.org/guide/assets/photo/39411181-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000529.mp3
+Zone_tailed_Hawk>Zone-tailed Hawk>Buteo albonotatus>https://www.allaboutbirds.org/guide/assets/photo/39403331-1280px.jpg>https://acousticatlas.org/acoustic-atlas/objects/aa0000646.mp3

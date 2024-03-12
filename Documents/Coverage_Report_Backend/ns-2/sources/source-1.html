@@ -1,0 +1,192 @@
+
+
+
+<!DOCTYPE html>
+<html id="htmlId">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=windows-1252"> 
+  <title>Coverage Report > Analytic</title>
+  <style type="text/css">
+    @import "../../css/coverage.css";
+    @import "../../css/idea.min.css";
+  </style>
+  <script type="text/javascript" src="../../js/highlight.min.js"></script>
+  <script type="text/javascript" src="../../js/highlightjs-line-numbers.min.js"></script>
+</head>
+
+<body>
+<div class="content">
+<div class="breadCrumbs">
+Current scope:     <a href="../../index.html">all classes</a>
+    <span class="separator">|</span>
+    <a href="../index.html">Tables.Analytics</a>
+</div>
+
+<h1>Coverage Summary for Class: Analytic (Tables.Analytics)</h1>
+
+<table class="coverageStats">
+
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">Analytic</td>
+<td class="coverageStat">
+  <span class="percent">
+    20%
+  </span>
+  <span class="absValue">
+    (2/10)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    38.5%
+  </span>
+  <span class="absValue">
+    (5/13)
+  </span>
+</td>
+</tr>
+  <tr>
+    <td class="name">Analytic$HibernateProxy$3Uzby5G4</td>
+  </tr>
+  <tr>
+    <td class="name">Analytic$HibernateProxy$QqE7b049</td>
+  </tr>
+  <tr>
+    <td class="name">Analytic$HibernateProxy$qQu2OQBn</td>
+  </tr>
+  <tr>
+    <td class="name">Analytic$HibernateProxy$TSy4Ggan</td>
+  </tr>
+<tr>
+  <td class="name"><strong>Total</strong></td>
+<td class="coverageStat">
+  <span class="percent">
+    20%
+  </span>
+  <span class="absValue">
+    (2/10)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    38.5%
+  </span>
+  <span class="absValue">
+    (5/13)
+  </span>
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+
+<pre>
+<code class="sourceCode" id="sourceCode">&nbsp;package Tables.Analytics;
+&nbsp;
+&nbsp;import com.fasterxml.jackson.annotation.JsonIgnore;
+&nbsp;import Tables.Users.User;
+&nbsp;import io.swagger.annotations.ApiModelProperty;
+&nbsp;
+&nbsp;import javax.persistence.*;
+&nbsp;
+&nbsp;@Entity
+&nbsp;public class Analytic {
+&nbsp;
+&nbsp;    @Id
+&nbsp;    @GeneratedValue(strategy = GenerationType.IDENTITY)
+&nbsp;    private int id;
+&nbsp;
+&nbsp;    @ApiModelProperty(notes = &quot;Date of the Analytic&quot;,name=&quot;date&quot;,required=true,value=&quot;10/31/2023&quot;)
+&nbsp;    private String date ;
+&nbsp;    @ApiModelProperty(notes=&quot;Number of Birds Classified on Date&quot;,name=&quot;birdsClassifiedOnDate&quot;,required = true,value=&quot;30&quot;)
+&nbsp;    private int birdsClassifiedOnDate;
+&nbsp;    @ApiModelProperty(notes=&quot;Total Number of Birds Classified Ever&quot;,name = &quot;totalBirdsClassified&quot;,required = true,value = &quot;480&quot;)
+&nbsp;    private int totalBirdsClassified;
+&nbsp;
+&nbsp;
+&nbsp;//    @OneToOne(cascade = CascadeType.ALL)
+&nbsp;//    @JoinColumn(name = &quot;user_id&quot;)
+&nbsp;//    private User user;
+&nbsp;
+<b class="fc">&nbsp;    public Analytic( String date, int birdsClassifiedOnDate, int totalBirdsClassified ) {</b>
+<b class="fc">&nbsp;        this.date = date;</b>
+<b class="fc">&nbsp;        this.birdsClassifiedOnDate = birdsClassifiedOnDate;</b>
+<b class="fc">&nbsp;        this.totalBirdsClassified = totalBirdsClassified;</b>
+&nbsp;    }
+&nbsp;
+<b class="fc">&nbsp;    public Analytic() {</b>
+&nbsp;
+&nbsp;    }
+&nbsp;
+&nbsp;    public int getId(){
+<b class="nc">&nbsp;        return id;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    public void setId(int id){
+<b class="nc">&nbsp;        this.id = id;</b>
+&nbsp;    }
+&nbsp;    public String getDate() {
+<b class="nc">&nbsp;        return date;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    public void setDate(String date) {
+<b class="nc">&nbsp;        this.date = date;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    public int getBirdsClassifiedOnDate() {
+<b class="nc">&nbsp;        return birdsClassifiedOnDate;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    public void setBirdsClassifiedOnDate(int birdsClassifiedOnDate) {
+<b class="nc">&nbsp;        this.birdsClassifiedOnDate = birdsClassifiedOnDate;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    public int getTotalBirdsClassified() {
+<b class="nc">&nbsp;        return totalBirdsClassified;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    public void setTotalBirdsClassified(int totalBirdsClassified) {
+<b class="nc">&nbsp;        this.totalBirdsClassified = totalBirdsClassified;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;}
+</code>
+</pre>
+</div>
+
+<script type="text/javascript">
+(function() {
+    var msie = false, msie9 = false;
+    /*@cc_on
+      msie = true;
+      @if (@_jscript_version >= 9)
+        msie9 = true;
+      @end
+    @*/
+
+    if (!msie || msie && msie9) {
+      hljs.highlightAll()
+      hljs.initLineNumbersOnLoad();
+    }
+})();
+</script>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2023-12-06 14:07</div>
+</div>
+</body>
+</html>

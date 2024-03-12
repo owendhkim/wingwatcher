@@ -1,0 +1,247 @@
+
+
+
+<!DOCTYPE html>
+<html id="htmlId">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=windows-1252"> 
+  <title>Coverage Report > BirdInfoController</title>
+  <style type="text/css">
+    @import "../../css/coverage.css";
+    @import "../../css/idea.min.css";
+  </style>
+  <script type="text/javascript" src="../../js/highlight.min.js"></script>
+  <script type="text/javascript" src="../../js/highlightjs-line-numbers.min.js"></script>
+</head>
+
+<body>
+<div class="content">
+<div class="breadCrumbs">
+Current scope:     <a href="../../index.html">all classes</a>
+    <span class="separator">|</span>
+    <a href="../index.html">Tables.BirdInfo</a>
+</div>
+
+<h1>Coverage Summary for Class: BirdInfoController (Tables.BirdInfo)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">BirdInfoController</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (8/8)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    87.9%
+  </span>
+  <span class="absValue">
+    (29/33)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<pre>
+<code class="sourceCode" id="sourceCode">&nbsp;package Tables.BirdInfo;
+&nbsp;
+&nbsp;import java.util.List;
+&nbsp;
+&nbsp;import Tables.BirdTrackingInfo.BirdTrackingInfo;
+&nbsp;import Tables.BirdTrackingInfo.BirdTrackingInfoRepository;
+&nbsp;import Tables.Users.User;
+&nbsp;import org.springframework.beans.factory.annotation.Autowired;
+&nbsp;import org.springframework.web.bind.annotation.DeleteMapping;
+&nbsp;import org.springframework.web.bind.annotation.GetMapping;
+&nbsp;import org.springframework.web.bind.annotation.PathVariable;
+&nbsp;import org.springframework.web.bind.annotation.PostMapping;
+&nbsp;import org.springframework.web.bind.annotation.PutMapping;
+&nbsp;import org.springframework.web.bind.annotation.RequestBody;
+&nbsp;import org.springframework.web.bind.annotation.RestController;
+&nbsp;import io.swagger.annotations.Api;
+&nbsp;import io.swagger.annotations.ApiOperation;
+&nbsp;import io.swagger.annotations.ApiResponse;
+&nbsp;import io.swagger.annotations.ApiResponses;
+&nbsp;
+&nbsp;/**
+&nbsp; * @author Brian Xicon
+&nbsp; */
+&nbsp;@Api(value = &quot;BirdInfoController&quot;, description = &quot;REST APIs related to BirdInfo entity&quot;)
+&nbsp;@RestController
+<b class="fc">&nbsp;public class BirdInfoController {</b>
+&nbsp;
+&nbsp;    @Autowired
+&nbsp;    BirdInfoRepository birdInfoRepository;
+&nbsp;
+&nbsp;    @Autowired
+&nbsp;    BirdTrackingInfoRepository birdTrackingInfoRepository;
+&nbsp;
+<b class="fc">&nbsp;    private String success = &quot;{\&quot;message\&quot;:\&quot;success\&quot;}&quot;;</b>
+<b class="fc">&nbsp;    private String failure = &quot;{\&quot;message\&quot;:\&quot;failure\&quot;}&quot;;</b>
+&nbsp;
+&nbsp;    @ApiOperation(value = &quot;Get all list of birdInfos&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @GetMapping(path = &quot;/birdInfo&quot;)
+&nbsp;    List&lt;BirdInfo&gt; getAllBirdInfo() {
+<b class="fc">&nbsp;        return birdInfoRepository.findAll();</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    @ApiOperation(value = &quot;Get specific birdInfo by id&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @GetMapping(path = &quot;/birdInfo/{id}&quot;)
+&nbsp;    BirdInfo getBirdInfoByID(@PathVariable int id) {
+<b class="fc">&nbsp;        return birdInfoRepository.findById(id);</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    @ApiOperation(value = &quot;Create new birdInfo&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @PostMapping(path = &quot;/birdInfo&quot;)
+&nbsp;    String createBirdInfo(@RequestBody BirdInfo birdInfo) {
+<b class="fc">&nbsp;        if (birdInfo == null)</b>
+<b class="nc">&nbsp;            return failure;</b>
+<b class="fc">&nbsp;        birdInfoRepository.save(birdInfo);</b>
+<b class="fc">&nbsp;        return birdInfo.getId() + &quot;&quot;;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    @ApiOperation(value = &quot;Update specific birdInfo by id&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @PutMapping(path = &quot;/birdInfo/{id}&quot;)
+&nbsp;    BirdInfo updateBirdInfo(@PathVariable int id, @RequestBody BirdInfo request) {
+<b class="fc">&nbsp;        BirdInfo birdInfo = birdInfoRepository.findById(id);</b>
+<b class="fc">&nbsp;        if (birdInfo == null)</b>
+<b class="nc">&nbsp;            return null;</b>
+<b class="fc">&nbsp;        birdInfo.setScientificName(request.getScientificName());</b>
+<b class="fc">&nbsp;        birdInfo.setName(request.getName());</b>
+<b class="fc">&nbsp;        birdInfo.setShortDesc(request.getShortDesc());</b>
+<b class="fc">&nbsp;        birdInfo.setImage(request.getImage());</b>
+<b class="fc">&nbsp;        birdInfo.setRangeMap(request.getRangeMap());</b>
+<b class="fc">&nbsp;        birdInfo.setCallSound(request.getCallSound());</b>
+<b class="fc">&nbsp;        birdInfoRepository.save(birdInfo);</b>
+<b class="fc">&nbsp;        return birdInfoRepository.findById(id);</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    @ApiOperation(value = &quot;Delete specific birdInfo by id&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @DeleteMapping(path = &quot;/birdInfo/{id}&quot;)
+&nbsp;    String deleteBirdInfo(@PathVariable int id) {
+<b class="fc">&nbsp;        birdInfoRepository.deleteById(id);</b>
+<b class="fc">&nbsp;        return success;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;
+&nbsp;    //Assign A BirdTrackingInfo Point to a Bird
+&nbsp;    @ApiOperation(value = &quot;Assign birdTrackingInfo to birdInfo&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @PutMapping(&quot;/birdInfo/{birdInfoId}/birdTrackingInfo/{birdTrackingInfoID}&quot;)
+&nbsp;    String assignBirdTrackingInfoToBird(@PathVariable int birdInfoId, @PathVariable int birdTrackingInfoID) {
+<b class="fc">&nbsp;        BirdInfo birdInfo = birdInfoRepository.findById(birdInfoId);</b>
+<b class="fc">&nbsp;        BirdTrackingInfo birdTrackingInfo = birdTrackingInfoRepository.findById(birdTrackingInfoID);</b>
+&nbsp;
+<b class="fc">&nbsp;        if (birdInfo == null || birdTrackingInfo == null)</b>
+<b class="nc">&nbsp;            return failure;</b>
+&nbsp;
+<b class="fc">&nbsp;        birdInfo.addBirdTrackingInfo(birdTrackingInfo);</b>
+<b class="fc">&nbsp;        birdInfoRepository.save(birdInfo);</b>
+&nbsp;
+<b class="fc">&nbsp;        return success;</b>
+&nbsp;    }
+&nbsp;
+&nbsp;    //Get A Bird&#39;s BirdTrackingInfo
+&nbsp;    @ApiOperation(value = &quot;Get specific birdInfo&#39;s birdTrackingInfo&quot;, response = Iterable.class)
+&nbsp;    @ApiResponses(value = {
+&nbsp;            @ApiResponse(code = 200, message = &quot;Success!&quot;),
+&nbsp;            @ApiResponse(code = 401, message = &quot;not authorized, credentials does not match&quot;),
+&nbsp;            @ApiResponse(code = 403, message = &quot;forbidden, no privilege granted&quot;),
+&nbsp;            @ApiResponse(code = 404, message = &quot;not found!!!&quot;) })
+&nbsp;    @GetMapping(&quot;/birdInfo/{birdInfoId}/birdTrackingInfo&quot;)
+&nbsp;    List&lt;BirdTrackingInfo&gt; getBirdInfoBirdTrackingInfo(@PathVariable int birdInfoId) {
+<b class="fc">&nbsp;        BirdInfo birdInfo = birdInfoRepository.findById(birdInfoId);</b>
+<b class="fc">&nbsp;        if (birdInfo == null)</b>
+<b class="nc">&nbsp;            return null;</b>
+&nbsp;
+<b class="fc">&nbsp;        return birdInfo.getBirdTrackingInfo();</b>
+&nbsp;    }
+&nbsp;}
+</code>
+</pre>
+</div>
+
+<script type="text/javascript">
+(function() {
+    var msie = false, msie9 = false;
+    /*@cc_on
+      msie = true;
+      @if (@_jscript_version >= 9)
+        msie9 = true;
+      @end
+    @*/
+
+    if (!msie || msie && msie9) {
+      hljs.highlightAll()
+      hljs.initLineNumbersOnLoad();
+    }
+})();
+</script>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2023-12-06 14:07</div>
+</div>
+</body>
+</html>

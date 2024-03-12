@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f748fd75-f9b1-4fda-b6d1-95b8802dc54c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/Analytics/Analytic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/Analytics/Analytic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/BirdInfo/BirdInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/BirdInfo/BirdInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/BirdInfo/BirdInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/BirdInfo/BirdInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/BirdTrackingInfo/BirdTrackingInfoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/BirdTrackingInfo/BirdTrackingInfoRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/Users/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/Users/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/Users/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/classes/Tables/Users/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/db-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/db-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/db-1.0.0.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/db-1.0.0.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Backend/309DB_Springboot/309DB_Springboot/data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../.." value="27-add-more-crud-commands" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+        &quot;associatedIndex&quot;: 5
+        }</component>
+  <component name="ProjectId" id="2WDbVUlxFwM580jtsrDSm6txKxm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/xmenz/Desktop/tutorials-unit3_1_websockets/tutorials-unit3_1_websockets"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xmenz\Desktop\MS317\ms_317\Backend\309DB_Springboot\309DB_Springboot\data\src\main\java\Tables" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xmenz\Desktop\MS317\ms_317\Backend\309DB_Springboot" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tables.BirdTrackingInfo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f748fd75-f9b1-4fda-b6d1-95b8802dc54c" name="Changes" comment="" />
+      <created>1696270121974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696270121974</updated>
+    </task>
+    <servers />
+  </component>
+</project>
