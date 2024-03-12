@@ -1,11 +1,12 @@
 # WingWatcher
 
 Software developement practices class project. Image recognition app for birds.
+Extracted backend part of the full project for portfolio and demonstration purposes.
+
 
 ## Description
 
-Extracted backend part of the full project for portfolio and demonstration purposes.
-
+●
 
 Designed and constructed RDBMS using hibernate and Springboot. [Project planning](https://github.com/owendhkim/wingwatcher/blob/main/Documents/ScreenSketches.pdf)
 
