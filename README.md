@@ -21,10 +21,14 @@ I first created a [JwtSerivice class](https://github.com/owendhkim/wingwatcher/b
 
 ## Main takeaways
 
-In this project, I learned how to work together as a team and develope productively.
+In this project, I learned how to work together as a team and develop productively in agile development practice.
+
+I was able to gain experience on making relational database tables, getting used to Springboot annotations and REST API syntax.
+
+As well as understanding Springboot Security API flowchart to implement Jwt token feature.
 
 
 ## Authors
 
-Owen Kim [LinkedIn](https://www.linkedin.com/in/owen-kim-657249169/)
-Brian Xicon [LinkedIn](https://www.linkedin.com/in/brian-xicon-b08202240/)
+[Owen Kim](https://www.linkedin.com/in/owen-kim-657249169/)
+[Brian Xicon](https://www.linkedin.com/in/brian-xicon-b08202240/)
