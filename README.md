@@ -23,7 +23,7 @@ I first created a [JwtSerivice class](https://github.com/owendhkim/wingwatcher/b
 
 In this project, I learned how to work together as a team and develop productively in agile development practice.
 
-I was able to gain experience on making relational database tables, getting used to Springboot annotations and REST API syntax.
+I was able to gain experience on making relational database tables, getting used to Springboot annotations and REST API guidelines.
 
 As well as understanding Springboot Security API flowchart to implement Jwt token feature.
 
